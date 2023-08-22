@@ -20,30 +20,30 @@ jobs:
     - name: Update
       run: |
         # cms.gohkh6.my.eu.org
-        rm -f live.txt && wget https://cms.gohkh6.my.eu.org/live.txt -O live.txt
+        rm -f ./txt/live.txt && wget https://cms.gohkh6.my.eu.org/live.txt -O ./txt/live.txt
         
         
         # 月光宝盒
-        rm -f bhzb.txt && wget https://gitcode.net/ygbh66/test/-/raw/master/bhzb.txt -O bhzb.txt
-        sed -i '/彩虹頻道/,$d' bhzb.txt
-        sed -i '/^\s*$/d' bhzb.txt
+        rm -f ./txt/bhzb.txt && wget https://gitcode.net/ygbh66/test/-/raw/master/bhzb.txt -O ./txt/bhzb.txt
+        sed -i '/彩虹頻道/,$d' ./txt/bhzb.txt
+        sed -i '/^\s*$/d' ./txt/bhzb.txt
         
         
         # tw
-        rm -f tw.txt && wget https://gohhh1234.github.io/iptv/twtw.txt -O tw.txt
-        sed -i '1i\弯弯,#genre#' tw.txt
+        rm -f ./txt/tw.txt && wget https://gohhh1234.github.io/iptv/twtw.txt -O ./txt/tw.txt
+        sed -i '1i\弯弯,#genre#' ./txt/tw.txt
 
         # tw
-        rm -f tvlive.txt && wget http://home.jundie.top:81/ray/tvlive.txt -O tvlive.txt
+        rm -f ./txt/tvlive.txt && wget http://home.jundie.top:81/ray/tvlive.txt -O ./txt/tvlive.txt
         
 
          # 整合源
-        rm -f IPTV.txt && touch IPTV.txt
-        cat live.txt >> IPTV.txt
-        cat tw.txt >> IPTV.txt
-        cat bhzb.txt >> IPTV.txt
-        cat tvlive.txt >> IPTV.txt
-        sed -i '/^\s*$/d' IPTV.txt
+        rm -f LIVE-TV.txt && touch LIVE-TV.txt
+        cat ./txt/live.txt >> LIVE-TV.txt
+        cat ./txt/tw.txt >> LIVE-TV.txt
+        cat ./txt/bhzb.txt >> LIVE-TV.txt
+        cat ./txt/tvlive.txt >> LIVE-TV.txt
+        sed -i '/^\s*$/d' LIVE-TV.txt
        
     
     - name: Clean
@@ -54,4 +54,4 @@ jobs:
         git commit -a -m "${{ steps.date.outputs.date }}"
 
     - name: Push
-      run: git push origin master
+      run: git push origin main
