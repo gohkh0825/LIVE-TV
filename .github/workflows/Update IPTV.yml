@@ -20,18 +20,18 @@ jobs:
       run: |       
         # FreeviewMY
         rm -f ./m3u/FreeviewMY.m3u8 && wget https://raw.githubusercontent.com/itszairi/FreeviewMY/main/FreeviewMY.m3u8 -O ./m3u/FreeviewMY.m3u8
-        sed -i '/#EXTM3U/d' FreeviewMY.m3u8
-        sed -i '/^\s*$/d' FreeviewMY.m3u8
+        sed -i '/#EXTM3U/d' ./m3u/FreeviewMY.m3u8
+        sed -i '/^\s*$/d' ./m3u/FreeviewMY.m3u8
         # mewatchsg
         rm -f ./m3u/mewatchsg.m3u8 && wget https://raw.githubusercontent.com/samleong123/mewatchsg/main/mewatchsg_drm_wv_url.m3u8 -O ./m3u/mewatchsg.m3u8
-        sed -i '/#EXTM3U/d' mewatchsg.m3u8
-        sed -i '/^\s*$/d' mewatchsg.m3u8
+        sed -i '/#EXTM3U/d' ./m3u/mewatchsg.m3u8
+        sed -i '/^\s*$/d' ./m3u/mewatchsg.m3u8
         # my
         rm -f ./m3u/my.m3u && wget https://live02.gohkh9.eu.org/m3u/my.m3u -O ./m3u/my.m3u
         # tw
         rm -f ./m3u/tw.m3u && wget https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u -O ./m3u/tw.m3u
-        sed -i 's/#EXTINF:-1/#EXTINF:-1 group-title="TW"/g' tw.m3u
-        sed -i '/^\s*$/d' tw.m3u
+        sed -i 's/#EXTINF:-1/#EXTINF:-1 group-title="TW"/g' ./m3u/tw.m3u
+        sed -i '/^\s*$/d' ./m3u/tw.m3u
         # cn
         rm -f ./m3u/cqyx.m3u && wget https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u -O ./m3u/cqyx.m3u
         rm -f ./m3u/sxg.m3u && wget https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u -O ./m3u/sxg.m3u
