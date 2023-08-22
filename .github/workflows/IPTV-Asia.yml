@@ -1,8 +1,8 @@
 name: IPTV-Asia
 
 on:
-  schedule:
-    - cron: 0 9,15,22 * * ? 
+#  schedule:
+#    - cron: 0 9,15,22 * * ? 
   push:
     branches:
       - main
