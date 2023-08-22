@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://gohhh1234.github.io/iptv/EPG.xml,https://gohhh1234.github.io/iptv/EPG-1.xml,https://gohhh1234.github.io/iptv/EPG-2.xml,https://gohhh1234.github.io/iptv/EPG-3.xml"
+#EXTM3U x-tvg-url="https://live-tv.gohkh7.eu.org/EPG/EPG.xml,https://live-tv.gohkh7.eu.org/EPG/EPG-1.xml,https://live-tv.gohkh7.eu.org/EPG/EPG-2.xml,https://live-tv.gohkh7.eu.org/EPG/EPG-3.xml"
 #EXTM3U
 #EXTINF:-1 tvg-chno="101" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTM1.png" group-title="马来西亚",RTM TV 1
 https://live01.gohkh9.eu.org/live.php?id=TV1
