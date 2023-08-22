@@ -61,7 +61,7 @@ jobs:
          cat ./m3u/tw.m3u >> LIVE-TV.m3u
          cat ./m3u/iptv-org.m3u >> LIVE-TV.m3u
          cat ./m3u/Goott.m3u >> LIVE-TV.m3u
-         sed -i '1i #EXTM3U x-tvg-url="https://gohhh1234.github.io/iptv/EPG.xml,https://gohhh1234.github.io/iptv/EPG-1.xml,https://gohhh1234.github.io/iptv/EPG-2.xml,https://gohhh1234.github.io/iptv/EPG-3.xml"' LIVE-TV.m3u
+         sed -i '1i #EXTM3U x-tvg-url="https://live-tv.gohkh7.eu.org/EPG/EPG.xml,https://live-tv.gohkh7.eu.org/EPG/EPG-1.xml,https://live-tv.gohkh7.eu.org/EPG/EPG-2.xml,https://live-tv.gohkh7.eu.org/EPG/EPG-3.xml"' LIVE-TV.m3u
     
     - name: EPG
       run: |        
