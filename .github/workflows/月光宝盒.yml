@@ -1,0 +1,36 @@
+name: 月光宝盒月光宝盒
+
+on:
+  schedule:
+    - cron: 0 0,4,8,12,16,20 * * ?
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  work:
+    runs-on: ubuntu-latest
+
+    steps:
+     - name: Checkout
+       uses: actions/checkout@v3
+
+     - name: GetTime
+       id: date
+       run: echo "::set-output name=date::$(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')"
+
+     - name: Download
+       run: | 
+          rm -f 月光宝盒.txt && wget http://52bsj.vip:81/api/v3/file/get/79119/ZB.txt?sign=iChDXDC7WJRTp7yWAyVdbY3si5sJ5eFwEgaR35YQGSo%3D%3A0 -O 月光宝盒.txt
+          sed -i '/^\s*$/d' 月光宝盒.txt
+          # 更新时间
+          sed -i "/月光宝盒.txt/c\\// update time: $(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')" ./月光宝盒.txt
+
+     - name: Commit And Push
+       run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add --all
+          git commit -a -m "${{ steps.date.outputs.date }}"
+          git push origin master
