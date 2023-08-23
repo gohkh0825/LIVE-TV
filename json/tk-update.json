@@ -3,10 +3,10 @@
   "Msg": "更新出错，请到官方主页重新下载程序",
   "UpdateStatus": 1,
   "VersionCode": 20230823,
-  "VersionName": "3.5.20230731.0010",
-  "UploadTime": "2023-07-31 00:10:00",
+  "VersionName": "3.5.20230823.2230",
+  "UploadTime": "2023-08-23 22:30",
   "ModifyContent": "\r\n1、更新json地址\n2、安卓9及以下支持TLSv1.3，部分站点只开启了TLSv1.3",
-  "DownloadUrl": "https://cms.gohkh6.my.eu.org/Lanzou/?url=https://gohkh.lanzoul.com/i0PUG13xcwkh&type=down&pwd=ef9n",
+  "DownloadUrl": "https://cms.gohkh6.my.eu.org/Lanzou/lanzouyunapi.php?data=in2U6168c32d&redirect=1&pw=3124",
   "ApkSize": 29087,
   "ApkMd5": "4174dc90c51d5d7072e5f10c9a05eab8"
 }
