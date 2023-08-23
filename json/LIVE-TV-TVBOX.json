@@ -17,7 +17,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=https://gohhh1234.github.io/iptv/IPTV.txt"
+            "proxy://do=live&type=txt&ext=https://live-tv-5b8.pages.dev/LIVE-TV.txt"
           ]
         }
       ]
