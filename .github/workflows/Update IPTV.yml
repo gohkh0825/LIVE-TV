@@ -16,22 +16,27 @@ jobs:
       id: date
       run: echo "::set-output name=date::$(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')"
 
-    - name: IPTV
+    - name: 直播源
       run: |       
         # FreeviewMY
         rm -f ./m3u/FreeviewMY.m3u8 && wget https://raw.githubusercontent.com/itszairi/FreeviewMY/main/FreeviewMY.m3u8 -O ./m3u/FreeviewMY.m3u8
         sed -i '/#EXTM3U/d' ./m3u/FreeviewMY.m3u8
         sed -i '/^\s*$/d' ./m3u/FreeviewMY.m3u8
+        
         # mewatchsg
         rm -f ./m3u/mewatchsg.m3u8 && wget https://raw.githubusercontent.com/samleong123/mewatchsg/main/mewatchsg_drm_wv_url.m3u8 -O ./m3u/mewatchsg.m3u8
         sed -i '/#EXTM3U/d' ./m3u/mewatchsg.m3u8
         sed -i '/^\s*$/d' ./m3u/mewatchsg.m3u8
+        
         # my
         rm -f ./m3u/my.m3u && wget https://live02.gohkh9.eu.org/m3u/my.m3u -O ./m3u/my.m3u
+        sed -i '/#EXTM3U/d' ./m3u/my.m3u
+        
         # tw
         rm -f ./m3u/tw.m3u && wget https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u -O ./m3u/tw.m3u
         sed -i 's/#EXTINF:-1/#EXTINF:-1 group-title="TW"/g' ./m3u/tw.m3u
         sed -i '/^\s*$/d' ./m3u/tw.m3u
+        
         # cn
         rm -f ./m3u/cqyx.m3u && wget https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u -O ./m3u/cqyx.m3u
         rm -f ./m3u/sxg.m3u && wget https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u -O ./m3u/sxg.m3u
@@ -44,26 +49,25 @@ jobs:
         cat ./m3u/sxg.m3u >> ./m3u/iptv-org.m3u
         cat ./m3u/bestv.m3u >> ./m3u/iptv-org.m3u
         sed -i '/^\s*$/d' ./m3u/iptv-org.m3u       
+        
         # astro
         rm -f ./m3u/Goott.m3u && wget https://raw.githubusercontent.com/haxiqdaxial/zaf-punya/main/Go%20ott -O ./m3u/Goott.m3u
         sed -e '1,10d' ./m3u/Goott.m3u
         sed -i '/^\s*$/d' ./m3u/Goott.m3u
-        
-             
-        
-        
-
-          # 整合源
-         rm -f LIVE-TV.m3u && touch LIVE-TV.m3u
-         cat ./m3u/my.m3u >> LIVE-TV.m3u
-         cat ./m3u/FreeviewMY.m3u8 >> LIVE-TV.m3u
-         cat ./m3u/mewatchsg.m3u8 >> LIVE-TV.m3u
-         cat ./m3u/tw.m3u >> LIVE-TV.m3u
-         cat ./m3u/iptv-org.m3u >> LIVE-TV.m3u
-         cat ./m3u/Goott.m3u >> LIVE-TV.m3u
-         sed -i '1i #EXTM3U x-tvg-url="https://live-tv.gohkh7.eu.org/EPG/EPG.xml,https://live-tv.gohkh7.eu.org/EPG/EPG-1.xml,https://live-tv.gohkh7.eu.org/EPG/EPG-2.xml,https://live-tv.gohkh7.eu.org/EPG/EPG-3.xml"' LIVE-TV.m3u
     
-    - name: EPG
+    - name: 整合源
+      run: |         
+          # 整合源
+          rm -f LIVE-TV.m3u && touch LIVE-TV.m3u
+          cat ./m3u/my.m3u >> LIVE-TV.m3u
+          cat ./m3u/FreeviewMY.m3u8 >> LIVE-TV.m3u
+          cat ./m3u/mewatchsg.m3u8 >> LIVE-TV.m3u
+          cat ./m3u/tw.m3u >> LIVE-TV.m3u
+          cat ./m3u/iptv-org.m3u >> LIVE-TV.m3u
+          cat ./m3u/Goott.m3u >> LIVE-TV.m3u
+          sed -i '1i #EXTM3U x-tvg-url="https://live-tv.gohkh7.eu.org/EPG/EPG.xml,https://live-tv.gohkh7.eu.org/EPG/EPG-1.xml,https://live-tv.gohkh7.eu.org/EPG/EPG-2.xml,https://live-tv.gohkh7.eu.org/EPG/EPG-3.xml"' LIVE-TV.m3u
+    
+    - name: 节目源
       run: |        
 
           # 节目源
