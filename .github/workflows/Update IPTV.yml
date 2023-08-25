@@ -41,13 +41,16 @@ jobs:
         rm -f ./m3u/cqyx.m3u && wget https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u -O ./m3u/cqyx.m3u
         rm -f ./m3u/sxg.m3u && wget https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u -O ./m3u/sxg.m3u
         rm -f ./m3u/bestv.m3u && wget https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u -O ./m3u/bestv.m3u
+        rm -f ./m3u/IPTV.m3u && wget https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u -O ./m3u/IPTV.m3u
         rm -f ./m3u/iptv-org.m3u
+        sed -i '/#EXTM3U/d' ./m3u/IPTV.m3u
         sed -i '/#EXTM3U/d' ./m3u/cqyx.m3u
         sed -i '/#EXTM3U/d' ./m3u/sxg.m3u
         sed -i '/#EXTM3U/d' ./m3u/bestv.m3u
         cat ./m3u/cqyx.m3u >> ./m3u/iptv-org.m3u
         cat ./m3u/sxg.m3u >> ./m3u/iptv-org.m3u
         cat ./m3u/bestv.m3u >> ./m3u/iptv-org.m3u
+        cat ./m3u/IPTV.m3u >> ./m3u/iptv-org.m3u
         sed -i '/^\s*$/d' ./m3u/iptv-org.m3u       
         
         # astro
