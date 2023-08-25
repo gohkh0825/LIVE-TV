@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1 tvg-chno="101" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTM1.png" group-title="马来西亚",RTM TV 1
 https://live01.gohkh9.eu.org/live.php?id=TV1
 #EXTINF:-1 tvg-chno="102" tvg-id="TV2" tvg-name="TV2" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main//channel-logos/RTM2.png" group-title="马来西亚",RTM TV 2
