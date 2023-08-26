@@ -1650,8 +1650,8 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sg-sg-sg.astro.com.my/&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" group-title="AOTG All;Bahasa Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png" ch-number="104",104 Astro Ria FHD
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
-#https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
-#https://linears-playback.astro.com.my/vsg/41jurYG1onRfmwJMn79ZqUAsP4m8M0ILT9nvSD2jkFhtA=lkMA/dash-wv/jitp-linearwm/1004/default_primary.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41jurYG1onRfmwJMn79ZqUAsP4m8M0ILT9nvSD2jkFhtA=lkMA/dash-wv/jitp-linearwm/1004/default_primary.mpd
 https://ktpremium.com:443/FTV6306/Aa1234/912833
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" group-title="AOTG All;Bahasa Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png" ch-number="104",104 Astro Ria HD (B)
 #EXTVLCOPT:http-user-agent=AMTVPlayer
@@ -1668,7 +1668,7 @@ https://ktpremium.com:443/FTV6306/Aa1234/912833
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sg-sg-sg.astro.com.my/&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" group-title="AOTG All;Bahasa Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png" ch-number="104",104 Astro Ria HD
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
-#https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
 https://ktpremium.com:443/FTV6306/Aa1234/912833
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1709,7 +1709,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sg-sg-sg.astro.com.my/&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="AOTG All;Bahasa Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Astro_Warna_HD.png" ch-number="107",107 Astro Warna FHD
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
-#https://linears-playback.astro.com.my/vsg/41orfM7v37kUn6TvosfksYUpGkPaEzL7XgXbkeSoMzS3w=lkNA/dash-wv/jitp-linearwm/2402/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41orfM7v37kUn6TvosfksYUpGkPaEzL7XgXbkeSoMzS3w=lkNA/dash-wv/jitp-linearwm/2402/default_primary.mpd
 http://odtv.uk:80/3028968008/9141808032/1100
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="AOTG All;Bahasa Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Astro_Warna_HD.png" ch-number="107",107 Astro Warna HD (B)
 #EXTVLCOPT:http-user-agent=AMTVPlayer
@@ -1731,7 +1731,7 @@ http://odtv.uk:80/3028968008/9141808032/1100
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sg-sg-sg.astro.com.my/&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="AOTG All;Bahasa Malaysia;Movies" group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" ch-number="108",108 Astro Citra FHD
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
-#https://linears-playback.astro.com.my/vsg/41orfM7v37kUn6TvosfksYUjjbTtOv8cuRb0E1qtZASgo=zlKa/dash-wv/jitp-dashisowm/2700/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41orfM7v37kUn6TvosfksYUjjbTtOv8cuRb0E1qtZASgo=zlKa/dash-wv/jitp-dashisowm/2700/default_primary.mpd
 https://ktpremium.com:443/FTV6306/Aa1234/25852
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="AOTG All;Bahasa Malaysia;Movies" group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" ch-number="108",108 Astro Citra HD (B)
 #EXTVLCOPT:http-user-agent=AMTVPlayer
@@ -1864,14 +1864,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"tUFjJhFKE+kGYqT7rzxTKw","kid":"ckmcatRMw32VqQdUIJEREA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="AstroVaanavil" tvg-name="Astro Vaanavil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Astro_Vaanavil_2020.png" group-title="AOTG All;Indian" ch-number="201",201 Astro Vaanavil FHD
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
-#https://linears-playback.astro.com.my/vsg/41VqzWv0mRmdP16iF87cgul0XSUE8tCo3hJTMEh6GNt-w=TkFD/dash-wv/jitp-linearwm/2309/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41VqzWv0mRmdP16iF87cgul0XSUE8tCo3hJTMEh6GNt-w=TkFD/dash-wv/jitp-linearwm/2309/default_primary.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"tUFjJhFKE+kGYqT7rzxTKw","kid":"ckmcatRMw32VqQdUIJEREA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="AstroVaanavil" tvg-name="Astro Vaanavil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Astro_Vaanavil_2020.png" group-title="AOTG All;Indian" ch-number="201",201 Astro Vaanavil HD
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
-#https://linears-playback.astro.com.my/vsg/41VqzWv0mRmdP16iF87cgul0XSUE8tCo3hJTMEh6GNt-w=TkFD/dash-wv/jitp-linearwm/2309/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41VqzWv0mRmdP16iF87cgul0XSUE8tCo3hJTMEh6GNt-w=TkFD/dash-wv/jitp-linearwm/2309/default_ott.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1997,14 +1997,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TxVBP35HZ7UMSOGbf5ovzA","kid":"90mrcfInmZv7CY9zNZqsEA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="AstroAEC" tvg-name="Astro AEC HD" tvg-logo="https://iili.io/1NBT5F.png" group-title="AOTG All;Chinese" ch-number="306",306 Astro AEC FHD
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
-#https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TxVBP35HZ7UMSOGbf5ovzA","kid":"90mrcfInmZv7CY9zNZqsEA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="AstroAEC" tvg-name="Astro AEC HD" tvg-logo="https://iili.io/1NBT5F.png" group-title="AOTG All;Chinese" ch-number="306",306 Astro AEC HD
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
-#https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2853,7 +2853,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sg-sg-sg.astro.com.my/&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="AstroArena2" tvg-name="Astro Arena 2 HD" group-title="AOTG All;Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" ch-number="802",802 Astro Arena 2 FHD 
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
-#https://inputstream.adaptive
+https://inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HuOyUiJ8XC7JN4yDPS4U/w","kid":"6tAzXWBAEiVyem1THpwnEA"}],"type":"temporary"}
@@ -2872,7 +2872,7 @@ https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4VG7gUaKhCbWqxKGDTFKow", "kid":"SZqPNoBksRzAkrewE9sHEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroArenaBola" tvg-name="Astro Arena Bola" group-title="AOTG All;Sports" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2023/feb/arenabola_logo.png" ch-number="803",803 Astro Arena Bola FHD
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/5098/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5098/default_primary.mpd
 http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/380001.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2880,7 +2880,7 @@ http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/380001.m3u8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4VG7gUaKhCbWqxKGDTFKow", "kid":"SZqPNoBksRzAkrewE9sHEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroArenaBola" tvg-name="Astro Arena Bola" group-title="AOTG All;Sports" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2023/feb/arenabola_logo.png" ch-number="803",803 Astro Arena Bola HD
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/5098/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5098/default_ott.mpd
 https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1601
@@ -3227,7 +3227,7 @@ https://aqfadtv.xyz/live/tv9/index.mpd
 #EXTINF:-1 tvg-name="unifisports 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848" group-title="Sports", Unifi Sports 1 FHD
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-name="unifisports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest?cb=20210712113109" group-title="Sports", Unifi Sports 2
-#https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 #EXTINF:-1 tvg-name="TVSUKAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Sports", RTM Sports FHD
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3393,7 +3393,7 @@ https://4streams.net/Movies/malay/TheRaidRedemption2011.mp4
 https://4streams.net/Movies/Horror/Qadrat2022.mp4
 #EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTQwMWFhYWMtZmE0OS00MmMxLWE3NzAtYjU1NzIyZjdmODNhXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_FMjpg_UX1000_.jpg", Luther: The Fallen Sun 2023
 #EXTVLCOPT:http-referrer=https://4streams.net/
-#https://4streams.net/Movies/Netflix/LutherTheFallenSun2023.mp4
+https://4streams.net/Movies/Netflix/LutherTheFallenSun2023.mp4
 https://vod.go-ott.workers.dev/0:/Eng/Luther_The_Fallen_Sun_2023_1080p_WEB_DL_DDP5_1_ATMOS_HDR10_HEVC.mp4
 #EXTINF:-1 type="movie" group-title="VOD BOLLYWOOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBkOTEzY2UtOGI3MC00MTg2LTlkMTUtMmNiZTMwNjI2MWQ2XkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_FMjpg_UX1000_.jpg", Vasantha Mullai 2023
 #EXTVLCOPT:http-referrer=https://4streams.net/
@@ -3470,13 +3470,13 @@ https://4streams.net/Movies/Malay/DuanNagoBogho2023.mp4
 #EXTVLCOPT:http-referrer=https://4streams.net/
 https://4streams.net/Movies/Malay/Mumun2022.mp4
 #EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTFjZGY0MTMtYmQ1ZC00MDM0LWJkMDEtODZlMzAzNGY4Y2FiXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_FMjpg_UX1000_.jpg", Qorin 2022
-#https://vod.go-ott.workers.dev/0:/MY/Qorin%202022.mp4
+https://vod.go-ott.workers.dev/0:/MY/Qorin%202022.mp4
 https://vod.go-ott.workers.dev/0:/Asia/Qorin.2022.1080p.INDONESIAN.NF.WEB-DL.MalaySub@bymovieclub.mp4
 #EXTINF:-1 type="movie" group-title="VOD KIDS" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/7/7a/Mechamato_Movie_Poster.jpg", Mechamato 2022
 https://vod.go-ott.workers.dev/0:/MY/Mechamato%20Movie%202022.mp4
 #EXTINF:-1 type="movie" group-title="VOD KIDS" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/7/7a/Mechamato_Movie_Poster.jpg", Mechamato 2022 (BACKUP)
 #EXTVLCOPT:http-referrer=https://4streams.net/
-#https://4streams.net/Movies/Kids/Mechamato2022.mp4
+https://4streams.net/Movies/Kids/Mechamato2022.mp4
 #EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjFhZjg1YzQtOGJkMy00Y2EyLWE5M2EtMzE0ZGNhOGI4N2ZkXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg", Seratus 2022
 #EXTVLCOPT:http-referrer=https://4streams.net/
 https://4streams.net/Movies/Malay/Seratus2022.mp4
@@ -3501,7 +3501,7 @@ https://onedrive.astradamy.com/api/raw/?path=/Movies/The.Batman.2022/The.Batman.
 #EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTliYjlkNDQtMjFlNS00NjgzLWFmMWEtYmM2Mzc2Zjg3ZjEyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",Shang-Chi and the Legend of the Ten Rings
 https://onedrive.astradamy.com/api?path=/Movies/Shang.Chi.and.the.Legend.of.the.Ten.Rings.2021.1080p.BrRip-ms.en-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
 #EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://imageio.forbes.com/specials-images/imageserve/63eae465aba57f2b15869b2d/Official-Dolby-Cinema-poster-for--Avatar--The-Way-of-Water-/960x0.jpg?format=jpg&width=960", Avatar The Way Of Water Sub Malay
-#https://vod.go-ott.workers.dev/0:/Eng/Avatar.The.Way.Of.Water.mkv
+https://vod.go-ott.workers.dev/0:/Eng/Avatar.The.Way.Of.Water.mkv
 https://vod.go-ott.workers.dev/0:/Eng/Avatar_The_Way_of_Water_2022_1080p_WEB_DL_MalaySub_bymovieclub.mp4
 #EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzBmZWE1YTEtMzQ1NC00MDJhLTgwZjItNGYyZjY0MWQ5YTllXkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_FMjpg_UX1000_.jpg", The Desperate Hour Sub Malay
 https://vod.go-ott.workers.dev/0:/Eng/The.Desperate.Hour.mkv
@@ -3558,7 +3558,7 @@ https://vod.go-ott.workers.dev/0:/Eng/Jungle.Cruise.2021.1080p.WEB-DL.mkv
 #EXTINF-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://irs.www.warnerbros.com/keyart-jpeg/movies/media/browser/godzilla_vs_kong_white_font_2000x3000.jpg" ,Godzilla vs Kong (2021) HD
 https://vod.go-ott.workers.dev/0:/Eng/Godzilla.vs.Kong.2021.1080p.BrRip.mp4
 #EXTINF-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://popcornusa.s3.amazonaws.com/movies/650/11634-23298-FastAndFjpg",Fast and Furious 9 (2021) MultiSub HD
-#https://vod.go-ott.workers.dev/0:/Eng/F9.The.Fast.Sage.2021.1080p.WEB-DL.mkv
+https://vod.go-ott.workers.dev/0:/Eng/F9.The.Fast.Sage.2021.1080p.WEB-DL.mkv
 #EXTINF-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGM3YzdlOWYtNjViZS00MTE2LWE1MWUtZmE2ZTcxZjcyMmU3XkEyXkFqcGdeQXVyODEyMTI1MjA@._V1_.jpg",The Suicide Squad (2021) MultiSub HD
 https://vod.go-ott.workers.dev/0:/Eng/The.Suicide.Squad.2021.1080p.WEB-DL.mkv
 #EXTINF-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/DontBreathe2OfficialPoster2021.png/220px-DontBreathe2OfficialPoster2021.png",Dont Breathe 2 (2021) MultiSub HD
@@ -3602,7 +3602,7 @@ https://vod.go-ott.workers.dev/0:/MY/BoBoiBoy.The.Movie.2016.1080p.NF.WEB-DL.x26
 #EXTINF:-1 type="movie" group-title="VOD KIDS" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IWMJC_IVP_LAND_672x378_2022816_18831.jpg",BoBoiBoy Movie 2 FHD 2019
 https://vod.go-ott.workers.dev/0:/MY/BoBoiBoy_Movie_2_With_New_Secret_Ending!_1012p_YTB_WEB_DL_AAC_x264.mp4
 #EXTINF:-1 type="movie" group-title="VOD KIDS" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JCAJO_IVP_LAND_672x378_2021928_222014.jpg",Ejen Ali The Movie FHD 2022
-#https://vod.go-ott.workers.dev/0:/MY/Ejen.Ali.The.Movie.1080p.AOTG.WEB-DL.H264.AAC-AstradaMY.mp4
+https://vod.go-ott.workers.dev/0:/MY/Ejen.Ali.The.Movie.1080p.AOTG.WEB-DL.H264.AAC-AstradaMY.mp4
 #EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDYwNjNhNmQtNzZlZC00YzVmLThhMzItNmJiYWJjMGFjODQwXkEyXkFqcGdeQXVyMjkyOTg5NjI@._V1_FMjpg_UX1000_.jpg",Mat Kilau FHD 2022
 https://vod.go-ott.workers.dev/0:/MY/Mat.Kilau.2022.NF.WEBDL.1080p.MSA.EAC3.H.264-AstradaMY.mkv
 #EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZkOGUwMzMtMTgyNS00YjFlLTg5NzYtZTE3Y2E5YTA5NWIyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_FMjpg_UX1000_.jpg",Black Adam FHD 2022
@@ -3618,9 +3618,9 @@ https://vod.go-ott.workers.dev/0:/MY/Saat.Hilang.Cintamu.2023.1080p.AAC.x264-KSO
 #EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY1YjUyYzMtMDU5My00NmQ3LThlM2YtMDFhMjgyZGEwMWIxXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_FMjpg_UX1000_.jpg",Sri Asih 2022
 https://vod.go-ott.workers.dev/0:/MY/Sri.Asih.2022.1080p.HS.WEB-DL.AAC2.0.H.265-NickiEX.mkv
 #EXTINF:-1 type="movie" group-title="VOD Avatar 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_FMjpg_UX1000_.jpg",Avatar: The Way of Water HD 2022 Part 1
-#https://vod.go-ott.workers.dev/0:/Eng/Avatar_:_The_Way_of_Water_2022_English_1080p_DS4K_WEBRip_iTunes_Part001.mkv
+https://vod.go-ott.workers.dev/0:/Eng/Avatar_:_The_Way_of_Water_2022_English_1080p_DS4K_WEBRip_iTunes_Part001.mkv
 #EXTINF:-1 type="movie" group-title="VOD Avatar 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_FMjpg_UX1000_.jpg",Avatar: The Way of Water HD 2022 Part 2
-#https://vod.go-ott.workers.dev/0:/Eng/Avatar_:_The_Way_of_Water_2022_English_1080p_DS4K_WEBRip_iTunes_Part002.mkv
+https://vod.go-ott.workers.dev/0:/Eng/Avatar_:_The_Way_of_Water_2022_English_1080p_DS4K_WEBRip_iTunes_Part002.mkv
 #EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDdkODg3YzctMGVmZS00ZDM5LWIzNTctZDRlMjA5Mjc4MGViXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",The Hunt for Red October 1990
 https://vod.go-ott.workers.dev/0:/Eng/The%20Hunt%20For%20Red%20October%201990%20720p.BluRay.mkv
 #EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY4MjJlNDgtYjQ3ZC00YjFmLWJkZGQtMjEzYWE2NGJiZGVjXkEyXkFqcGdeQXVyMTEzMjgxNzE0._V1_FMjpg_UX1000_.jpg",Coast Guard Malaysia: Ops Helang 2023
@@ -3660,7 +3660,7 @@ https://vod.go-ott.workers.dev/0:/Eng/The_Point_Men_2023_KOREAN_1080p_VIKI_WEB_D
 #EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzFkMGU5NTYtYzMyNC00NmI5LWE1ZmMtNzVlY2QzNjVkMmU1XkEyXkFqcGdeQXVyNjYzMzU4OTg@._V1_FMjpg_UX1000_.jpg",Significant Other 2022
 https://vod.go-ott.workers.dev/0:/Eng/Significant_Other_2022_1080p_AMZN_WEB_DL_MalaySub_bymovieclub.mp4
 #EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjcxOTJhZTEtMWFiYi00NTkwLTlkMzktZDQwMGQ0ZjM3YWU2XkEyXkFqcGdeQXVyMTAxNzQ1NzI@._V1_FMjpg_UX1000_.jpg",Operation Fortune: Ruse de guerre 2023
-#https://vod.go-ott.workers.dev/0:/Eng/Operation_Fortune_Ruse_de_Guerre_2023_1080p_WEB_DL_MalaySub_bymovieclub.mp4
+https://vod.go-ott.workers.dev/0:/Eng/Operation_Fortune_Ruse_de_Guerre_2023_1080p_WEB_DL_MalaySub_bymovieclub.mp4
 https://vod.go-ott.workers.dev/0:/Eng/Operation_Fortune_Ruse_de_guerre_2023_1080p_BluRay_MalaySub@bymovieclub.mp4
 #EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDI1ODIzZWItNjI4Yy00YWQwLTg4YWQtOGMxNWIxMGE5NmIyXkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_FMjpg_UX1000_.jpg",On a Wing and a Prayer 2022
 https://vod.go-ott.workers.dev/0:/Eng/On_a_Wing_and_a_Prayer_2023_1080p_AMZN_WEB_DL_MalaySub_bymovieclub.mp4
@@ -3678,10 +3678,10 @@ https://vod.go-ott.workers.dev/0:/Eng/The.Gray.Man.2022.MuxedSub.1080p.WEBDL.Atm
 https://vod.go-ott.workers.dev/0:/Eng/65.2023.1080p.WEB-DL.MalaySub@bymovieclub.mp4
 #EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzJlM2NmZTItOGQyYS00MmE2LTkwZGUtNDFkNmJmZjRjZjcxXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_FMjpg_UX1000_.jpg",Shazam! Fury of the Gods 2023
 https://vod.go-ott.workers.dev/0:/Eng/Shazam_Fury_of_the_Gods_2023_REPACK_1080p_WEB_DL_MalaySub@bymovieclub.mp4
-#https://vod.go-ott.workers.dev/0:/Eng/Shazam_Fury_of_the_Gods_2023_1080p_WEB_DL_MalaySub@bymovieclub.mp4
-#https://vod.go-ott.workers.dev/0:/Eng/Shazam.Fury.of.the.Gods.2023.1080p.WEB-DL.EngSub@bymovieclub.mp4
+https://vod.go-ott.workers.dev/0:/Eng/Shazam_Fury_of_the_Gods_2023_1080p_WEB_DL_MalaySub@bymovieclub.mp4
+https://vod.go-ott.workers.dev/0:/Eng/Shazam.Fury.of.the.Gods.2023.1080p.WEB-DL.EngSub@bymovieclub.mp4
 #EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjY0ZmZjNDUtN2VlYi00MmI5LThhMzAtZjcyOTQ1Nzg2NDQxXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_FMjpg_UX1000_.jpg",The Portable Door 2023
-#https://vod.go-ott.workers.dev/0:/Eng/The.Portable.Door.2023.1080p.WEB-DL.EngSub@bymovieclub.mp4
+https://vod.go-ott.workers.dev/0:/Eng/The.Portable.Door.2023.1080p.WEB-DL.EngSub@bymovieclub.mp4
 https://vod.go-ott.workers.dev/0:/Eng/The_Portable_Door_2023_1080p_WEB_DL_Malay_@ceritasarikatamelayu.mp4
 #EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2I1YWRlMmItZDlmNy00YTM4LThmMDQtM2IwMzE2ZmZjZTllXkEyXkFqcGdeQXVyMTE5OTM1MjU3._V1_FMjpg_UX1000_.jpg",Chupa 2023
 https://vod.go-ott.workers.dev/0:/Eng/Chupa.2023.1080p.NF.WEB-DL.MalaySub@bymovieclub.mp4
@@ -3695,9 +3695,9 @@ https://vod.go-ott.workers.dev/0:/Asia/KSO_Asura_The_City_Of_Madness_2016_720p_W
 https://vod.go-ott.workers.dev/0:/Eng/Astro.Boy.2009.1080p.WEB.DL.DDP5.1.x264-KSO.mp4
 #EXTINF:-1 type="movie" group-title="VOD THAI" tvg-logo="https://telegra.ph/file/16adc6b19bb1c4295c543.jpg",Hunger 2023
 https://vod.go-ott.workers.dev/0:/Asia/Hunger.2023.1080p.WEB.DL.DDP5.1.HDR10.HEVC.MultiSub-KSO.mp4
-#https://vod.go-ott.workers.dev/0:/Asia/Hunger.2023.THAI.1080p.NF.WEB-DL.MalaySub@bymovieclub.mp4
+https://vod.go-ott.workers.dev/0:/Asia/Hunger.2023.THAI.1080p.NF.WEB-DL.MalaySub@bymovieclub.mp4
 #EXTINF:-1 type="movie" group-title="VOD KIDS" tvg-logo="https://telegra.ph/file/7c5fd2625a6759c9145b0.jpg",Didi & Friends the Movie 2023
-#https://vod.go-ott.workers.dev/0:/MY/Didi%20&amp;%20Friends%20the%20Movie%20(2023).mp4
+https://vod.go-ott.workers.dev/0:/MY/Didi%20&amp;%20Friends%20the%20Movie%20(2023).mp4
 #EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://telegra.ph/file/e28942d80ad80920d44aa.jpg",Pontianak 100kg 2023
 https://vod.go-ott.workers.dev/0:/MY/Pontianak.100KG.720p.WEB.DL.AAC.x264-KSO.mp4
 #EXTINF:-1 type="movie" group-title="VOD ENGLISH" tvg-logo="https://telegra.ph/file/7b979ff2e4a41dd7d62d7.jpg",300: Rise of an Empire 2014
@@ -4986,7 +4986,7 @@ https://23733.live.streamtheworld.com/ASYIK_FMAAC.aac
 #EXTINF:-1 tvg-id="ZAYAN" tvg-name="ZAYAN" group-title="Astro Radio" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/292_144.png" ch-number="876",876 ZAYAN
 https://raw.githubusercontent.com/mssvpn/yt/main/Zayan.m3u8
 #EXTINF:-1 tvg-id="GOXUAN" tvg-name="GO XUAN" group-title="Astro Radio" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/293_144.png" ch-number="877",877 GO XUAN
-#https://ingest2.astro3.rastream.com/astro-goxuan
+https://ingest2.astro3.rastream.com/astro-goxuan
 https://raw.githubusercontent.com/mssvpn/yt/main/GoXuan.m3u8
 #EXTINF:-1 tvg-id="BuletinFM" tvg-name="Buletin FM" group-title="Astro Radio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BuletinFM2021.png" ch-number="722",722 Buletin FM
 https://mediaprima.rastream.com/mediaprima-koolfm
