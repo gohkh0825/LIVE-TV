@@ -29,7 +29,7 @@ jobs:
         sed -i '/^\s*$/d' ./m3u/mewatchsg.m3u8
         
         # my
-        rm -f ./m3u/my.m3u && wget https://github.com/weareblahs/freeview/blob/main/mytv_broadcasting.m3u8 -O ./m3u/my.m3u
+        rm -f ./m3u/my.m3u && wget https://raw.githubusercontent.com/weareblahs/freeview/main/mytv_broadcasting.m3u8 -O ./m3u/my.m3u
         sed -i '/#EXTM3U/d' ./m3u/my.m3u
         
         # tw
