@@ -20,7 +20,7 @@ jobs:
     - name: Update
       run: |
         # cms.gohkh6.my.eu.org
-        rm -f ./txt/live.txt && wget https://raw.githubusercontent.com/gohhh1234/LIVE-TV/main/.github/live.txt-O ./txt/live.txt
+        rm -f ./txt/live.txt && wget https://gohhh1234-live-tv.gohkh6.my.eu.org/.github/live.txt -O ./txt/live.txt
         
         
         # 月光宝盒
