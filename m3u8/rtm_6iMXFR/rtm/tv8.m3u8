@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXTVLCOPT:http-referrer=https://watch.tonton.com.my/#//live/8tv
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4596000
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8
