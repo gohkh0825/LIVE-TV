@@ -1,14 +1,13 @@
 马来西亚,#genre#
-TV1,https://live01.gohkh9.eu.org/live.php?id=TV1
-TV2,https://live01.gohkh9.eu.org/live.php?id=TV2
-TV3,https://live01.gohkh9.eu.org/live.php?id=TV3
-TV Okey,https://live01.gohkh9.eu.org/live.php?id=Okey
-BERITA RTM,https://live01.gohkh9.eu.org/live.php?id=BERITA
-DidikTVKPM,https://live01.gohkh9.eu.org/live.php?id=DidikTV
-TV6,https://live01.gohkh9.eu.org/live.php?id=TV6
-八度空间,https://live01.gohkh9.eu.org/live.php?id=tv8
-TV9,https://live01.gohkh9.eu.org/live.php?id=TV9
-GOSHOP,https://agsplayback01.astro.com.my/CH2/master_GOSHOP2_04.m3u8
-DEWAN RAKYAT,https://live01.gohkh9.eu.org/live.php?id=DEWAN RAKYAT
-SUKAN RTM,https://live01.gohkh9.eu.org/live.php?id=SUKAN RTM
-DEWAN NEGARA,https://live01.gohkh9.eu.org/live.php?id=DEWAN NEGARA
+TV1,https://gohhh1234-live-tv.gohkh6.my.eu.org/m3u8/rtm_6iMXFR/rtm/tv1.m3u8
+TV2,https://gohhh1234-live-tv.gohkh6.my.eu.org/m3u8/rtm_6iMXFR/rtm/tv2.m3u8
+TV3,https://gohhh1234-live-tv.gohkh6.my.eu.org/m3u8/tonton/TV3.m3u8
+TV Okey,https://gohhh1234-live-tv.gohkh6.my.eu.org/m3u8/rtm_6iMXFR/rtm/okey.m3u8
+BERITA RTM,https://gohhh1234-live-tv.gohkh6.my.eu.org/m3u8/rtm_6iMXFR/rtm/berita.m3u8
+DidikTVKPM,https://gohhh1234-live-tv.gohkh6.my.eu.org/m3u8/tonton/DidikTv.m3u8
+TV6,https://gohhh1234-live-tv.gohkh6.my.eu.org/m3u8/rtm_6iMXFR/rtm/tv6.m3u8
+八度空间,https://gohhh1234-live-tv.gohkh6.my.eu.org/m3u8/tonton/8TV.m3u8
+TV9,https://gohhh1234-live-tv.gohkh6.my.eu.org/m3u8/tonton/TV9.m3u8
+DEWAN RAKYAT,https://gohhh1234-live-tv.gohkh6.my.eu.org/m3u8/rtm_6iMXFR/rtm/rakyat.m3u8
+SUKAN RTM,https://gohhh1234-live-tv.gohkh6.my.eu.org/m3u8/rtm_6iMXFR/rtm/sukan.m3u8
+DEWAN NEGARA,https://gohhh1234-live-tv.gohkh6.my.eu.org/m3u8/rtm_6iMXFR/rtm/negara.m3u8
