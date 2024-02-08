@@ -1,6 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4596000
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=250000
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8
