@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 group-title="马来西亚",TV1
+https://gohhh1234-live-tv.gohkh6.my.eu.org/m3u8/rtm_6iMXFR/rtm/tv1.m3u8
+#EXTINF:-1 group-title="马来西亚",TV2
+https://gohhh1234-live-tv.gohkh6.my.eu.org/m3u8/rtm_6iMXFR/rtm/tv2.m3u8
+#EXTINF:-1 group-title="马来西亚",TV3
+https://gohhh1234-live-tv.gohkh6.my.eu.org/m3u8/tonton/TV3.m3u8
+#EXTINF:-1 group-title="马来西亚",TV Okey
+https://gohhh1234-live-tv.gohkh6.my.eu.org/m3u8/rtm_6iMXFR/rtm/okey.m3u8
+#EXTINF:-1 group-title="马来西亚",BERITA RTM
+https://gohhh1234-live-tv.gohkh6.my.eu.org/m3u8/rtm_6iMXFR/rtm/berita.m3u8
+#EXTINF:-1 group-title="马来西亚",DidikTVKPM
+https://gohhh1234-live-tv.gohkh6.my.eu.org/m3u8/tonton/DidikTv.m3u8
+#EXTINF:-1 group-title="马来西亚",TV6
+https://gohhh1234-live-tv.gohkh6.my.eu.org/m3u8/rtm_6iMXFR/rtm/tv6.m3u8
+#EXTINF:-1 group-title="马来西亚",八度空间
+https://gohhh1234-live-tv.gohkh6.my.eu.org/m3u8/tonton/8TV.m3u8
+#EXTINF:-1 group-title="马来西亚",TV9
+https://gohhh1234-live-tv.gohkh6.my.eu.org/m3u8/tonton/TV9.m3u8
+#EXTINF:-1 group-title="马来西亚",DEWAN RAKYAT
+https://gohhh1234-live-tv.gohkh6.my.eu.org/m3u8/rtm_6iMXFR/rtm/rakyat.m3u8
+#EXTINF:-1 group-title="马来西亚",SUKAN RTM
+https://gohhh1234-live-tv.gohkh6.my.eu.org/m3u8/rtm_6iMXFR/rtm/sukan.m3u8
+#EXTINF:-1 group-title="马来西亚",DEWAN NEGARA
+https://gohhh1234-live-tv.gohkh6.my.eu.org/m3u8/rtm_6iMXFR/rtm/negara.m3u8
