@@ -83,11 +83,11 @@ jobs:
           rm -f ./EPG/EPG-3.xml && wget https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml -O ./EPG/EPG-3.xml           
           rm -f ./EPG/EPG-4.xml && wget https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml -O ./EPG/EPG-4.xml 
           rm -f LIVE-TV.xml && touch LIVE-TV.xml
-           cat ./EPG/EPG.xml >> LIVE-TV.xml
-           cat ./EPG/EPG-1.xml >> LIVE-TV.xml
-           cat ./EPG/EPG-2.xml >> LIVE-TV.xml
-           cat ./EPG/EPG-3.xml >> LIVE-TV.xml
-           cat ./EPG/EPG-4.xml >> LIVE-TV.xml
+           cat ./EPG/EPG.xml >> ./EPG/LIVE-TV.xml
+           cat ./EPG/EPG-1.xml >> ./EPG/LIVE-TV.xml
+           cat ./EPG/EPG-2.xml >> ./EPG/LIVE-TV.xml
+           cat ./EPG/EPG-3.xml >> ./EPG/LIVE-TV.xml
+           cat ./EPG/EPG-4.xml >> ./EPG/LIVE-TV.xml
           echo "Auto Update LIVE-TV in ${{ steps.date.outputs.date }}" > README.md
           
        
