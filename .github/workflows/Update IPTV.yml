@@ -29,7 +29,7 @@ jobs:
         sed -i '/^\s*$/d' ./m3u/mewatchsg.m3u8
         
         # my
-        rm -f ./m3u/my.m3u && wget https://raw.githubusercontent.com/weareblahs/freeview/main/mytv_broadcasting.m3u8 -O ./m3u/my.m3u
+        rm -f ./m3u/my.m3u && wget https://gohhh1234-live-tv.gohkh6.my.eu.org/.github/tvlist.m3u -O ./m3u/my.m3u
         sed -i '/#EXTM3U/d' ./m3u/my.m3u
         
         # tw
@@ -47,13 +47,19 @@ jobs:
         sed -i '/#EXTM3U/d' ./m3u/cqyx.m3u
         sed -i '/#EXTM3U/d' ./m3u/sxg.m3u
         sed -i '/#EXTM3U/d' ./m3u/bestv.m3u
-        cat ./m3u/cqyx.m3u >> ./m3u/iptv-org.m3u
-        cat ./m3u/sxg.m3u >> ./m3u/iptv-org.m3u
-        cat ./m3u/bestv.m3u >> ./m3u/iptv-org.m3u
-        cat ./m3u/IPTV.m3u >> ./m3u/iptv-org.m3u
-        sed -i '/^\s*$/d' ./m3u/iptv-org.m3u       
-        
-    
+        cat ./m3u/cqyx.m3u >> ./m3u/cn.m3u
+        cat ./m3u/sxg.m3u >> ./m3u/cn.m3u
+        cat ./m3u/bestv.m3u >> ./m3u/cn.m3u
+        cat ./m3u/IPTV.m3u >> ./m3u/cn.m3u    
+
+        # cn IPV6
+         rm -f ./m3u/Meroser.m3u && wget https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u -O ./m3u/Meroser.m3u
+         sed -i '/#EXTM3U/d' ./m3u/Meroser.m3u
+         cat ./m3u/Meroser.m3u >> ./m3u/cn.m3u
+         sed -i '/^\s*$/d' ./m3u/cn.m3u 
+
+
+         
     - name: 整合源
       run: |         
           # 整合源
@@ -62,8 +68,9 @@ jobs:
            cat ./m3u/FreeviewMY.m3u8 >> LIVE-TV.m3u
            cat ./m3u/mewatchsg.m3u8 >> LIVE-TV.m3u
            cat ./m3u/tw.m3u >> LIVE-TV.m3u
-           cat ./m3u/iptv-org.m3u >> LIVE-TV.m3u
-           sed -i '1i #EXTM3U x-tvg-url="https://live-tv.gohkh7.eu.org/EPG/EPG.xml,https://live-tv.gohkh7.eu.org/EPG/EPG-1.xml,https://live-tv.gohkh7.eu.org/EPG/EPG-2.xml,https://live-tv.gohkh7.eu.org/EPG/EPG-3.xml"' LIVE-TV.m3u
+           cat ./m3u/cn.m3u >> LIVE-TV.m3u
+           
+           sed -i '1i #EXTM3U x-tvg-url="https://gohhh1234-live-tv.gohkh6.my.eu.org/EPG/LIVE-TV.xml"' LIVE-TV.m3u
 
           
     - name: 节目源
@@ -73,7 +80,14 @@ jobs:
           rm -f ./EPG/EPG.xml && wget https://cutt.ly/FreeviewMY-EPG-1 -O ./EPG/EPG.xml
           rm -f ./EPG/EPG-1.xml && wget https://cutt.ly/FreeviewMY-EPG-2 -O ./EPG/EPG-1.xml
           rm -f ./EPG/EPG-2.xml && wget https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml -O ./EPG/EPG-2.xml
-          rm -f ./EPG/EPG-3.xml && wget https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml -O ./EPG/EPG-3.xml
+          rm -f ./EPG/EPG-3.xml && wget https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml -O ./EPG/EPG-3.xml           
+          rm -f ./EPG/EPG-4.xml && wget https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml -O ./EPG/EPG-4.xml 
+          rm -f LIVE-TV.xml && touch LIVE-TV.xml
+           cat ./EPG/EPG.xml >> LIVE-TV.xml
+           cat ./EPG/EPG-1.xml >> LIVE-TV.xml
+           cat ./EPG/EPG-2.xml >> LIVE-TV.xml
+           cat ./EPG/EPG-3.xml >> LIVE-TV.xml
+           cat ./EPG/EPG-4.xml >> LIVE-TV.xml
           echo "Auto Update LIVE-TV in ${{ steps.date.outputs.date }}" > README.md
           
        
