@@ -121,6 +121,10 @@ Star Chinese Movies HD (星卫HD电影台) (720p),http://50.7.220.74:8278/xingwe
 立法院IVOD直播經濟委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/index.m3u8
 立法院IVOD直播財政委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live2/hls-cl-tv/index.m3u8
 立法院IVOD直播院會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8
+新版本更新,http://ygbh.cloudns.ch/1.mp4
+请于公众号[宝盒汇],http://ygbh.cloudns.ch/1.mp4
+回复关键字[3.0],,http://ygbh.cloudns.ch/1.mp4
+获取新版,http://ygbh.cloudns.ch/1.mp4
 综合,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 CCTV13新闻频道,rtmp://live-play.cctvnews.cctv.com/cctv/merge_cctv13
