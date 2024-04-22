@@ -84,11 +84,15 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/211/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OaJ6osyEoptmX8xNv5xUtg","kid":"FAa78hjKFPlnA0/PSr93EA"}],"type":"temporary"}
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/1114/default_primary.mpd
-#EXTINF:-1 tvg-chno="122" tvg-id="TV IKIM" tvg-name="TV IKIM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/TVIkim.png",TV Ikim
+#EXTINF:-1 tvg-chno="122" tvg-id="TVAlhijrah.my" tvg-name="TV Alhijrah" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/TVAlhijrah.png",TV Alhijrah
+#EXTGRP:Family/Kids
+#EXTVLCOPT:network-caching=1000
+https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_feb292e0f94c11edbc052354c95d3ff1/index.m3u8
+#EXTINF:-1 tvg-chno="123" tvg-id="TV IKIM" tvg-name="TV IKIM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/TVIkim.png",TV Ikim
 #EXTGRP:Family/Kids
 #EXTVLCOPT:network-caching=1000
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
-#EXTINF:-1 tvg-chno="123" tvg-id="TVS.my" tvg-name="TVS.my" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/TVS.png",TVS
+#EXTINF:-1 tvg-chno="124" tvg-id="TVS.my" tvg-name="TVS.my" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/TVS.png",TVS
 #EXTGRP:Family/Kids
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -96,11 +100,11 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vcyu6IazQN2QH0v43Z06ag", "kid":"w+lWs4rpk74UlMfPoXsREA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
-#EXTINF:-1 tvg-chno="124" tvg-id="SelangorTV.my" tvg-name="SelangorTV.my" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/SelangorTV.png",Selangor TV
+#EXTINF:-1 tvg-chno="125" tvg-id="SelangorTV.my" tvg-name="SelangorTV.my" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/SelangorTV.png",Selangor TV
 #EXTGRP:Variety
 #EXTVLCOPT:network-caching=1000
 https://live.mana2.my/SelangorTv/index.m3u8
-#EXTINF:-1 tvg-chno="125" tvg-id="SUKETV.my" tvg-name="SUKETV.my" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/SUKETV.png",SUKE TV
+#EXTINF:-1 tvg-chno="126" tvg-id="SUKETV.my" tvg-name="SUKETV.my" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/SUKETV.png",SUKE TV
 #EXTGRP:Variety
 #EXTVLCOPT:network-caching=1000
 https://live.mana2.my/SukeTv/index.m3u8
@@ -109,18 +113,10 @@ https://live.mana2.my/SukeTv/index.m3u8
 #EXTGRP:Movies
 #EXTVLCOPT:network-caching=1000
 http://crackle-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="203" tvg-id="FamilyFlix" tvg-name="FamilyFlix" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/FamilyFlix.png",Family Flix
-#EXTGRP:Movies
-#EXTVLCOPT:network-caching=1000
-https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-chno="204" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/FlicksOfFury.png",Flicks of Fury
 #EXTGRP:Movies
 #EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=112&deviceId=58e55b14ad8e9c364d55f717&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
-#EXTINF:-1 tvg-chno="205" tvg-id="Moviesphere" tvg-name="Moviesphere" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/Moviesphere.png", Moviesphere
-#EXTGRP:Movies
-#EXTVLCOPT:network-caching=1000
-https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="206" tvg-id="ParamountPlus.Picks" tvg-name="ParamountPlus.Picks" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/ParamountPlusPicks.png",Paramount+ Picks
 #EXTGRP:Movies
 #EXTVLCOPT:network-caching=1000
@@ -184,7 +180,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:-1 tvg-chno="602" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/TVRIWorld.png",TVRI World
 #EXTGRP:News/World
 #EXTVLCOPT:network-caching=1000
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8|Referer=https://klik.tvri.co.id/
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/index.m3u8|Referer=https://klik.tvri.co.id/
 #EXTINF:-1 tvg-chno="603" tvg-id="NHKWorldJapan" tvg-name="NHKWorldJapan" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/NHKWorldJapan.png",NHK World Japan
 #EXTGRP:News/World
 #EXTVLCOPT:network-caching=1000
