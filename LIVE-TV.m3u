@@ -39,7 +39,7 @@
 
 
   <script type="application/json" id="client-env">{"locale":"en","featureFlags":["code_vulnerability_scanning","copilot_chat_static_thread_suggestions","copilot_chat_dotcom_user_server_tokens","copilot_conversational_ux_history_refs","copilot_followup_to_agent","copilot_smell_icebreaker_ux","copilot_implicit_context","copilot_stop_response","failbot_handle_non_errors","geojson_azure_maps","marketing_forms_api_integration_contact_request","marketing_pages_search_explore_provider","turbo_experiment_risky","sample_network_conn_type","no_character_key_shortcuts_in_inputs","react_start_transition_for_navigations","custom_inp","remove_child_patch","kb_source_repos"]}</script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-a230b491362c.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-1825bf7a9424.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_dompurify_dist_purify_js-810e4b1b9abd.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_oddbird_popover-polyfill_dist_popover_js-4ac41d0a76fd.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_smoothscroll-polyfill_di-75db2e-e091a6d939e9.js"></script>
@@ -55,7 +55,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_primer_view-co-3959a9-acbc1d7bb525.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_onfocus_ts-ui_packages_trusted-types-policies_policy_ts-ui_packages-6fe316-d97d91568d25.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/github-elements-a7dc71cd6e4e.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/element-registry-4cc3a5461958.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/element-registry-cebd41dde8aa.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_catalyst_lib_index_js-node_modules_github_hydro-analytics-client_-4da1df-b779d50bdb3a.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_braintree_browser-detection_dist_browser-detection_js-node_modules_stack-68835d-59206c834a41.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_lit-html_lit-html_js-cc7cb714ead5.js"></script>
@@ -100,14 +100,14 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Button_LinkButton_js-node_modules_primer_react_lib--039852-fd29b8fce349.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_react-core_create-browser-history_ts-ui_packages_safe-storage_safe-storage_ts-ui_-682c2c-d91aaa72a6fc.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_react-core_register-app_ts-2b821810213c.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_paths_index_ts-732f320fc93b.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_paths_index_ts-ff418cbe4280.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_ref-selector_RefSelector_tsx-52da906e4fee.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_commit-attribution_index_ts-ui_packages_commit-checks-status_index_ts-ui_packages-f45efb-6e916c8dcaa1.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_code-view-shared_hooks_use-canonical-object_ts-ui_packages_code-view-shared_hooks-af4274-ec84d86a2bde.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_code-view-shared_components_files-search_FileResultsList_tsx-0d7fc8af4be4.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_code-view-shared_hooks_use-file-page-payload_ts-ui_packages_code-view-shared_util-337bac-9d3a5c01250f.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_repos-file-tree-view_repos-file-tree-view_ts-ui_packages_react-core_JsonRoute_tsx-de5e5348c6da.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-code-view-ae6e0fe51ddc.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-code-view-2ead703b745f.js"></script>
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/react-code-view.234ae39ff1fa1232236c.module.css" />
 
     <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-lib-a89cbd87a1e0.js"></script>
@@ -138,7 +138,7 @@
   <meta name="current-catalog-service-hash" content="f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb">
 
 
-  <meta name="request-id" content="EC41:16AADB:2012813:2C6030D:6685F50C" data-pjax-transient="true"/><meta name="html-safe-nonce" content="1d0dffd09fec523cbdee5435c50dc261dc6ac8f5aabec35b9af8f8e4511fc9ed" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJFQzQxOjE2QUFEQjoyMDEyODEzOjJDNjAzMEQ6NjY4NUY1MEMiLCJ2aXNpdG9yX2lkIjoiODAzNjg0NjY1NDAwOTUwNTAzNiIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="56eeae37669ff0a49c1d5b31dd9d24814a45850fbc49d0549ea975281b0e3e2f" data-pjax-transient="true"/>
+  <meta name="request-id" content="2809:DEA79:1528988:1E9034C:6686951B" data-pjax-transient="true"/><meta name="html-safe-nonce" content="e4eb7242a45cadd5810bc01cef1b44ce23ee9ed6c95e2eba94882d584b8f9782" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIyODA5OkRFQTc5OjE1Mjg5ODg6MUU5MDM0Qzo2Njg2OTUxQiIsInZpc2l0b3JfaWQiOiI1MzgzMzkyNTExMDk4NTI0OTU1IiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="48cb58f0753b581e0bff1dc8d89b3e554aa212ee5a6e39f736442a4aafc11d76" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:387785900" data-turbo-transient>
@@ -191,10 +191,10 @@
         <meta name="expected-hostname" content="github.com">
 
 
-  <meta http-equiv="x-pjax-version" content="42d7759970b7e7fc70cdd7a4d6aef360cc498a0a3bd51b06bab41e0892257154" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-version" content="109df2a3001991cf04a6536a644367d30ade27cc880bceeae06a15c029dd9557" data-turbo-track="reload">
   <meta http-equiv="x-pjax-csp-version" content="f6e41c3092c5e1167d95330a2a482f695598c31ad79963c59b07ab79dbfb87f7" data-turbo-track="reload">
   <meta http-equiv="x-pjax-css-version" content="597a55ac25fc4ca4d5fcba33bbd88f3b1fc47ace41e89daf394f76b0841d0979" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-js-version" content="8893f1d4404d0ea40ff2df51cb53ae0582c253c56333b175f5c7501f85f01c4e" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-js-version" content="f7d7ecad699bbb43f1d7549a66d1aa7b7cc72044403873c320b83d6315cb437b" data-turbo-track="reload">
 
   <meta name="turbo-cache-control" content="no-preview" data-turbo-transient="">
 
@@ -760,7 +760,7 @@
                 
 
 
-<qbsearch-input class="search-input" data-scope="repo:weareblahs/freeview" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="OvF2HmTmOxzh2g8dnBQdiW-YP4K8bW33B7CTAs1tCjuo0coS9vcdnnNAkZG1-x11XTFDd9hmvgV1H0lRNnEohQ" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="weareblahs/freeview" data-current-org="" data-current-owner="weareblahs" data-logged-in="false" data-copilot-chat-enabled="false" data-blackbird-indexed-repo-csrf="<esi:include src=&quot;/_esi/rails_csrf_token_form_hidden?r=StLhjr9vwB7tHB%2B%2FDwpNUKQzwBCkcUOV5lp%2FsU089iiYYs45OBl0wYTrNeg0qDA%2B2oLDAeyymLS5xr9vB7wkSh7q1xHAEEX%2FV0HX71ZlsZWgk2u9A4bPyhZlwHILjpzfv7wGF%2FJxB2HkSu8CNliKVE9AyIEhXEzmbkKGYU2JVYVxC4qBBNqcCR7hWGxRPYJyU6Q6ZMpCngyRYAXajXIL1aCUsNmbtJv7%2By1lrQzWe1hO48Dou2hgg2T2dPXbg85rFCdxuBZXQ%2BHIpMioRv2CqQyEokNyKEJunve9ksX5A8rZXvKS8CdcqTtfxg4UvmoOjLvAiYqgcAaR8I7V%2BBtrdUI4MPo27NLf2WnLVIsL55NG6pftN2No1nXpUDyzGXi5JJ%2Feu%2FLi0Qgd%2BKVnwEB9Kqe7lmskWIEKaUyOUSu2y81rmeKpLylZY%2FLj5iR7EGUzE8fLmZlzS03phjd7BYiY1dCU6hw%2BRT%2FI0O1XRKkC9aWHQMnrD%2BhV5c2Ht92KUzyCVYc5ZEBn6jM4bJA65sm9YYHikR8VbihzxMs5%2FsPaZgpY9VSJPo3G5AzeGJTvjuFnKVLlzgBHXtyQv%2FhxVW0%3D--LFaIktEG6dGXQgBH--nvyr4hAOTxqtj50zHkEDiA%3D%3D&quot; />">
+<qbsearch-input class="search-input" data-scope="repo:weareblahs/freeview" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="37TVo4F-YzMlsbS0jBhE6w_rLAkBmPq_0uR1H_wokLxgqc71hT8gRaT1BgR9Kqj4Duna4ZYbySZZlzlii3U58w" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="weareblahs/freeview" data-current-org="" data-current-owner="weareblahs" data-logged-in="false" data-copilot-chat-enabled="false" data-blackbird-indexed-repo-csrf="<esi:include src=&quot;/_esi/rails_csrf_token_form_hidden?r=9wd4Kkl7xgThQGqZuVsL%2FYPHQGzYtro%2Byxt1sNy6yhoqv%2Bk3B7gSHvlucVZiJQAs6ZePpINRZnjPeAF%2BUumlSqOB2nyjFwxKi6kW5jNVAXkBAEnRpypRW2sQOvRJ5Up8hKb%2BurFpqV3hQolqqDdcbLzKKqrQsDjDpNnpTm7lHFp0hxuhKoNnfbHi7ETiqL%2FJ2bcdVmaurgjuJI%2Bzef8NH8Y2BmVzHMkEUVuXZ%2FvtQuUFipQ4vrEeLI84Tvese8rZq9NrH%2FbQHtC3Af%2B4mhav%2FCqVnl48Q1QcCR07XPXLlnfifehTn%2BM%2FamlMALFhFWJF9T9udjy44KbQdOQBtVIdUMq0IPKEziuXZMpvA%2B9xYIWBTKdTYwJot7WuhGpOmqt94aYIiyPsVeZzmJADrG%2FSpJHCg3XLxOkn3PRtkuM2yCxb2zVTPkUiqmeBeUwhUYhet9OqujNqxG894phUXfi3zDW%2FxNSCN1nBVWKVFjoFToWkBG2i3ipQ%2FYV%2BqjG5Tkp0J7BZ7rryAhKNNHvyUCpX%2F5nreyoEDUxXeSdJ%2FL2eSQX%2FIGelob72I0vfQpq9PLPxaxbNR9PjWhGTBtdgkOM%3D--u%2Fpa8NyvuXpN%2BRX2--te4%2FzEG81EXbfH%2B%2BDZBXzA%3D%3D&quot; />">
   <div
     class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center mr-4 rounded"
     data-action="click:qbsearch-input#searchInputContainerClicked"
@@ -822,7 +822,7 @@
           ></div>
           <div class="QueryBuilder-InputWrapper">
             <div aria-hidden="true" class="QueryBuilder-Sizer" data-target="query-builder.sizer"></div>
-            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-ef49f82f-d224-48e9-9b05-39c80b09bbc7" data-target="query-builder.input" data-action="
+            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-204487f6-ad52-4450-ba09-849dbf79fb97" data-target="query-builder.input" data-action="
           input:query-builder#inputChange
           blur:query-builder#inputBlur
           keydown:query-builder#inputKeydown
@@ -1053,7 +1053,7 @@
                   id="query-builder-test-results"
                 ></ul>
         </div>
-      <div class="FormControl-inlineValidation" id="validation-ef49f82f-d224-48e9-9b05-39c80b09bbc7" hidden="hidden">
+      <div class="FormControl-inlineValidation" id="validation-204487f6-ad52-4450-ba09-849dbf79fb97" hidden="hidden">
         <span class="FormControl-inlineValidation--visual">
           <svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-alert-fill">
     <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
@@ -1096,7 +1096,7 @@
   
 </div>
       <scrollable-region data-labelled-by="feedback-dialog-title">
-        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="Psy1ZeImqBjDpty0CzpadHgi95ZqjAg5Kepu8hHMzS7lwsQAQkW2U9eaBENfN6gNOXIAqRKq3Z6nKPP0LNZQ/w==" />
+        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="Pbeq5X2TnVG9OQe4plfBfbzTyWOyjrcY7AhKxeAPakrboYLA8VsWeHf8k4V6Urphs91n2ob6zzC/zs557qlY+g==" />
           <p>We read every piece of feedback, and take your input very seriously.</p>
           <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
           <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
@@ -1134,7 +1134,7 @@
         <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
         <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="KU01DiZfRd0HzNr3hGX9tA55dtc53+zAroDZCMQOQ/CAjoKaDHPrMwH/0TyDGEavNEFlLKDYzGa2hdGea1fCfQ==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="xi5srDOWBflSFxiy7dDveN1SeIC7Bj5vq2ilWXqCGsGmZt6tsTe8Pg0DAffai1ChX0SjdabAPOJY835cHqSZEg==" />
           <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
           <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
@@ -1152,7 +1152,7 @@
                 placeholder="github-ruby"
                 required
                 maxlength="50">
-              <input type="hidden" data-csrf="true" value="oWyflD/gZu52hp/nbJAR++1OAZshhzB83BPzDLgeeUaxm56s28RNMtUYEIshaWuuy3pVi2l7ns/C2ma1rL6Jrw==" />
+              <input type="hidden" data-csrf="true" value="GQ3KRhsrsg6hTfCxgTOGBAz77HCWtTnkBM/UvhIlABtOgDk6OEhMRKRPsDoOZ1xXVQ54cgQVerNaAPtBzOzbyQ==" />
             </auto-check>
           </div>
 
@@ -1189,7 +1189,7 @@
 </dialog></dialog-helper>
     </custom-scopes>
   </div>
-</qbsearch-input><input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="OZhQFkpt2zfsgGfeA4TD40WZy6mAOjDBWwFcFC9jzOwa9iVGLTMHggT4gN5vgDW+B6uYCZoCkGoWCOkTOifvGw==" />
+</qbsearch-input><input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="vCG6V+SJPSX3iYssJ4P24a9k9YndHx0YRBAT0SjjR9vE1bRDgmrF9U0Fo1gKPzeLK+UwiVlhEXU43Y6qDb0ePg==" />
 
 
           <div class="position-relative mr-lg-3 d-lg-inline-block">
@@ -1223,10 +1223,10 @@
         <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
         <span class="js-stale-session-flash-switched" hidden>You switched accounts on another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 
-    <button id="icon-button-a66b0e2e-4da6-46d7-8a2d-c74e9f29cad9" aria-labelledby="tooltip-9eab98c7-574d-4e58-a70a-00d250ba81fb" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
+    <button id="icon-button-96c20e32-8c4b-49dc-9aac-36154dea244e" aria-labelledby="tooltip-c601e8cc-a591-4844-ba70-8ba1d11c0c3d" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</button><tool-tip id="tooltip-9eab98c7-574d-4e58-a70a-00d250ba81fb" for="icon-button-a66b0e2e-4da6-46d7-8a2d-c74e9f29cad9" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
+</button><tool-tip id="tooltip-c601e8cc-a591-4844-ba70-8ba1d11c0c3d" for="icon-button-96c20e32-8c4b-49dc-9aac-36154dea244e" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 
 
   
@@ -1326,7 +1326,7 @@
             <a href="/login?return_to=%2Fweareblahs%2Ffreeview" rel="nofollow" id="repository-details-watch-button" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/weareblahs/freeview/blob/main/mytv_broadcasting.m3u8&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="41de574456da117148299c1189dd3ca9d75a5bfa6e909f36104e288651cbea2e" aria-label="You must be signed in to change notification settings" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
     <path d="M8 16a2 2 0 0 0 1.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 0 0 8 16ZM3 5a5 5 0 0 1 10 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.519 1.519 0 0 1 13.482 13H2.518a1.516 1.516 0 0 1-1.263-2.36l1.703-2.554A.255.255 0 0 0 3 7.947Zm5-3.5A3.5 3.5 0 0 0 4.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.017.017 0 0 0-.003.01l.001.006c0 .002.002.004.004.006l.006.004.007.001h10.964l.007-.001.006-.004.004-.006.001-.007a.017.017 0 0 0-.003-.01l-1.703-2.554a1.745 1.745 0 0 1-.294-.97V5A3.5 3.5 0 0 0 8 1.5Z"></path>
 </svg>Notifications
-</a>    <tool-tip id="tooltip-ae81996d-fd07-40d5-a56c-4e0742e9f5d2" for="repository-details-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
+</a>    <tool-tip id="tooltip-bbcfff7b-dcc8-4ca3-bba5-88c32f62e939" for="repository-details-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
 
     </li>
 
@@ -1449,22 +1449,22 @@
 </ul>
     <div style="visibility:hidden;" data-view-component="true" class="UnderlineNav-actions js-responsive-underlinenav-overflow position-absolute pr-3 pr-md-4 pr-lg-5 right-0">      <action-menu data-select-variant="none" data-view-component="true">
   <focus-group direction="vertical" mnemonics retain>
-    <button id="action-menu-f89b0a5c-8b29-4250-b518-38a90930de7d-button" popovertarget="action-menu-f89b0a5c-8b29-4250-b518-38a90930de7d-overlay" aria-controls="action-menu-f89b0a5c-8b29-4250-b518-38a90930de7d-list" aria-haspopup="true" aria-labelledby="tooltip-819efd12-073b-4b27-92df-705a3f8d6cfd" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
+    <button id="action-menu-ff38167b-cba9-48ab-8f11-248715b07689-button" popovertarget="action-menu-ff38167b-cba9-48ab-8f11-248715b07689-overlay" aria-controls="action-menu-ff38167b-cba9-48ab-8f11-248715b07689-list" aria-haspopup="true" aria-labelledby="tooltip-4a411985-8e57-4d51-9c66-178700415289" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
     <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
 </svg>
-</button><tool-tip id="tooltip-819efd12-073b-4b27-92df-705a3f8d6cfd" for="action-menu-f89b0a5c-8b29-4250-b518-38a90930de7d-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
+</button><tool-tip id="tooltip-4a411985-8e57-4d51-9c66-178700415289" for="action-menu-ff38167b-cba9-48ab-8f11-248715b07689-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
 
 
-<anchored-position id="action-menu-f89b0a5c-8b29-4250-b518-38a90930de7d-overlay" anchor="action-menu-f89b0a5c-8b29-4250-b518-38a90930de7d-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
+<anchored-position id="action-menu-ff38167b-cba9-48ab-8f11-248715b07689-overlay" anchor="action-menu-ff38167b-cba9-48ab-8f11-248715b07689-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
   <div data-view-component="true" class="Overlay Overlay--size-auto">
     
       <div data-view-component="true" class="Overlay-body Overlay-body--paddingNone">          <action-list>
   <div data-view-component="true">
-    <ul aria-labelledby="action-menu-f89b0a5c-8b29-4250-b518-38a90930de7d-button" id="action-menu-f89b0a5c-8b29-4250-b518-38a90930de7d-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
+    <ul aria-labelledby="action-menu-ff38167b-cba9-48ab-8f11-248715b07689-button" id="action-menu-ff38167b-cba9-48ab-8f11-248715b07689-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
         <li hidden="hidden" data-menu-item="i0code-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-1a4faa63-b09c-4c6c-a62a-61989280ffa6" href="/weareblahs/freeview" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-0576f331-a918-4c4c-b5e8-8816baf68aa8" href="/weareblahs/freeview" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1479,7 +1479,7 @@
         <li hidden="hidden" data-menu-item="i1issues-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-43713d4f-09c3-4411-923e-6dc795505cdd" href="/weareblahs/freeview/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-e8f9266f-da7a-4da2-87d5-6aa601550a3b" href="/weareblahs/freeview/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
@@ -1494,7 +1494,7 @@
         <li hidden="hidden" data-menu-item="i2pull-requests-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-8d61c323-5c7d-467e-899b-35557b3ea15c" href="/weareblahs/freeview/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-b81266c0-f185-4af8-8bfe-44068bdba078" href="/weareblahs/freeview/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
@@ -1509,7 +1509,7 @@
         <li hidden="hidden" data-menu-item="i3actions-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-c20d15f9-1207-4594-ad79-55c4caf79a21" href="/weareblahs/freeview/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-e9861b91-cbf6-4f83-9a16-85cddfa0aed2" href="/weareblahs/freeview/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play">
     <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
@@ -1524,7 +1524,7 @@
         <li hidden="hidden" data-menu-item="i4projects-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-213a53ac-f324-49c1-bff1-012b6d300356" href="/weareblahs/freeview/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-e40dfa2b-f96a-466d-9d23-4f444ed45ed2" href="/weareblahs/freeview/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table">
     <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
@@ -1539,7 +1539,7 @@
         <li hidden="hidden" data-menu-item="i5security-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-29c6c641-a08d-4960-97af-dfbe86020d4f" href="/weareblahs/freeview/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-089e1e43-9c52-48d9-bc3e-d8a6f8cf0528" href="/weareblahs/freeview/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield">
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
@@ -1554,7 +1554,7 @@
         <li hidden="hidden" data-menu-item="i6insights-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-a055c623-4aad-4473-9ec4-e4643335e04e" href="/weareblahs/freeview/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-7c573628-343a-4862-9483-babcf817614c" href="/weareblahs/freeview/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph">
     <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -2546,39 +2546,23 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/index.m3u8?id=8
 #EXTINF:-1 tvg-chno="113" tvg-id="TV3" tvg-name="TV3" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/MPB_3.png",Media Prima TV3
 #EXTGRP:Family/Kids
 #EXTVLCOPT:network-caching=1000
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"J6L3HYe/XrEFrwlvtmBdlw", "kid":"Ov4w7k6iSmf+Wi7wboPbCw" } ], "type":"temporary" }
-https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
+https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
 #EXTINF:-1 tvg-chno="114" tvg-id="MPBDramaSangat" tvg-name="MPBDramaSangat" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/MPB_DS.png",Media Prima DramaSangat
 #EXTGRP:Family/Kids
 #EXTVLCOPT:network-caching=1000
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
+https://tonton-live-sg3.akamaized.net/live-hls/tonton10.m3u8
 #EXTINF:-1 tvg-chno="117" tvg-id="DidikTVKPM" tvg-name="DidikTVKPM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/MPB_7.png",Media Prima NTV7
 #EXTGRP:Family/Kids
 #EXTVLCOPT:network-caching=1000
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4EDKKqQm33ibo4S6VhiRtA", "kid":"R6Ega0SCLIkyDnCRbPV7DA" } ], "type":"temporary" }
-https://unifi-live06.secureswiftcontent.com/UnifiHD/live06.mpd
+https://tonton-live-ssai.akamaized.net/live/0e27ef78-4cc9-4c62-bec9-5c946c9e7354/cmaf.isml/.m3u8
 #EXTINF:-1 tvg-chno="118" tvg-id="8TV" tvg-name="8TV" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/MPB_8.png",Media Prima 8TV
 #EXTGRP:Family/Kids
 #EXTVLCOPT:network-caching=1000
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BW4eSVc9LK7ly0/nj4xPPQ", "kid":"qcYZB07TjCDiWtNsPFfBDA" } ], "type":"temporary" }
-https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
+https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
 #EXTINF:-1 tvg-chno="119" tvg-id="TV9" tvg-name="TV9" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/MPB_9.png",Media Prima TV9
 #EXTGRP:Family/Kids
 #EXTVLCOPT:network-caching=1000
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zfavh1DSSyMNkbmEI3rB5A", "kid":"HfqKZFr0HoPFIL3fkTk0yg" } ], "type":"temporary" }
-https://unifi-live08.secureswiftcontent.com/UnifiHD/live09.mpd
+https://tonton-live-ssai.akamaized.net/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.m3u8
 #EXTINF:-1 tvg-chno="120" tvg-id="AwesomeTV.my" tvg-name="AwesomeTV.my" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/AwesomeTV.png",Awesome TV
 #EXTGRP:Family/Kids
 #EXTVLCOPT:network-caching=1000
@@ -2587,15 +2571,16 @@ https://unifi-live08.secureswiftcontent.com/UnifiHD/live09.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ahNrZdLUVpnLHphQbfob7g", "kid":"+E++gm0VdV75HryrZ8V9EA" } ], "type":"temporary" } 
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/211/default.mpd
 #EXTINF:-1 tvg-chno="121" tvg-id="BERNAMA.my" tvg-name="BERNAMA.my" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/BernamaTV.png",BERNAMA
 #EXTGRP:News/World
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OaJ6osyEoptmX8xNv5xUtg","kid":"FAa78hjKFPlnA0/PSr93EA"}],"type":"temporary"}
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/1114/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OaJ6osyEoptmX8xNv5xUtg", "kid":"FAa78hjKFPlnA0/PSr93EA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/1114/default.mpd
 #EXTINF:-1 tvg-chno="122" tvg-id="TVAlhijrah.my" tvg-name="TV Alhijrah" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/TVAlhijrah.png",TV Alhijrah
 #EXTGRP:Family/Kids
 #EXTVLCOPT:network-caching=1000
@@ -2607,11 +2592,7 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1 tvg-chno="124" tvg-id="TVS.my" tvg-name="TVS.my" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/TVS.png",TVS
 #EXTGRP:Family/Kids
 #EXTVLCOPT:network-caching=1000
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vcyu6IazQN2QH0v43Z06ag", "kid":"w+lWs4rpk74UlMfPoXsREA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
+https://stream.smg.my/live/tvs.m3u8
 #EXTINF:-1 tvg-chno="125" tvg-id="SelangorTV.my" tvg-name="SelangorTV.my" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/SelangorTV.png",Selangor TV
 #EXTGRP:Variety
 #EXTVLCOPT:network-caching=1000
@@ -2928,31 +2909,31 @@ https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.m
 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
 #################### TEST ####################
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZHUDlhdi1aSG9Nenh0Y0NjVVhSU0gxbzVvOS1vMHducUtxdFMxODI3RUJZY1ZHa0h5Vl9pWlRQX3VGT1V1ZUJhQmFlSm1GMThlR2N4VnlEU25iVzZlN0FoZENqR3Y4b2VxRmdsY0tNZjl6ZHJ0ai0wUUpFY2RBNDQtUnJ2czZiczl4a3M3SS1tM1Y1NjNwOUd0V2ViVlBjN1lKaHhvQzh5TXZrQW1SclpBWW5LZW9Ba3hFMmp0Y0liYXcybmxqM0V6akVldDdMay1Kd0NlWlcyRjhjOG50d0ppcFJWenM4R0lkMTZPQjZFQnk4SUlvdFFzQzFLZ0VXQkxlQThnNHZSN1pFdnpDd3B2aXlfdXBQeUIxd0pCMnJhWWVzdkNPcktDRWh4VTNKdThLUVlYVHpwejNIWldWZ3ZMQVA5ZkVHMEtCY2c1Q3I1ZHJ0SmgwYndLX3lEMVk9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDExNiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmR1A5YXYtWkhvTXp4dGNDY1VYUlNIMW81bzktbzB3bnFLcXRTMTgyN0VCWWNWR2tIeVZfaVpUUF91Rk9VdWVCYUJhZUptRjE4ZUdjeFZ5RFNuYlc2ZTdBaGRDakd2OG9lcUZnbGNLTWY5emRydGotMFFKRWNkQTQ0LVJydnM2YnM5eGtzN0ktbTNWNTYzcDlHdFdlYlZQYzdZSmh4b0M4eU12a0FtUnJaQVluS2VvQWt4RTJqdGNJYmF3Mm5sajNFempFZXQ3TGstSndDZVpXMkY4YzhudHdKaXBSVnpzOEdJZDE2T0I2RUJ5OElJb3RRc0MxS2dFV0JMZUE4ZzR2UjdaRXZ6Q3dwdml5X3VwUHlCMXdKQjJyYVllc3ZDT3JLQ0VoeFUzSnU4S1FZWFR6cHozSFpXVmd2TEFQOWZFRzBLQmNnNUNyNWRydEpoMGJ3S195RDFZPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=bo2JXlo9lqhZLPuO571Uq0Z5sUk%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZPdmtpWXJDMXI1YWZRZWN3akNJNThlRkFwMG1OckxGQU9sVUg5MTdqektqQVFZRzljLU1vYlJaeTdPR2dPWERydkdRZXpWa05CX01laE96ZEZLUjJ3QjFUNzNXcVJMZG5tOWowS21PZVJsQUFEV2RfMGVaclhmMi0zVDE2VWtXRGtZZnlPdHN6M3FJcThfZzdXLVduVzhzOTNqbnlET3A1aVFiMmpMZXQtMFYtUlBrV0hlNG9aNUVndVZRR3JhcktNd3Z6WDZIUFhWaVI4X3hnNC1WS3NwMlNiWHI5VlFyZ1RfSk1zQVVvRUc5ZC1iYmR2VWRTVEdVSEJEaUl1TGVmbWl6eDJJcVZpWS00NlFfM0dNeHFkSEIxQ3ZWNHR3Y25MTnkybkZfQUtQcjN2RlU4YUU3OTlTd0duN0JJb3FKY1U0aHFPM0RaN2pGVTVHRWpWb1pQV0JWdE9OTlRxaWZGNlRiVWVjMG1GNTAmY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTE2IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jaDVfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZPdmtpWXJDMXI1YWZRZWN3akNJNThlRkFwMG1OckxGQU9sVUg5MTdqektqQVFZRzljLU1vYlJaeTdPR2dPWERydkdRZXpWa05CX01laE96ZEZLUjJ3QjFUNzNXcVJMZG5tOWowS21PZVJsQUFEV2RfMGVaclhmMi0zVDE2VWtXRGtZZnlPdHN6M3FJcThfZzdXLVduVzhzOTNqbnlET3A1aVFiMmpMZXQtMFYtUlBrV0hlNG9aNUVndVZRR3JhcktNd3Z6WDZIUFhWaVI4X3hnNC1WS3NwMlNiWHI5VlFyZ1RfSk1zQVVvRUc5ZC1iYmR2VWRTVEdVSEJEaUl1TGVmbWl6eDJJcVZpWS00NlFfM0dNeHFkSEIxQ3ZWNHR3Y25MTnkybkZfQUtQcjN2RlU4YUU3OTlTd0duN0JJb3FKY1U0aHFPM0RaN2pGVTVHRWpWb1pQV0JWdE9OTlRxaWZGNlRiVWVjMG1GNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=Nj2kzEsELiFYKKuv6PJucZ2QJ2Y%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Channel 5" tvg-chno="Channel 5" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776036%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 5
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/5754116/contextType/PLAYBACK/isAltUrl/False/a.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZHQ2RXclVIRkVOU2M2LThKRmp1Qm5PaFMzVnhKTk4yeWZWRTlSZWQ2LWxTaWxMR056OEpnVFNxS0NuMFU5UTQ1S3dUNVk2dDY5LUg1TGZTWVdhQm1wWnA5dVNORlVWQ1lQRWpmeHYtZXMwWElNZ2hzT0ktM0FJUjhwdHpreWRzSGUyNDNzY1BQUkJKRmpONXRFSVExWHRnSlNoVUJPQ1p6WHVkOVFSZXJ3Z2ZQUFhxcndPV2xJZTNTc182c1prdUtKRW54Q3I4OUtmUF9tSjNjVWsxWmhSdmQ3VTZlY1JkM2Q5dmw0cXFvRmtVeXlzdU5oVDVQTnB3WmFYamFwOGpGaXZwbkZLTmlWcTI3X29Ybmozb252YjFOd000R3ZnT1pjTnNzWC1MalNYeCZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMjQiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoOF9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkdDZFdyVUhGRU5TYzYtOEpGanVCbk9oUzNWeEpOTjJ5ZlZFOVJlZDYtbFNpbExHTno4SmdUU3FLQ24wVTlRNDVLd1Q1WTZ0NjktSDVMZlNZV2FCbXBacDl1U05GVVZDWVBFamZ4di1lczBYSU1naHNPSS0zQUlSOHB0emt5ZHNIZTI0M3NjUFBSQkpGak41dEVJUTFYdGdKU2hVQk9DWnpYdWQ5UVJlcndnZlBQWHFyd09XbEllM1NzXzZzWmt1S0pFbnhDcjg5S2ZQX21KM2NVazFaaFJ2ZDdVNmVjUmQzZDl2bDRxcW9Ga1V5eXN1TmhUNVBOcHdaYVhqYXA4akZpdnBuRktOaVZxMjdfb1huajNvbnZiMU53TTRHdmdPWmNOc3NYLUxqU1h4IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=AOAayKBaqlni71g%2brJUw1PgesvQ%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZEb1U1bzVaOGxfSTZSWU5iS2tUVjEzRlg4SllRX01XZ0ZnMS1IZjlOMWM4SUZBWGczWElsUWFqNzZERWlSNHZ2QzZCOFJWZC0zVFhpOVBGYUlMZHhiUlRGRUFTRHBoZ0xscHhfWmg5N2lRaDl6c1NaallWQnNnSjZYMWxTNW5UNWZuSWlhT1BSYXBFaFlJeG0zTmJaVFF5U243aUR4ZThubjNhY2pidnp6Q2l0cWFKZ0UyUXY2azczRm9BUTQ2ZjJHRDU4Rk9ha1U2Rm92SUNfU2dyS3ZUbGpDZ1h1OTF3aENRb1lxWnJONmpzWnYtMTVFTTRBVmFzOWdPRUNCNFM1OVZBMi02bk9BRzlhWGF1dW1weDVhRlFFbURfYTNGb09hZUZYSVFTVnhrZGxSOVFZdGc0QVBEX0RTdEhZV3BPcVE9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMjQiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoOF9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkRvVTVvNVo4bF9JNlJZTmJLa1RWMTNGWDhKWVFfTVdnRmcxLUhmOU4xYzhJRkFYZzNYSWxRYWo3NkRFaVI0dnZDNkI4UlZkLTNUWGk5UEZhSUxkeGJSVEZFQVNEcGhnTGxweF9aaDk3aVFoOXpzU1pqWVZCc2dKNlgxbFM1blQ1Zm5JaWFPUFJhcEVoWUl4bTNOYlpUUXlTbjdpRHhlOG5uM2FjamJ2enpDaXRxYUpnRTJRdjZrNzNGb0FRNDZmMkdENThGT2FrVTZGb3ZJQ19TZ3JLdlRsakNnWHU5MXdoQ1FvWXFack42anNadi0xNUVNNEFWYXM5Z09FQ0I0UzU5VkEyLTZuT0FHOWFYYXV1bXB4NWFGUUVtRF9hM0ZvT2FlRlhJUVNWeGtkbFI5UVl0ZzRBUERfRFN0SFlXcE9xUT09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=E0RcZfx7y6sIfOrj3NEHHKyMvHA%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Channel 8" tvg-chno="Channel 8" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776034%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=75&Height=101&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 8 / 8 频道
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZHS0djaVppZjNjUFk2SVpabVNKY1Yxd2szSW9KMHROWk5vTDd0Q2g1NVZpMEZSbHdsVHd1dk9OVFhqaVpjWkpubTdxcHdlTklMQVFJWjFucVBZTE9CRzg4enVoR2xlWkVSdXdGaUkwYUFSX3FSTzNLMEFjeUJQNWFINlVBODg3V2NlUUdrUm5CcXFFdTZhTFFyaHlndHA4MjkxUjRsTGk1d3liNXBiczBuTk52SjVtNnZnVktMVlRhOG5mNHlLOUFTSS1tX2g4ZFZ6Y3hMRjVxWk9IbFBWMVcxSHJPQ1RTY1psV1dmTU9MQmVxeTJtenlyQmtDeW9Kbk82NU5EdjR0dFNWZVNlUzZNMU4wZWVsSWU0Z1FsS2Y5ODkweE84RGZMeFQwZENHMi1RWFVqYUNrNE5fakJsblZmLTBBYVdoRUozNGhfVDgzNEZfUzZjQnRaZkxuaGs9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDE1NyIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmR0tHY2laaWYzY1BZNklaWm1TSmNWMXdrM0lvSjB0TlpOb0w3dENoNTVWaTBGUmx3bFR3dXZPTlRYamlaY1pKbm03cXB3ZU5JTEFRSVoxbnFQWUxPQkc4OHp1aEdsZVpFUnV3RmlJMGFBUl9xUk8zSzBBY3lCUDVhSDZVQTg4N1djZVFHa1JuQnFxRXU2YUxRcmh5Z3RwODI5MVI0bExpNXd5YjVwYnMwbk5Odko1bTZ2Z1ZLTFZUYThuZjR5SzlBU0ktbV9oOGRWemN4TEY1cVpPSGxQVjFXMUhyT0NUU2NabFdXZk1PTEJlcXkybXp5ckJrQ3lvSm5PNjVORHY0dHRTVmVTZVM2TTFOMGVlbEllNGdRbEtmOTg5MHhPOERmTHhUMGRDRzItUVhVamFDazROX2pCbG5WZi0wQWFXaEVKMzRoX1Q4MzRGX1M2Y0J0WmZMbmhrPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=1m1BHFBU5Z7ZFTwS%2bg6t%2byAqE%2fI%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZIT2ZXSS0tVnRPS2lkU3ZYUV83RDVaaWc2MGpTdHpQbF9XVWd4WTgzbVNWTnRNbDdkb3h1NWs0NHdUZFBqNzlQUG96RG04TUNMcTVJRWtRdFFobDBNaXJFa25zemJrSmxvelVZajVhRjc5OHRGeVgwczVBelhRYU5TLTFFSjNfYlhxN1k1YVhWc3l4NWtiUFZTeFEyY2FNSnVsdUkzejg0VGc5QWZnWnkxZV9JSHFKdWFZWkhzamswLTVBVk5sUnpnWV8xTlpCSl9KZ2MzQXJNNFZkSmVLbldaWUdpVl85Qklldm5WYWV3TmlSdFlBaGhCREpvOUwtWFRZNkNqQU0xRjJ5c3dnVHRXeWdIWG84ZzJ6UGhmOXZ0ZnN4aHhQdl9xVVFjQ2hWTzR1R3YyZWYtNHlqRTJOcWFFWE1idnhrd00zbWxrRE4xYjVwd1hVcmRjMXFIQnc9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDE1NyIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmSE9mV0ktLVZ0T0tpZFN2WFFfN0Q1WmlnNjBqU3R6UGxfV1VneFk4M21TVk50TWw3ZG94dTVrNDR3VGRQajc5UFBvekRtOE1DTHE1SUVrUXRRaGwwTWlyRWtuc3pia0psb3pVWWo1YUY3OTh0RnlYMHM1QXpYUWFOUy0xRUozX2JYcTdZNWFYVnN5eDVrYlBWU3hRMmNhTUp1bHVJM3o4NFRnOUFmZ1p5MWVfSUhxSnVhWVpIc2prMC01QVZObFJ6Z1lfMU5aQkpfSmdjM0FyTTRWZEplS25XWllHaVZfOUJJZXZuVmFld05pUnRZQWhoQkRKbzlMLVhUWTZDakFNMUYyeXN3Z1R0V3lnSFhvOGcyelBoZjl2dGZzeGh4UHZfcVVRY0NoVk80dUd2MmVmLTR5akUyTnFhRVhNYnZ4a3dNM21sa0ROMWI1cHdYVXJkYzFxSEJ3PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=PGGDpwL0MlXfbS7yApkF9wLstu4%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Channel U" tvg-chno="Channel U" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776040%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel U / U 频道
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/330332/assetType/media/assetFileId/5754157/contextType/PLAYBACK/isAltUrl/False/a.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZLWGZIMU9LUnpkNzY0NjZiUm9qZUh2X1pVT2l5R2F6c3N3WGFWR0hSam9JczhnMHdOUDVMU1ppSlQxdDd1aUJkYk1JNkRMVjZSbEt4YTR0QWoyUWpRY0YyLXJKVVpvOFpiNFR4XzVQTk5PMFpUQ0lRakF0bm5ZbDhOc0VhRlBQUmRGYUJhN0ZxNTNTNlEwTHNLV050SkRyZzFsUThDM1hmZWFNS3NGZmFIeENuRUxuX0Z3bHh0Q3ZSY1FKbUlwMW16Wi05U1hJM3drMXBfbFZlUElfS3ZGZUl0aU9Tekp6c3lHa2JJdmRmZ0Q4aldoM0dEQldDckVCNjE5cTRxQzZlRW9jRzZ3a0Fsa1Z6Zl9jd2dZSVIxdnk5VmdUak4xaUVzQnBzd0J3ZXhJaHZ5c1dEWFgtQzJFeE90VHhHRnZRRGc9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxNDkiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NuYVNfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZLWGZIMU9LUnpkNzY0NjZiUm9qZUh2X1pVT2l5R2F6c3N3WGFWR0hSam9JczhnMHdOUDVMU1ppSlQxdDd1aUJkYk1JNkRMVjZSbEt4YTR0QWoyUWpRY0YyLXJKVVpvOFpiNFR4XzVQTk5PMFpUQ0lRakF0bm5ZbDhOc0VhRlBQUmRGYUJhN0ZxNTNTNlEwTHNLV050SkRyZzFsUThDM1hmZWFNS3NGZmFIeENuRUxuX0Z3bHh0Q3ZSY1FKbUlwMW16Wi05U1hJM3drMXBfbFZlUElfS3ZGZUl0aU9Tekp6c3lHa2JJdmRmZ0Q4aldoM0dEQldDckVCNjE5cTRxQzZlRW9jRzZ3a0Fsa1Z6Zl9jd2dZSVIxdnk5VmdUak4xaUVzQnBzd0J3ZXhJaHZ5c1dEWFgtQzJFeE90VHhHRnZRRGc9PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=A%2bFy1DuZaP1INLKCfvAFpoiUPyU%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZFcnJ3bk9yQ2dkQ1B5R1hGbDcyanlveGZ1MnRLdkFHbGVUVzBCWTR5UjJISVlSQmJEOUJoX2JUY2tkaVV6aDhLNk5UalYtS0FSN1lZSnJCa2dzcWQ5NlVoeGx5TDlHMnNtZnZkdFB5SlNBN0I0bDlFZmd3TzhjVlFiTkxUWkZ1QlY1azVRN0JidWhLVXJieGJTaFBaamFYM2d6aXlGZGp3eFk2WEs2aGx1YnRiak1OUmlkRFN5Y1BMUVg1SWNrYjIzZUNnNHFTOE5ma1ZpZ2FLX1VhMDZvdTlaZ2Zta1BfVHVuT1V1WnNpaWVpSzhjenk3WFNodEdwSVRCR3d5cHF6NUNXWENJLTNXOGJaZFBkNGRkWVZIQU1RUlpBRmF5V2pBb0p1bEVIdmJQcVYzeW5WcGxCZ0pPREoxVmpGcE1QSXFOblRwQXdhRTFiajBOc01UUk13b289JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDE0OSIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY25hU19kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkVycnduT3JDZ2RDUHlHWEZsNzJqeW94ZnUydEt2QUdsZVRXMEJZNHlSMkhJWVJCYkQ5QmhfYlRja2RpVXpoOEs2TlRqVi1LQVI3WVlKckJrZ3NxZDk2VWh4bHlMOUcyc21mdmR0UHlKU0E3QjRsOUVmZ3dPOGNWUWJOTFRaRnVCVjVrNVE3QmJ1aEtVcmJ4YlNoUFpqYVgzZ3ppeUZkand4WTZYSzZobHVidGJqTU5SaWREU3ljUExRWDVJY2tiMjNlQ2c0cVM4TmZrVmlnYUtfVWEwNm91OVpnZm1rUF9UdW5PVXVac2lpZWlLOGN6eTdYU2h0R3BJVEJHd3lwcXo1Q1dYQ0ktM1c4YlpkUGQ0ZGRZVkhBTVFSWkFGYXlXakFvSnVsRUh2YlBxVjN5blZwbEJnSk9ESjFWakZwTVBJcU5uVHBBd2FFMWJqME5zTVRSTXdvbz0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=AzsT%2bb3y01mOhEfYcQ1lIz4YTqM%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="CNA" tvg-chno="CNA" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776042%27&EntityType=%27Item%27&EntityId=%2797072%27&Width=78&Height=96&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",CNA
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/197985/assetType/media/assetFileId/5754149/contextType/PLAYBACK/isAltUrl/False/a.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZOX2plWVduOHJDN0J3cGpuZEV4YlRyRllaTk5LNHBjSDBxVjlhbjVZeHJFSDgwYWw0TnlhR1czSmc1WTBjWHBWZ1EyUkFpUm55TlZKTVIwbUFIcEtVMXNkcm1IdXlQaHJ1OGtIMnR6c0hjUm5mTjBlS1lxekg4bVA4SlZyMGUyMDFxNzZIbFIzV1ZqZjFGWjA2UzNzSy0ycnB1RUFaTWJ0VVZLM1hWdjZjYU9BTHI4cW9BdjhGZnR4RHlpXzFLeFNWTWJ2MWx2aGdjZW9aVjBxd1NMMEM1RzZDQy1iQ3lZVTN0MXNvOURnaDlDNnpnOE5kRFhWSWJVOHFrRmlBM1lvMDIxb0I4VS1jYll2QzRRYXJsNzVYVHUzTUVSblhjTi1PMnV0RjFST3JzN3NSNFQ4LXZIVTZwakJnUEZQYWpLel9RT1FncHdLQkFTVlVpYWMxc1puVlk9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDA2NiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZOX2plWVduOHJDN0J3cGpuZEV4YlRyRllaTk5LNHBjSDBxVjlhbjVZeHJFSDgwYWw0TnlhR1czSmc1WTBjWHBWZ1EyUkFpUm55TlZKTVIwbUFIcEtVMXNkcm1IdXlQaHJ1OGtIMnR6c0hjUm5mTjBlS1lxekg4bVA4SlZyMGUyMDFxNzZIbFIzV1ZqZjFGWjA2UzNzSy0ycnB1RUFaTWJ0VVZLM1hWdjZjYU9BTHI4cW9BdjhGZnR4RHlpXzFLeFNWTWJ2MWx2aGdjZW9aVjBxd1NMMEM1RzZDQy1iQ3lZVTN0MXNvOURnaDlDNnpnOE5kRFhWSWJVOHFrRmlBM1lvMDIxb0I4VS1jYll2QzRRYXJsNzVYVHUzTUVSblhjTi1PMnV0RjFST3JzN3NSNFQ4LXZIVTZwakJnUEZQYWpLel9RT1FncHdLQkFTVlVpYWMxc1puVlk9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=N%2bVD1Xdt7erJ8rPbrGrqBTxSg6o%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZQVzBlRzY3amZtN2VzdVFVUEhvaFBwM1ZPaThBUS01WENvUHA5LWp1ckk5RXg5alJVU253NHNFU2NHY1pNN0lYWjBrbmp3dzVwRW80RHBYakhCM244MWNaYkwyT1NzVmFpcUxzV2ZZX253M0ZkSWJObkZpVzlkMi1SclJrQXdmMGp1WXFtODduNWdfcjRRSnlLai1NOEk3Z1RkWVlKZmpYUXc2RkFGc0tFTlJCalpyX2xwWTlLdnIwek5HOHIyT1JrVzlzbmNlRkpBR1NuNnJKd1hpdXRKQTQzTnBJa3QxT1BTaWFHcDVDWVM2aWtrMXNydm1MZ0xPWHFhZjZuajlxektNQlVVTVBPS0J3bVNlczFtcjJ1OUkzZTI1TUpEVS1makd0NGhjYVhGUU9zWWhmX3dFVEQwbzJ1d1ZBRWR5Y2pjc01NWDIzYTZXeVo2RXEtZUJ1dEduLS0ySUpvWGxQck95RG5rdm1Da25HNW5DYkhyNjVYTVRfX0RsclNfNlJ5SFRLZmFZMTU0VzZYX0NUN0JFbl9JPSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQwNjYiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX3N1cmlhX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmUFcwZUc2N2pmbTdlc3VRVVBIb2hQcDNWT2k4QVEtNVhDb1BwOS1qdXJJOUV4OWpSVVNudzRzRVNjR2NaTTdJWFowa25qd3c1cEVvNERwWGpIQjNuODFjWmJMMk9Tc1ZhaXFMc1dmWV9udzNGZEliTm5GaVc5ZDItUnJSa0F3ZjBqdVlxbTg3bjVnX3I0UUp5S2otTThJN2dUZFlZSmZqWFF3NkZBRnNLRU5SQmpacl9scFk5S3ZyMHpORzhyMk9Sa1c5c25jZUZKQUdTbjZySndYaXV0SkE0M05wSWt0MU9QU2lhR3A1Q1lTNmlrazFzcnZtTGdMT1hxYWY2bmo5cXpLTUJVVU1QT0tCd21TZXMxbXIydTlJM2UyNU1KRFUtZmpHdDRoY2FYRlFPc1loZl93RVREMG8ydXdWQUVkeWNqY3NNTVgyM2E2V3laNkVxLWVCdXRHbi0tMklKb1hsUHJPeURua3ZtQ2tuRzVuQ2JIcjY1WE1UX19EbHJTXzZSeUhUS2ZhWTE1NFc2WF9DVDdCRW5fST0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=dG7Z6pWl77qcgdwLKSPUirkiNCQ%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271375229%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Suria
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/5754066/contextType/PLAYBACK/isAltUrl/False/a.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZHUVY2SGp4STZwVVI2c1VhTGNQZTlZc0dmMHM1QmZVbnFPMW9nM2Nwbjdicmh0NHhYODR4c21sZUNkcDFGNTI0N1FDM2M0OGdhRlpWT0JJb1JmeG9uLS1oZFFuWGF5X0pDd1pVV0ZDVUFTcXNJX3YybkhCZGpUcC1ra2VHSG01dXVfaHZMWlZ0ZDQwb3NRZ2NMWmRVRG8xMVhyVENBN2NGdUN2bzFaYnRVN0RCanowNjVUX1RyT2pwNHY5TU1jX3RrUVROTXpOQmRicjdGS204c1gtWHZySkdQdnByQVJVVDY3TzhoRnpwcF92UEZpYmZqcHpxTWxHcjMwSlI0RHg4YUtEZEQ0Z1BDV1NXOTdON01RUWQ5czFNWVVJc0tib1A5dlZtTjRPWmNIMk9ORmw3U2JBaUhZM1A1WmtjYVlHUDF5OGk0d3JCVkZvV0VwY1czaks2Zm89JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDEwOCIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfdmFzYW50aGFtX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmR1FWNkhqeEk2cFVSNnNVYUxjUGU5WXNHZjBzNUJmVW5xTzFvZzNjcG43YnJodDR4WDg0eHNtbGVDZHAxRjUyNDdRQzNjNDhnYUZaVk9CSW9SZnhvbi0taGRRblhheV9KQ3daVVdGQ1VBU3FzSV92Mm5IQmRqVHAta2tlR0htNXV1X2h2TFpWdGQ0MG9zUWdjTFpkVURvMTFYclRDQTdjRnVDdm8xWmJ0VTdEQmp6MDY1VF9Uck9qcDR2OU1NY190a1FUTk16TkJkYnI3RkttOHNYLVh2ckpHUHZwckFSVVQ2N084aEZ6cHBfdlBGaWJmanB6cU1sR3IzMEpSNER4OGFLRGRENGdQQ1dTVzk3TjdNUVFkOXMxTVlVSXNLYm9QOXZWbU40T1pjSDJPTkZsN1NiQWlIWTNQNVprY2FZR1AxeThpNHdyQlZGb1dFcGNXM2pLNmZvPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=0t886uB6p89FYsMTDExAXKsw8So%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZDTVNyX2lreDl1cGdKN0dBa01QcUJnRXQwU0FiZnpUVDBWN0dMUWlMQzZqMVRXUzZJTzgzRDhVY1ZsUUhMV2ZSdmFieGdIQzZTMXotNnBhbVBXekcxQ01NZjhObjRMelotVzBhd052WkRScmE3MW1jc3pwdGIwTWl0M2JBMmx1YjNBVG1tak5zNkwtOUNQd0xuWDRFV1dXUWdScFNxN25HT0JHakk1TmcwUDh3amp3VlI0bWUwM0UzUGkzc014UVNubUpEMjg2S3NqcFEzbHBJMU9nZjlzaVBmVzI2SExhZFY2MVRXY2x6OFhlaEpEYUh0QWRBelBwM0NneHNkdDR1NzJTc3N6STk5Q1pITXFfYXh6TXJsazkzaThfbk0yQnYyaFEtT3JoWlFlcUItZmlFVE5MVnJQcGRCdVJPMmFPMTV0aERXYXNEcDB0SllTSDRsUnRrYVlxc2luVFRWTjdJY2hhbERUb29TejImY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTA4IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV92YXNhbnRoYW1fZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZDTVNyX2lreDl1cGdKN0dBa01QcUJnRXQwU0FiZnpUVDBWN0dMUWlMQzZqMVRXUzZJTzgzRDhVY1ZsUUhMV2ZSdmFieGdIQzZTMXotNnBhbVBXekcxQ01NZjhObjRMelotVzBhd052WkRScmE3MW1jc3pwdGIwTWl0M2JBMmx1YjNBVG1tak5zNkwtOUNQd0xuWDRFV1dXUWdScFNxN25HT0JHakk1TmcwUDh3amp3VlI0bWUwM0UzUGkzc014UVNubUpEMjg2S3NqcFEzbHBJMU9nZjlzaVBmVzI2SExhZFY2MVRXY2x6OFhlaEpEYUh0QWRBelBwM0NneHNkdDR1NzJTc3N6STk5Q1pITXFfYXh6TXJsazkzaThfbk0yQnYyaFEtT3JoWlFlcUItZmlFVE5MVnJQcGRCdVJPMmFPMTV0aERXYXNEcDB0SllTSDRsUnRrYVlxc2luVFRWTjdJY2hhbERUb29TejIiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=N2Hnw59jBNqdSVWytXpwJij%2bEAE%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776032%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=129&Height=63&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Vasantham
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZFQnNVcFVkVlR3NDFhdXhKLUJobFNCRFJCbWlRN1A0ZEpMS3MtV2NfQkJWa1NVSHExdlotOUdsOUtBNnYxM2hMNDhpb1RYcDlPZUViQ29MbFFnTnNHNEVDSHdLVnFBcnhiUC1lZnBURnViYmZOenF4aWJDQ29aUkk4Z2tPMFdsUkNGWVhCV1BfLTlIY1dQcGdmUEZRSU5WN1R4WG5fNV9iR2FkYnROZmNRckVNcWFLNWVsZXE0VmpwNVF1NUpSYTgweGV1TnVCSFNmMndNRkVFUTdaeldadm9wVl9ZY2F1WmgtYkRuOVpFVVZaY0RmcktrdGpKYWxDZGZyT0pPaFVFMUxDbmdwUU5GVDQ3dDZsclRobnd6MkVoWXpZM2FZbzh6OEkxcVFaVU14aCZjb250ZXh0VHlwZT1ub25lJmlkPTEyMzY2MzIwIiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImFkaG9jX29rdG9saWRheXNfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZFQnNVcFVkVlR3NDFhdXhKLUJobFNCRFJCbWlRN1A0ZEpMS3MtV2NfQkJWa1NVSHExdlotOUdsOUtBNnYxM2hMNDhpb1RYcDlPZUViQ29MbFFnTnNHNEVDSHdLVnFBcnhiUC1lZnBURnViYmZOenF4aWJDQ29aUkk4Z2tPMFdsUkNGWVhCV1BfLTlIY1dQcGdmUEZRSU5WN1R4WG5fNV9iR2FkYnROZmNRckVNcWFLNWVsZXE0VmpwNVF1NUpSYTgweGV1TnVCSFNmMndNRkVFUTdaeldadm9wVl9ZY2F1WmgtYkRuOVpFVVZaY0RmcktrdGpKYWxDZGZyT0pPaFVFMUxDbmdwUU5GVDQ3dDZsclRobnd6MkVoWXpZM2FZbzh6OEkxcVFaVU14aCIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=5Jvef2u%2foGfBWgp%2bZUdQK2B7TgQ%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZEeVJaZFlYUzV4N0FYY1V3aFlSZjN6a0liWVRpQjE0R3hicmNqLVJGb3RxbmNpU25vczZhN2xFNkhZYm5FUWFZZ3RST1pBdnp1TU1yTmJMVzA4aGdGc2xqSzNaOXNiX2tudFVXbHZJSzF0dExfaGZsMk1jX25yaTV5elhEbjZKZUVsWmVENHhWRHFtRkQxXzZiQnlCTEZjall1dFZmY3Vka0U1Mm1rQi0td1E2c1YxM0RVTDhkQ0FBTE85alA0LXI5eDRuMVI4Smw5dTZfejBhUnpabmN0MUx2WXMtd3BmT1hOelNnQk5aZXVTT1lITDU2d25YY1NqNzZCOGg5aldLYWh1UmJYMHpLQmJ3dFBIb1BSMUYzUHdmVV9nQ3N4SlpwSS05SVZwSDVwRkNNcjdPUDZfYjRLVkVtS0VWX0JIdmpkSzJxc21ZS2I2TlQxVkYzMVBvQ2hRMElwc2kyUTVzQXctZ3NGejV2MncmY29udGV4dFR5cGU9bm9uZSZpZD0xMjM2NjMyMCIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJhZGhvY19va3RvbGlkYXlzX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmRHlSWmRZWFM1eDdBWGNVd2hZUmYzemtJYllUaUIxNEd4YnJjai1SRm90cW5jaVNub3M2YTdsRTZIWWJuRVFhWWd0Uk9aQXZ6dU1Nck5iTFcwOGhnRnNsakszWjlzYl9rbnRVV2x2SUsxdHRMX2hmbDJNY19ucmk1eXpYRG42SmVFbFplRDR4VkRxbUZEMV82YkJ5QkxGY2pZdXRWZmN1ZGtFNTJta0ItLXdRNnNWMTNEVUw4ZENBQUxPOWpQNC1yOXg0bjFSOEpsOXU2X3owYVJ6Wm5jdDFMdllzLXdwZk9YTnpTZ0JOWmV1U09ZSEw1NnduWGNTajc2QjhoOWpXS2FodVJiWDB6S0Jid3RQSG9QUjFGM1B3ZlVfZ0NzeEpacEktOUlWcEg1cEZDTXI3T1A2X2I0S1ZFbUtFVl9CSHZqZEsycXNtWUtiNk5UMVZGMzFQb0NoUTBJcHNpMlE1c0F3LWdzRno1djJ3IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=M20z%2fMX4dBRpnX8QRP%2fAgpSGPsQ%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="oktolidays.sg" tvg-chno="oktolidays.sg" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format='png'&Quality=85&ImageId='4132072'&EntityType='Item'&EntityId='258705'&Width=237&Height=237&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",Oktolidays
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/879237/assetType/media/assetFileId/12366320/contextType/PLAYBACK/isAltUrl/False/a.mpd#EXTM3U
 #EXTINF:-1 group-title="TW" tvg-id="BeautifulLifeTV.tw",Beautiful Life TV
