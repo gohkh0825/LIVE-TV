@@ -29,7 +29,7 @@
 
   <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/light-efd2f2257c96.css" /><link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/dark-6b1e37da2254.css" /><link data-color-theme="dark_dimmed" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_dimmed-aa16bfa90fb8.css" /><link data-color-theme="dark_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_high_contrast-f4daad25d8cf.css" /><link data-color-theme="dark_colorblind" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_colorblind-a4629b2e906b.css" /><link data-color-theme="light_colorblind" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_colorblind-afcc3a6a38dd.css" /><link data-color-theme="light_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_high_contrast-79bca7145393.css" /><link data-color-theme="light_tritanopia" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_tritanopia-fe4137b54b26.css" /><link data-color-theme="dark_tritanopia" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_tritanopia-1911f0cf0db4.css" />
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-primitives-8500c2c7ce5f.css" />
-    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-fbdbeff9329d.css" />
+    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-38e58d71ea15.css" />
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/global-0c67cda2fd21.css" />
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/github-4371b8b92ee1.css" />
   <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/repository-a7f555d78ff9.css" />
@@ -39,88 +39,88 @@
 
 
   <script type="application/json" id="client-env">{"locale":"en","featureFlags":["code_vulnerability_scanning","copilot_beta_features_opt_in","copilot_chat_static_thread_suggestions","copilot_conversational_ux_history_refs","copilot_followup_to_agent","copilot_implicit_context","copilot_smell_icebreaker_ux","custom_inp","failbot_handle_non_errors","geojson_azure_maps","hovercard_abort_requests","issues_react_is_read","marketing_pages_search_explore_provider","remove_child_patch","sample_network_conn_type","turbo_experiment_risky"]}</script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-fc6ec47e8e65.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_dompurify_dist_purify_js-810e4b1b9abd.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_oddbird_popover-polyfill_dist_popover_js-4ac41d0a76fd.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_smoothscroll-polyfill_di-75db2e-e091a6d939e9.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/environment-83bbfe567741.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_behaviors_dist_esm_focus-zone_js-03bcda509ec9.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_selector-observer_dist_index_esm_js-9f960d9b217c.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_text-expander-element_dist_index_js-19ce25503c82.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_auto-complete-element_dist_index_js-node_modules_github_details-d-ed9a97-dfdebffa4a55.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_delegated-events_dist_in-af795d-767d6f041dd5.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_filter-input-element_dist_index_js-node_modules_github_remote-inp-b7d8f4-6e6f83bcc978.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_catalyst_lib_index_js-node_modules_github_clipboard-copy-element_-782ca5-14181f295dc0.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_primer_view-co-15cdfa-fdfdefb25b02.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_onfocus_ts-ui_packages_trusted-types-policies_policy_ts-ui_packages-6fe316-88898a485083.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/github-elements-12d1eb746738.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/element-registry-26fb9caf5681.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_catalyst_lib_index_js-node_modules_github_hydro-analytics-client_-7901e7-f8af173502c4.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_braintree_browser-detection_dist_browser-detection_js-node_modules_stack-68835d-59206c834a41.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_lit-html_lit-html_js-cc7cb714ead5.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_morphdom_dist_morphdom-e-7c534c-38ef9cb819da.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-1cea0f5eff45.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_remote-form_dist_index_js-node_modules_delegated-events_dist_inde-893f9f-880ac2bbb719.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_scroll-anchoring_dist_scroll-anchoring_esm_js-node_modules_github_hotkey-1a1d91-56e858031112.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_color-convert_index_js-cdd1e82b3795.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_behaviors_dist_esm_dimensions_js-node_modules_github_jtml_lib_index_js-b1947a1d4855.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_session-resume_dist_index_js-node_modules_primer_behaviors_dist_e-da6ec6-77ce2f267f4e.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_quote-selection_dist_index_js-node_modules_github_textarea-autosi-9e0349-7c78ee755ad3.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_updatable-content_updatable-content_ts-de5090066183.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_task-list_ts-app_assets_modules_github_onfocus_ts-app_ass-421cec-4b1b14b7b7e3.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_sticky-scroll-into-view_ts-6eeea28aaa24.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_ajax-error_ts-app_assets_modules_github_behaviors_include-467754-558672090412.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_commenting_edit_ts-app_assets_modules_github_behaviors_ht-83c235-7b4e1bb6ed01.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_blob-anchor_ts-app_assets_modules_github_filter-sort_ts-app_assets_-6deafe-ba6b1a674c75.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-4e6376231a8c.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_catalyst_lib_index_js-06ff531-2ea61fcc9a71.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/notifications-global-c65a9d55f5bb.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_github_catalyst_lib_inde-dbbea9-bac2d7b04358.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_repositories_get-repo-element_ts-df37095ca4f0.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/code-menu-6c10c0b19d08.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-3ca9a249de0d.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_dompurify_dist_purify_js-89a69c248502.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_oddbird_popover-polyfill_dist_popover_js-56729c905fe2.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_smoothscroll-polyfill_di-75db2e-adf929d695f3.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/environment-cf5295268226.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_behaviors_dist_esm_focus-zone_js-f093dd60bd4e.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_selector-observer_dist_index_esm_js-f690fd9ae3d5.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_text-expander-element_dist_index_js-cd48220d74d5.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_auto-complete-element_dist_index_js-node_modules_github_details-d-ed9a97-841122a1e9d4.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_delegated-events_dist_in-af795d-6b8acebb2278.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_filter-input-element_dist_index_js-node_modules_github_remote-inp-b7d8f4-2355048ff048.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_catalyst_lib_index_js-node_modules_github_clipboard-copy-element_-782ca5-54763cd55b96.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_primer_view-co-15cdfa-9117dc700fdf.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_onfocus_ts-ui_packages_trusted-types-policies_policy_ts-ui_packages-6fe316-d8f40351c6bb.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/github-elements-f4ec49d0b0e0.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/element-registry-cd770aaf9124.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_catalyst_lib_index_js-node_modules_github_hydro-analytics-client_-7901e7-4b84c23ea573.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_braintree_browser-detection_dist_browser-detection_js-node_modules_stack-68835d-a18220f1db8d.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_lit-html_lit-html_js-ce7225a304c5.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_morphdom_dist_morphdom-e-7c534c-f8a5485c982a.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-858e043fcf76.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_remote-form_dist_index_js-node_modules_delegated-events_dist_inde-893f9f-6cf3320416b8.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_scroll-anchoring_dist_scroll-anchoring_esm_js-node_modules_github_hotkey-1a1d91-fa9f29a8514b.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_color-convert_index_js-0e07cc183eed.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_behaviors_dist_esm_dimensions_js-node_modules_github_jtml_lib_index_js-53b423ede32a.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_session-resume_dist_index_js-node_modules_primer_behaviors_dist_e-da6ec6-246ab0804b6b.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_quote-selection_dist_index_js-node_modules_github_textarea-autosi-9e0349-ab4976fc78a6.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_updatable-content_updatable-content_ts-8691e61a5e0d.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_task-list_ts-app_assets_modules_github_onfocus_ts-app_ass-421cec-c712b754a62f.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_sticky-scroll-into-view_ts-78ce1c8782f5.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_ajax-error_ts-app_assets_modules_github_behaviors_include-467754-12b67c78b7f2.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_commenting_edit_ts-app_assets_modules_github_behaviors_ht-83c235-39e927e92ed9.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_blob-anchor_ts-app_assets_modules_github_filter-sort_ts-app_assets_-6deafe-02c326c4f267.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-05413c6898e0.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_catalyst_lib_index_js-06ff531-bf7e5a3732fd.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/notifications-global-957ece5a6535.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_github_catalyst_lib_inde-dbbea9-e73b311a14f1.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_repositories_get-repo-element_ts-3c85d9c2914e.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/code-menu-ca7752c753eb.js"></script>
   
-  <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-lib-a89cbd87a1e0.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_primer_octicons-react_di-b40d97-9b98c5140e22.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Box_Box_js-5a335cbe71ad.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Button_Button_js-e0418ad2e1ae.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_TooltipV2_Tooltip_js-6278fe36ada6.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_clsx_dist_clsx_m_js-node_modules_primer_react_node_modules_primer_octico-c56103-2d8ef51d13f0.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_ActionList_index_js-15398a84eef6.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Text_Text_js-node_modules_primer_react_lib-esm_Text-7845da-f85d741b1640.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_ActionMenu_ActionMenu_js-node_modules_primer_react_-5b2420-a2ece361a5e9.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_FormControl_FormControl_js-4a3e8f643859.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_react-router-dom_dist_index_js-b2efb8a73d21.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_ConfirmationDialog_ConfirmationDialog_js-f11fa8953592.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Link_Link_js-node_modules_primer_react_lib-esm_Rela-a903d7-61c8d74beec2.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Heading_Heading_js-node_modules_primer_react_lib-es-344976-beba6ae9d178.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_FeatureFlags_FeatureFlags_js-node_modules_primer_re-0771fa-db3170b216f2.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_TreeView_TreeView_js-f90c9ef93f03.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Avatar_Avatar_js-node_modules_primer_react_lib-esm_-bae286-c8bb2165ee77.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_CheckboxGroup_CheckboxGroup_js-node_modules_primer_-5b5d36-a847f91e2193.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_react-core_create-browser-history_ts-ui_packages_safe-storage_safe-storage_ts-ui_-682c2c-356fcfcab587.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_react-core_register-app_ts-d407ff8d907c.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_paths_index_ts-e782c7c2ddf3.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_ref-selector_RefSelector_tsx-94540a7bf359.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_commit-attribution_index_ts-ui_packages_commit-checks-status_index_ts-ui_packages-f45efb-c654777d0d1c.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_code-view-shared_hooks_use-canonical-object_ts-ui_packages_code-view-shared_hooks-6c8816-56b55ff77d71.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_code-view-shared_hooks_use-file-page-payload_ts-ui_packages_code-view-shared_util-337bac-643cb002ed07.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_repos-file-tree-view_repos-file-tree-view_ts-ui_packages_react-core_JsonRoute_tsx-748bc93fe564.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-code-view-69d3b25e258c.js"></script>
+  <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-lib-7b7b5264f6c1.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_primer_octicons-react_di-b40d97-4d6c02bda7d5.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Box_Box_js-55a9038b54f0.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Button_Button_js-e0daa3ed138e.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_TooltipV2_Tooltip_js-00f5fa9c70f2.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_clsx_dist_clsx_m_js-node_modules_primer_react_node_modules_primer_octico-c56103-e91295e60abd.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_ActionList_index_js-ff1c86cdc5f4.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Text_Text_js-node_modules_primer_react_lib-esm_Text-7845da-b0f14fe994a8.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_ActionMenu_ActionMenu_js-node_modules_primer_react_-5b2420-53aaa5eed00e.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_FormControl_FormControl_js-a6e01082636d.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_react-router-dom_dist_index_js-c5568c29d405.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_ConfirmationDialog_ConfirmationDialog_js-fc51083eda27.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Link_Link_js-node_modules_primer_react_lib-esm_Rela-a903d7-be6b06b60109.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Heading_Heading_js-node_modules_primer_react_lib-es-344976-5b61929256e0.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_TreeView_TreeView_js-fdc78cd094c8.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Avatar_Avatar_js-node_modules_primer_react_lib-esm_-072b67-0c80f46896ed.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Button_LinkButton_js-node_modules_primer_react_lib--78ea2b-54b253b299ee.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_CheckboxGroup_CheckboxGroup_js-node_modules_primer_-5b5d36-827f5c85887c.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_react-core_create-browser-history_ts-ui_packages_safe-storage_safe-storage_ts-ui_-682c2c-77a6a66547d5.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_react-core_register-app_ts-ebeee98f1dc1.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_paths_index_ts-48462c0c04b7.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_ref-selector_RefSelector_tsx-ea25a04b0016.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_commit-attribution_index_ts-ui_packages_commit-checks-status_index_ts-ui_packages-f45efb-bb5781427d25.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_code-view-shared_hooks_use-canonical-object_ts-ui_packages_code-view-shared_hooks-6c8816-a0a24c9b22ad.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_code-view-shared_hooks_use-file-page-payload_ts-ui_packages_code-view-shared_util-337bac-3a0b545a888e.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_repos-file-tree-view_repos-file-tree-view_ts-ui_packages_react-core_JsonRoute_tsx-1c2dbde00c01.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-code-view-e32df112fd4a.js"></script>
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/react-code-view.234ae39ff1fa1232236c.module.css" />
 
-    <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-lib-a89cbd87a1e0.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_primer_octicons-react_di-b40d97-9b98c5140e22.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Box_Box_js-5a335cbe71ad.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Button_Button_js-e0418ad2e1ae.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_TooltipV2_Tooltip_js-6278fe36ada6.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_clsx_dist_clsx_m_js-node_modules_primer_react_node_modules_primer_octico-c56103-2d8ef51d13f0.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_ActionList_index_js-15398a84eef6.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Text_Text_js-node_modules_primer_react_lib-esm_Text-7845da-f85d741b1640.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_ActionMenu_ActionMenu_js-node_modules_primer_react_-5b2420-a2ece361a5e9.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_FormControl_FormControl_js-4a3e8f643859.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_SelectPanel_SelectPanel_js-ef7cc594b287.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_react-core_create-browser-history_ts-ui_packages_safe-storage_safe-storage_ts-ui_-682c2c-356fcfcab587.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/notifications-subscriptions-menu-de3cf37c25e1.js"></script>
+    <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-lib-7b7b5264f6c1.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_primer_octicons-react_di-b40d97-4d6c02bda7d5.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Box_Box_js-55a9038b54f0.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Button_Button_js-e0daa3ed138e.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_TooltipV2_Tooltip_js-00f5fa9c70f2.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_clsx_dist_clsx_m_js-node_modules_primer_react_node_modules_primer_octico-c56103-e91295e60abd.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_ActionList_index_js-ff1c86cdc5f4.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Text_Text_js-node_modules_primer_react_lib-esm_Text-7845da-b0f14fe994a8.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_ActionMenu_ActionMenu_js-node_modules_primer_react_-5b2420-53aaa5eed00e.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_FormControl_FormControl_js-a6e01082636d.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_SelectPanel_SelectPanel_js-3569b106a238.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_react-core_create-browser-history_ts-ui_packages_safe-storage_safe-storage_ts-ui_-682c2c-77a6a66547d5.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/notifications-subscriptions-menu-0272c2796318.js"></script>
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/notifications-subscriptions-menu.572fff1cb5c3caef1ac9.module.css" />
 
 
@@ -136,7 +136,7 @@
   <meta name="current-catalog-service-hash" content="f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb">
 
 
-  <meta name="request-id" content="A8D9:194AD0:342586B:486973F:66A0F32C" data-pjax-transient="true"/><meta name="html-safe-nonce" content="9d87b71efb18c96ef56f3205fe242c880b4384509b865e429fb0977216884bfd" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJBOEQ5OjE5NEFEMDozNDI1ODZCOjQ4Njk3M0Y6NjZBMEYzMkMiLCJ2aXNpdG9yX2lkIjoiODQ3NTY2ODc0OTc0ODMzNTQwNCIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="4892b586d4aebdbaf9904cebb72e5573c5d0c8c675e957c1e8a2c278be4c20a1" data-pjax-transient="true"/>
+  <meta name="request-id" content="3451:65614:4DB2CA:66D6DA:66A1A4EE" data-pjax-transient="true"/><meta name="html-safe-nonce" content="90533971e61cbbd1bbcdbe5283380b3ef33868794a4c026931930a5dfaee1765" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIzNDUxOjY1NjE0OjREQjJDQTo2NkQ2REE6NjZBMUE0RUUiLCJ2aXNpdG9yX2lkIjoiNDk0MjcyMjI0Nzk4NjA5NTM0MiIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="0ae8ccde3c556679913054aad014d16b3444b3cd583f90884b82de3d751384c4" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:387785900" data-turbo-transient>
@@ -189,10 +189,10 @@
         <meta name="expected-hostname" content="github.com">
 
 
-  <meta http-equiv="x-pjax-version" content="7ca46bdd76c9d813a4544ffa290964e7c33e8f287fdb825eb0ecde4382396617" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-version" content="afec3ef2719be791b474012fd7b0d95d3909f660b75e1a993628a2dbc82febe4" data-turbo-track="reload">
   <meta http-equiv="x-pjax-csp-version" content="479d0e4f25e10adc648c4dd302ffd147aa5c2b606f0c5424f6f6f0f4511e5753" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-css-version" content="0d958c6aeaa6741675aa524d65c7a101bcc1478d63626c7d172a2773f1a2b4b2" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-js-version" content="863ff539001bd04b742021b29ec865faca5c34268a7167dbb123132fdc0c09f9" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-css-version" content="163e20a46a2244fead0e862c9379f4211a6f55a1babb9f0b78d00393e2938050" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-js-version" content="d183d84c1b684ebf727ef25199d6c1175be76969409735fa7728ce7c3d95e113" data-turbo-track="reload">
 
   <meta name="turbo-cache-control" content="no-preview" data-turbo-transient="">
 
@@ -244,9 +244,9 @@
 
 
 
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Dialog_Dialog_js-node_modules_primer_react_lib-esm_-af9f6c-3d67c4bbcd6d.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Dialog_Dialog_js-node_modules_primer_react_lib-esm_-af9f6c-3aa4e108fcd4.js"></script>
 
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/keyboard-shortcuts-dialog-bd96466b1628.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/keyboard-shortcuts-dialog-d8ee9fa5260e.js"></script>
 
 <react-partial
   partial-name="keyboard-shortcuts-dialog"
@@ -265,8 +265,8 @@
           
 
               
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_remote-form_dist_index_js-node_modules_delegated-events_dist_inde-94fd67-f094580c6608.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/sessions-e3f50a300327.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_remote-form_dist_index_js-node_modules_delegated-events_dist_inde-94fd67-9a621ecbf672.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/sessions-4426dd0b720e.js"></script>
 <header class="HeaderMktg header-logged-out js-details-container js-header Details position-relative f4 py-3" role="banner" data-color-mode=light data-light-theme=light data-dark-theme=dark>
   <h2 class="sr-only">Navigation Menu</h2>
 
@@ -571,42 +571,28 @@
               <span class="d-block h4 color-fg-default my-1" id="resources-topics-heading">Topics</span>
             <ul class="list-style-none f5" aria-labelledby="resources-topics-heading">
                 <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Resources&quot;,&quot;action&quot;:&quot;click to go to AI&quot;,&quot;label&quot;:&quot;ref_cta:AI;&quot;}" href="/resources/articles/ai">
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;ai&quot;,&quot;context&quot;:&quot;resources_subnav&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;ai_link_resources_subnav_navbar&quot;}" href="/resources/articles/ai">
       AI
 
     
 </a></li>
 
                 <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Resources&quot;,&quot;action&quot;:&quot;click to go to DevOps&quot;,&quot;label&quot;:&quot;ref_cta:DevOps;&quot;}" href="/resources/articles/devops">
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;devops&quot;,&quot;context&quot;:&quot;resources_subnav&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;devops_link_resources_subnav_navbar&quot;}" href="/resources/articles/devops">
       DevOps
 
     
 </a></li>
 
                 <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Resources&quot;,&quot;action&quot;:&quot;click to go to Innersource&quot;,&quot;label&quot;:&quot;ref_cta:Innersource;&quot;}" href="/resources/articles/innersource">
-      Innersource
-
-    
-</a></li>
-
-                <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Resources&quot;,&quot;action&quot;:&quot;click to go to Open Source&quot;,&quot;label&quot;:&quot;ref_cta:Open Source;&quot;}" href="/resources/articles/open-source">
-      Open Source
-
-    
-</a></li>
-
-                <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Resources&quot;,&quot;action&quot;:&quot;click to go to Security&quot;,&quot;label&quot;:&quot;ref_cta:Security;&quot;}" href="/resources/articles/security">
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;security&quot;,&quot;context&quot;:&quot;resources_subnav&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;security_link_resources_subnav_navbar&quot;}" href="/resources/articles/security">
       Security
 
     
 </a></li>
 
                 <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Resources&quot;,&quot;action&quot;:&quot;click to go to Software Development&quot;,&quot;label&quot;:&quot;ref_cta:Software Development;&quot;}" href="/resources/articles/software-development">
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;software_development&quot;,&quot;context&quot;:&quot;resources_subnav&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;software_development_link_resources_subnav_navbar&quot;}" href="/resources/articles/software-development">
       Software Development
 
     
@@ -618,7 +604,7 @@
               <span class="d-block h4 color-fg-default my-1" id="resources-explore-heading">Explore</span>
             <ul class="list-style-none f5" aria-labelledby="resources-explore-heading">
                 <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary Link--external" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Resources&quot;,&quot;action&quot;:&quot;click to go to Learning Pathways&quot;,&quot;label&quot;:&quot;ref_cta:Learning Pathways;&quot;}" href="https://resources.github.com/learn/pathways">
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary Link--external" target="_blank" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;learning_pathways&quot;,&quot;context&quot;:&quot;resources_subnav&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;learning_pathways_link_resources_subnav_navbar&quot;}" href="https://resources.github.com/learn/pathways">
       Learning Pathways
 
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
@@ -627,7 +613,7 @@
 </a></li>
 
                 <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary Link--external" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Resources&quot;,&quot;action&quot;:&quot;click to go to White papers, Ebooks, Webinars&quot;,&quot;label&quot;:&quot;ref_cta:White papers, Ebooks, Webinars;&quot;}" href="https://resources.github.com">
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary Link--external" target="_blank" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;white_papers_ebooks_webinars&quot;,&quot;context&quot;:&quot;resources_subnav&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;white_papers_ebooks_webinars_link_resources_subnav_navbar&quot;}" href="https://resources.github.com">
       White papers, Ebooks, Webinars
 
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
@@ -636,14 +622,14 @@
 </a></li>
 
                 <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Resources&quot;,&quot;action&quot;:&quot;click to go to Customer Stories&quot;,&quot;label&quot;:&quot;ref_cta:Customer Stories;&quot;}" href="https://github.com/customer-stories">
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;customer_stories&quot;,&quot;context&quot;:&quot;resources_subnav&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;customer_stories_link_resources_subnav_navbar&quot;}" href="https://github.com/customer-stories">
       Customer Stories
 
     
 </a></li>
 
                 <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary Link--external" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Resources&quot;,&quot;action&quot;:&quot;click to go to Partners&quot;,&quot;label&quot;:&quot;ref_cta:Partners;&quot;}" href="https://partner.github.com">
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary Link--external" target="_blank" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;partners&quot;,&quot;context&quot;:&quot;resources_subnav&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;partners_link_resources_subnav_navbar&quot;}" href="https://partner.github.com">
       Partners
 
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
@@ -668,7 +654,7 @@
           <div class="border-bottom pb-3 mb-3">
             <ul class="list-style-none f5" >
                 <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to GitHub Sponsors&quot;,&quot;label&quot;:&quot;ref_cta:GitHub Sponsors;&quot;}" href="/sponsors">
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;github_sponsors&quot;,&quot;context&quot;:&quot;open_source_subnav&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;github_sponsors_link_open_source_subnav_navbar&quot;}" href="/sponsors">
       
       <div>
         <div class="color-fg-default h4">GitHub Sponsors</div>
@@ -683,7 +669,7 @@
           <div class="border-bottom pb-3 mb-3">
             <ul class="list-style-none f5" >
                 <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to The ReadME Project&quot;,&quot;label&quot;:&quot;ref_cta:The ReadME Project;&quot;}" href="https://github.com/readme">
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;the_readme_project&quot;,&quot;context&quot;:&quot;open_source_subnav&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;the_readme_project_link_open_source_subnav_navbar&quot;}" href="https://github.com/readme">
       
       <div>
         <div class="color-fg-default h4">The ReadME Project</div>
@@ -699,21 +685,21 @@
               <span class="d-block h4 color-fg-default my-1" id="open-source-repositories-heading">Repositories</span>
             <ul class="list-style-none f5" aria-labelledby="open-source-repositories-heading">
                 <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to Topics&quot;,&quot;label&quot;:&quot;ref_cta:Topics;&quot;}" href="https://github.com/topics">
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;topics&quot;,&quot;context&quot;:&quot;open_source_subnav&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;topics_link_open_source_subnav_navbar&quot;}" href="https://github.com/topics">
       Topics
 
     
 </a></li>
 
                 <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to Trending&quot;,&quot;label&quot;:&quot;ref_cta:Trending;&quot;}" href="https://github.com/trending">
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;trending&quot;,&quot;context&quot;:&quot;open_source_subnav&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;trending_link_open_source_subnav_navbar&quot;}" href="https://github.com/trending">
       Trending
 
     
 </a></li>
 
                 <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to Collections&quot;,&quot;label&quot;:&quot;ref_cta:Collections;&quot;}" href="https://github.com/collections">
+  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;collections&quot;,&quot;context&quot;:&quot;open_source_subnav&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;collections_link_open_source_subnav_navbar&quot;}" href="https://github.com/collections">
       Collections
 
     
@@ -799,7 +785,7 @@
 
 
                 <li class="HeaderMenu-item position-relative flex-wrap flex-justify-between flex-items-center d-block d-lg-flex flex-lg-nowrap flex-lg-items-center js-details-container js-header-menu-item">
-    <a class="HeaderMenu-link no-underline px-0 px-lg-2 py-3 py-lg-2 d-block d-lg-inline-block" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Pricing&quot;,&quot;label&quot;:&quot;ref_cta:Pricing;&quot;}" href="https://github.com/pricing">Pricing</a>
+    <a class="HeaderMenu-link no-underline px-0 px-lg-2 py-3 py-lg-2 d-block d-lg-inline-block" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;pricing&quot;,&quot;context&quot;:&quot;global_nav&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;pricing_link_global_nav_navbar&quot;}" href="https://github.com/pricing">Pricing</a>
 </li>
 
             </ul>
@@ -809,7 +795,7 @@
                 
 
 
-<qbsearch-input class="search-input" data-scope="repo:weareblahs/freeview" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="8feCix53vww50oYwZvbP4gdAyj8eDROViXFDXe1drr0pOCRhvRyWutQc3FkFf5ChfLaERkJ8LG0F9OcvXdgS2g" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="weareblahs/freeview" data-current-org="" data-current-owner="weareblahs" data-logged-in="false" data-copilot-chat-enabled="false" data-nl-search-enabled="false">
+<qbsearch-input class="search-input" data-scope="repo:weareblahs/freeview" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="ILVtDNZ6cTG8Nj7Dt4xJ-2CAhTFv5PJw5zuEO9bjGjVFbruvanqXRbMFwwYEmctk2-65HzR8LNea0ff9Re3N7g" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="weareblahs/freeview" data-current-org="" data-current-owner="weareblahs" data-logged-in="false" data-copilot-chat-enabled="false" data-nl-search-enabled="false">
   <div
     class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center mr-4 rounded"
     data-action="click:qbsearch-input#searchInputContainerClicked"
@@ -823,6 +809,7 @@
         placeholder="Search or jump to..."
         data-hotkey=s,/
         autocapitalize="off"
+        data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;searchbar&quot;,&quot;context&quot;:&quot;global_nav&quot;,&quot;tag&quot;:&quot;input&quot;,&quot;label&quot;:&quot;searchbar_input_global_nav_navbar&quot;}"
         data-action="click:qbsearch-input#handleExpand"
       >
         <div class="mr-2 color-fg-muted">
@@ -873,7 +860,7 @@
           ></div>
           <div class="QueryBuilder-InputWrapper">
             <div aria-hidden="true" class="QueryBuilder-Sizer" data-target="query-builder.sizer"></div>
-            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-4859a147-7134-46bb-9dcd-683fded5e64f" data-target="query-builder.input" data-action="
+            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-4c65b410-8827-4cec-83bb-c2edc3f4fb79" data-target="query-builder.input" data-action="
           input:query-builder#inputChange
           blur:query-builder#inputBlur
           keydown:query-builder#inputKeydown
@@ -1110,7 +1097,7 @@
                   id="query-builder-test-results"
                 ></ul>
         </div>
-      <div class="FormControl-inlineValidation" id="validation-4859a147-7134-46bb-9dcd-683fded5e64f" hidden="hidden">
+      <div class="FormControl-inlineValidation" id="validation-4c65b410-8827-4cec-83bb-c2edc3f4fb79" hidden="hidden">
         <span class="FormControl-inlineValidation--visual">
           <svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-alert-fill">
     <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
@@ -1153,7 +1140,7 @@
   
 </div>
       <scrollable-region data-labelled-by="feedback-dialog-title">
-        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="HR224vWRfu/jiREtYZugGaygmNQrbTQWUm2e6+4kCYtolqYIqshzQ6JEikLm+CBJ2m6f12RZcxSgOi67nzeJow==" />
+        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="hj3s6FrA4OrmFvCz0ZoLhXpG9kjfQ0bxyObcVFRGf4cnwp4dp4ltri+oDnsqiUNqwG473hpe/fEq4OEHyjJUdg==" />
           <p>We read every piece of feedback, and take your input very seriously.</p>
           <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
           <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
@@ -1191,7 +1178,7 @@
         <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
         <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="J62WxJdwiQC0amz1i6Q6jHa1WUYgcvlEk9mDhSqmNRr/YgIIfMOg53N5wovcwqLaSP6ifRrhsnaC3ipWk1Xv1A==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="NG5mBAwOXZRnqvQHCn8vaQltR9MMDtlIU4b9PwSt9rbwz/BLC4EgXhNPs7QiGhelzyVfBwZCxGDUyP/1eCmZxA==" />
           <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
           <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
@@ -1209,7 +1196,7 @@
                 placeholder="github-ruby"
                 required
                 maxlength="50">
-              <input type="hidden" data-csrf="true" value="lamepK/nYhQrvGbKM3ohGiLU/0u4yQUIn7ryGCeB77pZO8ociGPWVncPIo0WvJWBrxBoim5atONCx21viO2tUQ==" />
+              <input type="hidden" data-csrf="true" value="Y/mdN8Y58HDZ/32m0hqdeEb0viYkDuxy2v3DcPyMRrZmXWsiKpZRWIs9CAs5lEq3GPO3+fsgCdekI5ezxHc13Q==" />
             </auto-check>
           </div>
 
@@ -1282,10 +1269,10 @@
         <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
         <span class="js-stale-session-flash-switched" hidden>You switched accounts on another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 
-    <button id="icon-button-33375a89-cfa3-448e-813d-765346c5e167" aria-labelledby="tooltip-d3fc4eac-200f-45f1-8d60-846efd3427ae" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
+    <button id="icon-button-70f37a81-11d1-4c72-a794-c3efc265d5fd" aria-labelledby="tooltip-114824c9-7e56-41ef-8214-876718655fb2" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</button><tool-tip id="tooltip-d3fc4eac-200f-45f1-8d60-846efd3427ae" for="icon-button-33375a89-cfa3-448e-813d-765346c5e167" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
+</button><tool-tip id="tooltip-114824c9-7e56-41ef-8214-876718655fb2" for="icon-button-70f37a81-11d1-4c72-a794-c3efc265d5fd" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 
 
   
@@ -1385,7 +1372,7 @@
             <a href="/login?return_to=%2Fweareblahs%2Ffreeview" rel="nofollow" id="repository-details-watch-button" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/weareblahs/freeview/blob/main/mytv_broadcasting.m3u8&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="41de574456da117148299c1189dd3ca9d75a5bfa6e909f36104e288651cbea2e" aria-label="You must be signed in to change notification settings" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
     <path d="M8 16a2 2 0 0 0 1.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 0 0 8 16ZM3 5a5 5 0 0 1 10 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.519 1.519 0 0 1 13.482 13H2.518a1.516 1.516 0 0 1-1.263-2.36l1.703-2.554A.255.255 0 0 0 3 7.947Zm5-3.5A3.5 3.5 0 0 0 4.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.017.017 0 0 0-.003.01l.001.006c0 .002.002.004.004.006l.006.004.007.001h10.964l.007-.001.006-.004.004-.006.001-.007a.017.017 0 0 0-.003-.01l-1.703-2.554a1.745 1.745 0 0 1-.294-.97V5A3.5 3.5 0 0 0 8 1.5Z"></path>
 </svg>Notifications
-</a>    <tool-tip id="tooltip-3a50939e-d232-433f-84d9-9621c618e103" for="repository-details-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
+</a>    <tool-tip id="tooltip-40764f7b-4c53-42ce-89d0-776fcb896c29" for="repository-details-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
 
     </li>
 
@@ -1508,22 +1495,22 @@
 </ul>
     <div style="visibility:hidden;" data-view-component="true" class="UnderlineNav-actions js-responsive-underlinenav-overflow position-absolute pr-3 pr-md-4 pr-lg-5 right-0">      <action-menu data-select-variant="none" data-view-component="true">
   <focus-group direction="vertical" mnemonics retain>
-    <button id="action-menu-d1357355-d79f-433a-a150-8f8c8c6d626c-button" popovertarget="action-menu-d1357355-d79f-433a-a150-8f8c8c6d626c-overlay" aria-controls="action-menu-d1357355-d79f-433a-a150-8f8c8c6d626c-list" aria-haspopup="true" aria-labelledby="tooltip-1d1455a2-fc00-48b1-b0ef-50466f3bb569" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
+    <button id="action-menu-4731cd51-b4ae-4932-adc8-83de6627d86f-button" popovertarget="action-menu-4731cd51-b4ae-4932-adc8-83de6627d86f-overlay" aria-controls="action-menu-4731cd51-b4ae-4932-adc8-83de6627d86f-list" aria-haspopup="true" aria-labelledby="tooltip-ad695f7d-90c6-4428-9c81-91a5c90ebe97" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
     <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
 </svg>
-</button><tool-tip id="tooltip-1d1455a2-fc00-48b1-b0ef-50466f3bb569" for="action-menu-d1357355-d79f-433a-a150-8f8c8c6d626c-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
+</button><tool-tip id="tooltip-ad695f7d-90c6-4428-9c81-91a5c90ebe97" for="action-menu-4731cd51-b4ae-4932-adc8-83de6627d86f-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
 
 
-<anchored-position id="action-menu-d1357355-d79f-433a-a150-8f8c8c6d626c-overlay" anchor="action-menu-d1357355-d79f-433a-a150-8f8c8c6d626c-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
+<anchored-position id="action-menu-4731cd51-b4ae-4932-adc8-83de6627d86f-overlay" anchor="action-menu-4731cd51-b4ae-4932-adc8-83de6627d86f-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
   <div data-view-component="true" class="Overlay Overlay--size-auto">
     
       <div data-view-component="true" class="Overlay-body Overlay-body--paddingNone">          <action-list>
   <div data-view-component="true">
-    <ul aria-labelledby="action-menu-d1357355-d79f-433a-a150-8f8c8c6d626c-button" id="action-menu-d1357355-d79f-433a-a150-8f8c8c6d626c-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
+    <ul aria-labelledby="action-menu-4731cd51-b4ae-4932-adc8-83de6627d86f-button" id="action-menu-4731cd51-b4ae-4932-adc8-83de6627d86f-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
         <li hidden="hidden" data-menu-item="i0code-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-e4143764-4a4a-45c2-aa30-2b6bc423013a" href="/weareblahs/freeview" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-ab15f446-00ab-4528-a619-f07cfb7d729a" href="/weareblahs/freeview" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1538,7 +1525,7 @@
         <li hidden="hidden" data-menu-item="i1issues-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-c61ec345-3ba7-4885-951d-fed5451087bb" href="/weareblahs/freeview/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-10825d20-d37e-4550-b71c-09a5ead62428" href="/weareblahs/freeview/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
@@ -1553,7 +1540,7 @@
         <li hidden="hidden" data-menu-item="i2pull-requests-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-60b905aa-955c-4b43-b578-179eef682470" href="/weareblahs/freeview/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-ddf4790f-f15e-408e-a5f8-d1649c2da333" href="/weareblahs/freeview/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
@@ -1568,7 +1555,7 @@
         <li hidden="hidden" data-menu-item="i3actions-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-9fbdb6fe-c5d3-43d7-be22-9e8598330d87" href="/weareblahs/freeview/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-be926265-58e4-41ad-ae81-a3a8696a1c62" href="/weareblahs/freeview/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play">
     <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
@@ -1583,7 +1570,7 @@
         <li hidden="hidden" data-menu-item="i4projects-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-c25bf9b9-25b3-44aa-9460-2c5cb348b281" href="/weareblahs/freeview/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-930c3443-4591-490d-9961-fbac3d7112bc" href="/weareblahs/freeview/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table">
     <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
@@ -1598,7 +1585,7 @@
         <li hidden="hidden" data-menu-item="i5security-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-4ffca086-4e9c-4590-a882-d345d0496d88" href="/weareblahs/freeview/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-19526bb4-738f-42e6-871c-84ec7be71a98" href="/weareblahs/freeview/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield">
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
@@ -1613,7 +1600,7 @@
         <li hidden="hidden" data-menu-item="i6insights-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-7311821f-2c4a-48d8-879f-75b76c1e90e5" href="/weareblahs/freeview/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-17718e44-60e8-4628-b31f-b6bca9e45637" href="/weareblahs/freeview/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph">
     <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -2478,7 +2465,12 @@ data-styled.g63[id="SegmentedControl__SegmentedControlList-sc-1rzig82-0"]{conten
 
           <li class="mr-3" >
   <cookie-consent-link>
-    <button type="button" class="Link--secondary underline-on-hover border-0 p-0 color-bg-transparent" data-action="click:cookie-consent-link#showConsentManagement">
+    <button
+      type="button"
+      class="Link--secondary underline-on-hover border-0 p-0 color-bg-transparent"
+      data-action="click:cookie-consent-link#showConsentManagement"
+      data-analytics-event="{&quot;location&quot;:&quot;footer&quot;,&quot;action&quot;:&quot;cookies&quot;,&quot;context&quot;:&quot;subfooter&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;cookies_link_subfooter_footer&quot;}"
+    >
       Manage cookies
     </button>
   </cookie-consent-link>
@@ -2486,7 +2478,12 @@ data-styled.g63[id="SegmentedControl__SegmentedControlList-sc-1rzig82-0"]{conten
 
 <li class="mr-3">
   <cookie-consent-link>
-    <button type="button" class="Link--secondary underline-on-hover border-0 p-0 color-bg-transparent" data-action="click:cookie-consent-link#showConsentManagement">
+    <button
+      type="button"
+      class="Link--secondary underline-on-hover border-0 p-0 color-bg-transparent"
+      data-action="click:cookie-consent-link#showConsentManagement"
+      data-analytics-event="{&quot;location&quot;:&quot;footer&quot;,&quot;action&quot;:&quot;dont_share_info&quot;,&quot;context&quot;:&quot;subfooter&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;dont_share_info_link_subfooter_footer&quot;}"
+    >
       Do not share my personal information
     </button>
   </cookie-consent-link>
@@ -2968,31 +2965,31 @@ https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.m
 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
 #################### TEST ####################
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZHZklheFFHWHMzd1NXRGhWNnRPV2lLQ09PUHpYNnNYUkhJMzI5N3ptcW02dDlZb2FFUklRSGZ0dW1yZHBXSVV4OWUtZUxtNW1kcXViV1BnSmhGdERuaVNBNmVUbXhIZ0NqbUZvazd1RVlDbS0tUnpfU2lpd0oxck5wZmxYVTJkakRBQjJQSzVzVlBUT0hJUk11TFJ3U3NWLTloUDZFZVB3bkVUNTB1Wk0yMC1jQ0lFbXZENmhucWFJcHR1NFNvQTlKaG16U0wxT3NQRzdJbEJsUW5uY0toUm16ekFwN3prbDVaajgtY0JtV05La1VVXzl1ZmhGMUsxei1iRmwxc2hWZlZqdXpvVVBINXBpUWxjUFdqSkJQa0VSTnhENUJLRVNLODBHbnY4YlJNXzBsUDdCa0pZQ1Z2TFRIUm9UQlp0VUZ5VXNhRDZQbWNzdW9jRElPZ3hjWEVuQk5FVWwyYmU1VDY2eW9OMXoxdFkmY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTE2IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jaDVfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZHZklheFFHWHMzd1NXRGhWNnRPV2lLQ09PUHpYNnNYUkhJMzI5N3ptcW02dDlZb2FFUklRSGZ0dW1yZHBXSVV4OWUtZUxtNW1kcXViV1BnSmhGdERuaVNBNmVUbXhIZ0NqbUZvazd1RVlDbS0tUnpfU2lpd0oxck5wZmxYVTJkakRBQjJQSzVzVlBUT0hJUk11TFJ3U3NWLTloUDZFZVB3bkVUNTB1Wk0yMC1jQ0lFbXZENmhucWFJcHR1NFNvQTlKaG16U0wxT3NQRzdJbEJsUW5uY0toUm16ekFwN3prbDVaajgtY0JtV05La1VVXzl1ZmhGMUsxei1iRmwxc2hWZlZqdXpvVVBINXBpUWxjUFdqSkJQa0VSTnhENUJLRVNLODBHbnY4YlJNXzBsUDdCa0pZQ1Z2TFRIUm9UQlp0VUZ5VXNhRDZQbWNzdW9jRElPZ3hjWEVuQk5FVWwyYmU1VDY2eW9OMXoxdFkiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=LHO%2blEhrUpg8ap2q7BUib%2fP8yf4%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZBaTNwMzVyMVV0b1diRFVMeGV0V29GQU9kejhqWk9fVVFMbHpaS0cxa09VQ0hEQnN2UjVGNW5iRFlrdFhaNUlWcDE3akJmTEdhUjVEa1ZOdG9tN0ttOXVvTklhU0FQMzRBZno0RjFBSDhZemVScDBQTUdaZ01YQWp5REhnN0RCdXByZTJQVE5waS1tRzBjQ25rUmpLTU1YYWtqUjFqY09zMERvSlkybklUY0oza2NRYl9BZ3VYSldiRGNQOWZfeHZLcGFjLTUweUxqcE56TzNWX2x0ZGV2cVFCb1JzTWtRQmc4MnpEUEF6T1ZrcHFVNmV3UDUxcjdsQm9ONXItU1BaRGlSYmJmd0dJUnpkd1dwVXluTENUaEM2el9ydmZsTmZocHRmdTFMVmQzajVoYlB2MjQybWlad1RyNW4xdThaOGY3MDl1RHI0bGV1LTlwRm5wSi1RWDFSc0txX2xNbEVKQkE1ekU2dkxUMk4mY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTE2IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jaDVfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZBaTNwMzVyMVV0b1diRFVMeGV0V29GQU9kejhqWk9fVVFMbHpaS0cxa09VQ0hEQnN2UjVGNW5iRFlrdFhaNUlWcDE3akJmTEdhUjVEa1ZOdG9tN0ttOXVvTklhU0FQMzRBZno0RjFBSDhZemVScDBQTUdaZ01YQWp5REhnN0RCdXByZTJQVE5waS1tRzBjQ25rUmpLTU1YYWtqUjFqY09zMERvSlkybklUY0oza2NRYl9BZ3VYSldiRGNQOWZfeHZLcGFjLTUweUxqcE56TzNWX2x0ZGV2cVFCb1JzTWtRQmc4MnpEUEF6T1ZrcHFVNmV3UDUxcjdsQm9ONXItU1BaRGlSYmJmd0dJUnpkd1dwVXluTENUaEM2el9ydmZsTmZocHRmdTFMVmQzajVoYlB2MjQybWlad1RyNW4xdThaOGY3MDl1RHI0bGV1LTlwRm5wSi1RWDFSc0txX2xNbEVKQkE1ekU2dkxUMk4iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=ydzcddHsgQmXr5QZtst9qDQaqDQ%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Ch 5" tvg-chno="Ch 5" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776036%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 5
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/5754116/contextType/PLAYBACK/isAltUrl/False/a.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZNMkFqaUljZUVhbVI5cHJZbG9LZ2FNVExlZnJ2U1VFREtQUmdYbjZQVjh6MGo4azJPM0Uzb3BVaHUwc3lQX0Q0VEp6QTBhalVwYnRuRXJYWWJ6dlplMDRvejFOQTVQU0xRTENuUU1BWW9US1QwZFFYQ2VMc2pnWV8tdkpRdVJqR1d3VUVUcUY5RmdGQWZoZDA2YWhvejAzWnNpazgzRVNOWjhSdHYzZnU5eWtJT3BYUnFMb1NiUGxoMGppQ3M0R2VTS3RfNDdtVC1fUk0zakZsY0NCbnYxRlhLT280MG5NLTdFUjZoSU9UQlR1b3p1cy1saGFjci04TVUzUVVrYXB2QWF1X2xmXzd0OWJaeDNHWmZSc0d2VGU5X2JkZjNpM0RMWlowSFc3SDkyNUFCMzBYd0U1ME5WckJHZl9TUGp3dWc9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMjQiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoOF9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZk0yQWppSWNlRWFtUjlwcllsb0tnYU1UTGVmcnZTVUVES1BSZ1huNlBWOHowajhrMk8zRTNvcFVodTBzeVBfRDRUSnpBMGFqVXBidG5FclhZYnp2WmUwNG96MU5BNVBTTFFMQ25RTUFZb1RLVDBkUVhDZUxzamdZXy12SlF1UmpHV3dVRVRxRjlGZ0ZBZmhkMDZhaG96MDNac2lrODNFU05aOFJ0djNmdTl5a0lPcFhScUxvU2JQbGgwamlDczRHZVNLdF80N21ULV9STTNqRmxjQ0JudjFGWEtPbzQwbk0tN0VSNmhJT1RCVHVvenVzLWxoYWNyLThNVTNRVWthcHZBYXVfbGZfN3Q5Ylp4M0daZlJzR3ZUZTlfYmRmM2kzRExaWjBIVzdIOTI1QUIzMFh3RTUwTlZyQkdmX1NQand1Zz09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=vcA0cM4504RGOKoC55y4sWzfuNE%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZNSmZ5N2w2Z2hmazk2UWNtdXZKM1VhVmJqVWFmVlBsVndMNm9XdFI3M0lDWThpMlY1dHRiaGJuY1Z3YVE1SjVaVFg5LUhnMk5WYXllWkcwNXhtbGlxZXBBV3FyMWFXVEZueFdOYlZ0RW1TZ1pUT0V2WGxQR0s1Nk1ZZUMwOFZIMkM1d0VqczRZWXJpRU5oMG12bTEwT0NmQVNBY2ZQeTgxZ1Zub0NSN19TalR0TVJXTC1Vbk1OcDd5VGNfdVRRWjdYRk5OOWJUMTZpaFU0MDhSblV3Z2swaGJyclU1X2pUalUtVHRSdEtVNGt0eW1vcGtYNjNIUjc0bUlSbWxRWll0QlNBQ1FhXy1rXzE1emRDTTZzTnNNWkJHaWhIci1aRkQzSllDWE9oV0dyOHF1c1lQN1JoMGR3b0JhaHVXTDJ0S2c9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMjQiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoOF9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZk1KZnk3bDZnaGZrOTZRY211dkozVWFWYmpVYWZWUGxWd0w2b1d0UjczSUNZOGkyVjV0dGJoYm5jVndhUTVKNVpUWDktSGcyTlZheWVaRzA1eG1saXFlcEFXcXIxYVdURm54V05iVnRFbVNnWlRPRXZYbFBHSzU2TVllQzA4VkgyQzV3RWpzNFlZcmlFTmgwbXZtMTBPQ2ZBU0FjZlB5ODFnVm5vQ1I3X1NqVHRNUldMLVVuTU5wN3lUY191VFFaN1hGTk45YlQxNmloVTQwOFJuVXdnazBoYnJyVTVfalRqVS1UdFJ0S1U0a3R5bW9wa1g2M0hSNzRtSVJtbFFaWXRCU0FDUWFfLWtfMTV6ZENNNnNOc01aQkdpaEhyLVpGRDNKWUNYT2hXR3I4cXVzWVA3UmgwZHdvQmFodVdMMnRLZz09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=1nPNrB80kR6j1Y2P7nqlfSmp6tw%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Ch 8" tvg-chno="Ch 8" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776034%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=75&Height=101&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 8 / 8 频道
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZOV1RBUXlzSXRfQ19EMFoxcEZQNHd2QlpFN1B0N21ZeTRKTVJKbS1oNUNnWUF4ZzJqeWc3aU1JaVlzS1ZKSGJwdkxGWVJVMkZGZ05IN3h5Tzdtd1lSUjktX2l0RTB4NXNPcW1UaHZjZTBYMDJPTHJOekJJUEY2Q2VFUUJqV1RBNFI5bVFfcnZ5MjZibnNRUVFfZU11SGhfMVFGWEVwRzlzRVJ4T0RZVkw5Mll3SUo4aHBwR1RfS0d4ODgzMGNRVmN4aEI1ZVE4cmpZa1ZoS0NFYS0xTnB4ZmEyTEI0WFRXRDJXakNQOUpFeWk4OGJaTjBLajVJeWhfM0ZkTGdXTUhad3Z5ekt2VndRMWF2UVlvZmpFc3JELVhTLWFWZjYtSHkzZmQtOUE1b3FMRF9pUTJLNTFFVGlUeGl4cHFOQ3dIaEZZVkliZllxdnFIVy1rdFI1bFJHYjA9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDE1NyIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmTldUQVF5c0l0X0NfRDBaMXBGUDR3dkJaRTdQdDdtWXk0Sk1SSm0taDVDZ1lBeGcyanlnN2lNSWlZc0tWSkhicHZMRllSVTJGRmdOSDd4eU83bXdZUlI5LV9pdEUweDVzT3FtVGh2Y2UwWDAyT0xyTnpCSVBGNkNlRVFCaldUQTRSOW1RX3J2eTI2Ym5zUVFRX2VNdUhoXzFRRlhFcEc5c0VSeE9EWVZMOTJZd0lKOGhwcEdUX0tHeDg4MzBjUVZjeGhCNWVROHJqWWtWaEtDRWEtMU5weGZhMkxCNFhUV0QyV2pDUDlKRXlpODhiWk4wS2o1SXloXzNGZExnV01IWnd2eXpLdlZ3UTFhdlFZb2ZqRXNyRC1YUy1hVmY2LUh5M2ZkLTlBNW9xTERfaVEySzUxRVRpVHhpeHBxTkN3SGhGWVZJYmZZcXZxSFcta3RSNWxSR2IwPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=M9d%2fC97y6Zk%2bDLgpqBmI2dFxkNg%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZCS1BIMXdaT3BEdmFBdEs5M24wY0Qzd20yYXVrTWNFQzVMQUl5UVZibEI3THlFeEhKYWRuVVRqTFVidVF3Mk13NWx1OUdsLS1RRmhWRW9DVnFOal9ZMXBIbU9wenBNNTJCWXFlQ1JlVC1TMlk5YklvTjVSS3Y0VV9EU3duNlp1emZiQ0t3UE5CbnJ0bl8xQkpkRTZCc05kWHNaNkduNnRMb2tzWkY0d0s5Xy1adGZaRU5hRGpibXUzWjZlZE1OVHZMNEJBZHRtZDhUN3BMbzkydWJCSnRKSnoxa2JRcG5hQ1JjM2tqSUdpTVFKUk5KcFdYLTJENjByS0FVUkd2elFROUJwQWJ5UHd4Nlhtc1ZNTGtvbEh1bDBCXzBGSWttT2VpQmpXOUk2RUtraGZnbEhwTzluLWRjNnpiWHZaeVhCdFNyOFMxdEtXNzFjdVpYNzlkTnEyUnc9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDE1NyIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmQktQSDF3Wk9wRHZhQXRLOTNuMGNEM3dtMmF1a01jRUM1TEFJeVFWYmxCN0x5RXhISmFkblVUakxVYnVRdzJNdzVsdTlHbC0tUUZoVkVvQ1ZxTmpfWTFwSG1PcHpwTTUyQllxZUNSZVQtUzJZOWJJb041Ukt2NFVfRFN3bjZadXpmYkNLd1BOQm5ydG5fMUJKZEU2QnNOZFhzWjZHbjZ0TG9rc1pGNHdLOV8tWnRmWkVOYURqYm11M1o2ZWRNTlR2TDRCQWR0bWQ4VDdwTG85MnViQkp0Skp6MWtiUXBuYUNSYzNraklHaU1RSlJOSnBXWC0yRDYwcktBVVJHdnpRUTlCcEFieVB3eDZYbXNWTUxrb2xIdWwwQl8wRklrbU9laUJqVzlJNkVLa2hmZ2xIcE85bi1kYzZ6Ylh2WnlYQnRTcjhTMXRLVzcxY3VaWDc5ZE5xMlJ3PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=AKA6e5lb7LpOszjUm8qXf1PmDAQ%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Ch U" tvg-chno="Ch U" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776040%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel U / U 频道
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/330332/assetType/media/assetFileId/5754157/contextType/PLAYBACK/isAltUrl/False/a.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZGOVBpczRoTGJoQkphcDI3VFN5UDI0aWxRTlBVVzdqcTE4ODJLZDU2RV9qbDc4NThQdXhWUVNzMFdFQW4yc1kwOHdmUXRvUnd1UjdpMGpGeTlVSTdvWWJhZ3NDVDN2TW5jOUljSktiR25SVEtMbExGeW1SNTNMNGx5NVFHdnhEMW1oY1FRV2F4ZjlBajN4MWNwdUpZYXdLWmltTzRuajZlY1BlZHNScGZjZEwwd2VUdnZMVmIwWjJlbVAxZXRfZU1iOXQwSTZ2ZDBzeUZhNGdUWjR5YnhNRUlBNjBRTkpRalRpYmtTOEZ0eVpqUGJWZURQczF6Y2ZVY2R0MjgxOXZKOVhWVVZDcm14QmN3b1lybzl6MWI2Y0x5YjJCeDdXOGRkNFBjQk1McXRkUmo0ZF82cUtmNElidlNUMlpsblQyeEE9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxNDkiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NuYVNfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZGOVBpczRoTGJoQkphcDI3VFN5UDI0aWxRTlBVVzdqcTE4ODJLZDU2RV9qbDc4NThQdXhWUVNzMFdFQW4yc1kwOHdmUXRvUnd1UjdpMGpGeTlVSTdvWWJhZ3NDVDN2TW5jOUljSktiR25SVEtMbExGeW1SNTNMNGx5NVFHdnhEMW1oY1FRV2F4ZjlBajN4MWNwdUpZYXdLWmltTzRuajZlY1BlZHNScGZjZEwwd2VUdnZMVmIwWjJlbVAxZXRfZU1iOXQwSTZ2ZDBzeUZhNGdUWjR5YnhNRUlBNjBRTkpRalRpYmtTOEZ0eVpqUGJWZURQczF6Y2ZVY2R0MjgxOXZKOVhWVVZDcm14QmN3b1lybzl6MWI2Y0x5YjJCeDdXOGRkNFBjQk1McXRkUmo0ZF82cUtmNElidlNUMlpsblQyeEE9PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=RqujctBtcLuyvptLASuFHnf1PxQ%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZFMm9UWW9IVlRqM2hmZEhqcHdyX2FxYmxDQktMaG5zVkszbFN1ekQyLWpDQktmRENqX0tVNEgzbXZkZ3FidDFZYks3VDFyZ2pCUE5TdkZ6WHdsQ0YyYWRVNXQ1Q1RPdzBBQWJjcUF0VGtIeFBiZXdUb1RIbG1XUm1ZTUh3OFhoRGlCaVNkamJzOU9lSGZLb3NoeVRseHVxWjloRTNsZlZEUGJJdWZGYVVWRV9fQy00c0RyX3RKOV9lUXhDVXRrbEpDdGtJRkxUR2ZQODZKQUpwdmpkTl9XZVdTSGJrTktfWUU5TnZoMm9ZMm5aQzItUHVJOTZBNnU4TUJUQV9vclVEVk0xU2NESG9KMWZGbTVacWMwWi13c3JSOGc2MlVYUUxUdmRveGpwdnl0eTQwcDhkTk1WQVNzOHZIc05qQWJuV1E9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxNDkiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NuYVNfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZFMm9UWW9IVlRqM2hmZEhqcHdyX2FxYmxDQktMaG5zVkszbFN1ekQyLWpDQktmRENqX0tVNEgzbXZkZ3FidDFZYks3VDFyZ2pCUE5TdkZ6WHdsQ0YyYWRVNXQ1Q1RPdzBBQWJjcUF0VGtIeFBiZXdUb1RIbG1XUm1ZTUh3OFhoRGlCaVNkamJzOU9lSGZLb3NoeVRseHVxWjloRTNsZlZEUGJJdWZGYVVWRV9fQy00c0RyX3RKOV9lUXhDVXRrbEpDdGtJRkxUR2ZQODZKQUpwdmpkTl9XZVdTSGJrTktfWUU5TnZoMm9ZMm5aQzItUHVJOTZBNnU4TUJUQV9vclVEVk0xU2NESG9KMWZGbTVacWMwWi13c3JSOGc2MlVYUUxUdmRveGpwdnl0eTQwcDhkTk1WQVNzOHZIc05qQWJuV1E9PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=vQRqlypa24VnwWCuJf%2fi6RuF%2fhI%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="CNA" tvg-chno="CNA" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776042%27&EntityType=%27Item%27&EntityId=%2797072%27&Width=78&Height=96&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",CNA
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/197985/assetType/media/assetFileId/5754149/contextType/PLAYBACK/isAltUrl/False/a.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZLQVVWRmoyWFVuTmNfOTA5cXB0UkdvRW85VF9KNEJ4WENhQ1FiVjh6azJjX3UzQjJxbFYxQVVteDNuVjhLanJ6MlY2bHdfNHFjOUs4Y1JraUtnazhYdHZDaHU0RVl3NnJwM3dRelFTWHIwUHhUVEtFZGhwYmdyR1hfLTdzVmdoZUx6Z2Z6djFIR2kwMkU3ZXlhMEhhOXc2LW9VcldlZXBnZERtVExqc2dqMmZsZHVnRnZrYnN4YU85LWVlVEg5WlBoSmdURlpXcXU1TTNxTzlmZ1MwdXJ0ZEFxbFNpMWVSQ004T01ubVk1YjFORnFJR3RlS2xQUUZaRDRQTXVNLVV3Ni0xMWFKSE55SjNpYVVGeE5fVmFueGFJTUo2VzkxUVpUbzVkNWRCZnlSbG41Rjhna0NOWkZRWEtENHEwS1NVajFEWEEtYmNtMzJLZDVkMmdDU0o2LTg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDA2NiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZLQVVWRmoyWFVuTmNfOTA5cXB0UkdvRW85VF9KNEJ4WENhQ1FiVjh6azJjX3UzQjJxbFYxQVVteDNuVjhLanJ6MlY2bHdfNHFjOUs4Y1JraUtnazhYdHZDaHU0RVl3NnJwM3dRelFTWHIwUHhUVEtFZGhwYmdyR1hfLTdzVmdoZUx6Z2Z6djFIR2kwMkU3ZXlhMEhhOXc2LW9VcldlZXBnZERtVExqc2dqMmZsZHVnRnZrYnN4YU85LWVlVEg5WlBoSmdURlpXcXU1TTNxTzlmZ1MwdXJ0ZEFxbFNpMWVSQ004T01ubVk1YjFORnFJR3RlS2xQUUZaRDRQTXVNLVV3Ni0xMWFKSE55SjNpYVVGeE5fVmFueGFJTUo2VzkxUVpUbzVkNWRCZnlSbG41Rjhna0NOWkZRWEtENHEwS1NVajFEWEEtYmNtMzJLZDVkMmdDU0o2LTg9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=GavSd1Pl6e7d8O6EMyOaCXEoazo%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZFZjF5azhURlhoRElnU2NHU0dSLXlNdmdNbUhWbWJ1UzYzNzU4YUtYVjFpQ2U1ZHZQeEpPWWVNbmlGQnMtMDl5a081SEV1SmdNN0x2UTBSMFgxS2NkNnVFZXh6MUt2eTU4YkxkQmRiQU5iT05qeUlXb2xjRkZja2xlYlQ3VFRFQURmeFNQTGZENHE0Z2NSbXY5RXE0YXFpNzNXY3E5WmpWTE53dnNROXE2akZNLWFNVzUxY1V6Zl9QQmdFWUZTSEVCd2w5eDJvNzhYM3c5Z29yWmt4T0Y4d0Vyb0NfbDM3M2RHS3BXZHNOajFWbUVPeldPc3l6eVZ2WHdGQXRpVEhoR1B3R3doV0k5X1JzLWJ3R3hURG01YkxENUlJVjltbDVxa2R0QTIzaFFmN0MyTkdTemlfMEQ4WXhNeV9QSEtmbzMwM1ZBSDJ0VDNyMW91NEFxOW9aMlE9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDA2NiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZFZjF5azhURlhoRElnU2NHU0dSLXlNdmdNbUhWbWJ1UzYzNzU4YUtYVjFpQ2U1ZHZQeEpPWWVNbmlGQnMtMDl5a081SEV1SmdNN0x2UTBSMFgxS2NkNnVFZXh6MUt2eTU4YkxkQmRiQU5iT05qeUlXb2xjRkZja2xlYlQ3VFRFQURmeFNQTGZENHE0Z2NSbXY5RXE0YXFpNzNXY3E5WmpWTE53dnNROXE2akZNLWFNVzUxY1V6Zl9QQmdFWUZTSEVCd2w5eDJvNzhYM3c5Z29yWmt4T0Y4d0Vyb0NfbDM3M2RHS3BXZHNOajFWbUVPeldPc3l6eVZ2WHdGQXRpVEhoR1B3R3doV0k5X1JzLWJ3R3hURG01YkxENUlJVjltbDVxa2R0QTIzaFFmN0MyTkdTemlfMEQ4WXhNeV9QSEtmbzMwM1ZBSDJ0VDNyMW91NEFxOW9aMlE9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=ptcTTZsa04o5QPkjI2%2bw5xDrCLU%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271375229%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Suria
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/5754066/contextType/PLAYBACK/isAltUrl/False/a.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZNcDhPbHI0d1RLaVBsSFJ1R3NiQmpLQXgwNWNCR3lkWm9nSURzSFJnam9FQlFvNXNUNEhfOUZkNDZHS2pLaG4xcjR6OEFNanlBTS1HbXM2X2FMOWkxTmJsbUZwSklYN0dkMDR3clI5TFNHdkxVMWI5aVY1dGRqQ0s5ZVI5bW1fbDBrQzF3TDN3RjRWZTU2THJwMk81VENZWHdmQlJzR1YxVGl1YTk0V3pDNVlXOGpldVgwVS1aXzBHNWRxQktnOUx2bXcwS2p3YnNUTWFrc3o0SldOV0ZkRDRNVldDTHdBLTNNNUN1MG9sNmREdy1kUXVuREdYZ21KTUE0RmJSRURLMWRicnNEdWtPblVibTUxZVFFVVlXS3lNQm1RODhpYVladWl6by1tUkJyNmdubzY4TlkzX29aSTRlYkJuRElIZkpWNUpUVUI5RmFfWl9kcWJzR0Fubkl4ajgzSUVyckU0QnNOVGtQY183S1EmY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTA4IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV92YXNhbnRoYW1fZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZNcDhPbHI0d1RLaVBsSFJ1R3NiQmpLQXgwNWNCR3lkWm9nSURzSFJnam9FQlFvNXNUNEhfOUZkNDZHS2pLaG4xcjR6OEFNanlBTS1HbXM2X2FMOWkxTmJsbUZwSklYN0dkMDR3clI5TFNHdkxVMWI5aVY1dGRqQ0s5ZVI5bW1fbDBrQzF3TDN3RjRWZTU2THJwMk81VENZWHdmQlJzR1YxVGl1YTk0V3pDNVlXOGpldVgwVS1aXzBHNWRxQktnOUx2bXcwS2p3YnNUTWFrc3o0SldOV0ZkRDRNVldDTHdBLTNNNUN1MG9sNmREdy1kUXVuREdYZ21KTUE0RmJSRURLMWRicnNEdWtPblVibTUxZVFFVVlXS3lNQm1RODhpYVladWl6by1tUkJyNmdubzY4TlkzX29aSTRlYkJuRElIZkpWNUpUVUI5RmFfWl9kcWJzR0Fubkl4ajgzSUVyckU0QnNOVGtQY183S1EiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=gksJFhoH2bpBwHGIQf6Ig0kgicQ%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZOTjFjRGRiLW9xd3IzTGpoa3V4Zl9UVFlEM2JOck1FbEtSRmdBcXFlbWtwNU5kOXV2ckdZMENhZkRtaE94Mzd6MUtYLUpqekpyckNpdWxOaDlveWtBMjNmTzRGYV9VaWpPdXljd3ZKNFZHSXE3NlFKUjVIVWNSNzZvV19KemN0TFZDbjJTUUIzRzRXSnZYOFA2T1VkVWdHaTg2ZVVtVElXMjJIeGtyYjdXRkJFR1ByYUZ3LVg2MVBkeFZXVE5nZzJRbXZaaG1idlh2cVl3YnNaTmhfeW52RENWMVhKYV9sSFpCZVZIUEJ1SXY0R1A1dkFTNTcyOXdNdEhHa1ZDQVB5dEpKaHViR3VsWHBSWVdKdnFaZzRselh2WG83UTNsQm9meTBPOEJ3OTd0N2IwUk5QN3FuUi0zbWZJOERTOGxvbng5RjBNaDVyUjdKXzdBa19TVHBmbW9VRU1scng2QU5kbEMwX1J2ZEtZSGQmY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTA4IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV92YXNhbnRoYW1fZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZOTjFjRGRiLW9xd3IzTGpoa3V4Zl9UVFlEM2JOck1FbEtSRmdBcXFlbWtwNU5kOXV2ckdZMENhZkRtaE94Mzd6MUtYLUpqekpyckNpdWxOaDlveWtBMjNmTzRGYV9VaWpPdXljd3ZKNFZHSXE3NlFKUjVIVWNSNzZvV19KemN0TFZDbjJTUUIzRzRXSnZYOFA2T1VkVWdHaTg2ZVVtVElXMjJIeGtyYjdXRkJFR1ByYUZ3LVg2MVBkeFZXVE5nZzJRbXZaaG1idlh2cVl3YnNaTmhfeW52RENWMVhKYV9sSFpCZVZIUEJ1SXY0R1A1dkFTNTcyOXdNdEhHa1ZDQVB5dEpKaHViR3VsWHBSWVdKdnFaZzRselh2WG83UTNsQm9meTBPOEJ3OTd0N2IwUk5QN3FuUi0zbWZJOERTOGxvbng5RjBNaDVyUjdKXzdBa19TVHBmbW9VRU1scng2QU5kbEMwX1J2ZEtZSGQiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=zDebzOSEfBWHKyG%2fUmEA7jEWEns%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776032%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=129&Height=63&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Vasantham
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZFcDVMa2dBUjY5a1d4Und2dnpVeXhlak5yaTZpOW5oemFBV00xcUVKWHVDS1VnQ09yX3dqSTZwSnhEb2R5WXVwYllkNEtmUVgwZDM1VEY2LWJwREdOc29xZjJkRE9ta0JGNUtxeWkwY045TGNqUzJCRUpUeEotUnhiYTNicUI4ZTZRcHV5amk2QmNfSVVBWnF0TE90QjI0TUl6RjczSjBXb0ZfMWUyUVAxQ0psZjN3R3J5cnY3Tk81aHFFeUV5WXBkTl9lMUIxUUNnLVE0TWJ2SGFDakdYNENhS1NySlNJLTJMcTBicXFJeHdKMzFQZlpCMGZOa2xVeU14c2FBMVhaQ1ZsNUI1OEFJREJaOGtXRV82ZlpucGRXc0hFQ05jSUREMDRMdlBzR1AxMXpaU0dTUWV5em92U0hCVWdiYjZPX2c9PSZjb250ZXh0VHlwZT1ub25lJmlkPTEyMzY2MzIwIiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImFkaG9jX29rdG9saWRheXNfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZFcDVMa2dBUjY5a1d4Und2dnpVeXhlak5yaTZpOW5oemFBV00xcUVKWHVDS1VnQ09yX3dqSTZwSnhEb2R5WXVwYllkNEtmUVgwZDM1VEY2LWJwREdOc29xZjJkRE9ta0JGNUtxeWkwY045TGNqUzJCRUpUeEotUnhiYTNicUI4ZTZRcHV5amk2QmNfSVVBWnF0TE90QjI0TUl6RjczSjBXb0ZfMWUyUVAxQ0psZjN3R3J5cnY3Tk81aHFFeUV5WXBkTl9lMUIxUUNnLVE0TWJ2SGFDakdYNENhS1NySlNJLTJMcTBicXFJeHdKMzFQZlpCMGZOa2xVeU14c2FBMVhaQ1ZsNUI1OEFJREJaOGtXRV82ZlpucGRXc0hFQ05jSUREMDRMdlBzR1AxMXpaU0dTUWV5em92U0hCVWdiYjZPX2c9PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=cnkfSmMXC7NTHn4JTkCkcV0cV3k%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZHV1VvWTcydXlQVkVFYW9iZ182UGFmODFlNHd3bDBCeHVHeUwxbGJabFlqZ25GMldoZmxORG1EbTlxLTAwbldLeDVWZy0zSVNYZlJfLUVuRHlkUUVnTnhhWktvS3BVZDZIZkI0M3dOelhSX3JVZ0xNMk9DSGhnMUZSS0c2ZnFjN1lLM1d1MDd1VGt6QWRBa2o4QjNCdTRfT2FLdlpwVDVUMGYtNjN0SE1JX1NsS0RFWmg5NUNSRV90NTBHMm91MS1HUHBmU2hiZ1AzcmJKM2VodGR6LTR5dE1aYTBpNzFVWnBiVzdZRFlzRkxkc18zZTRIcTNfaVRudWJIMWpNQ1hyS3hVc3dmVmd3b2M5VDlIZTJvTDk3UkxPLUZ6N01XSElMeXIxdmF0Z2RVRGRFRURxbmZXSl9RbEFwT3Z3N2VEVE1ScFAxc1BwYUpSd1NvZmx4Sm9DcEk9JmNvbnRleHRUeXBlPW5vbmUmaWQ9MTIzNjYzMjAiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiYWRob2Nfb2t0b2xpZGF5c19kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkdXVW9ZNzJ1eVBWRUVhb2JnXzZQYWY4MWU0d3dsMEJ4dUd5TDFsYlpsWWpnbkYyV2hmbE5EbURtOXEtMDBuV0t4NVZnLTNJU1hmUl8tRW5EeWRRRWdOeGFaS29LcFVkNkhmQjQzd056WFJfclVnTE0yT0NIaGcxRlJLRzZmcWM3WUszV3UwN3VUa3pBZEFrajhCM0J1NF9PYUt2WnBUNVQwZi02M3RITUlfU2xLREVaaDk1Q1JFX3Q1MEcyb3UxLUdQcGZTaGJnUDNyYkozZWh0ZHotNHl0TVphMGk3MVVacGJXN1lEWXNGTGRzXzNlNEhxM19pVG51Ykgxak1DWHJLeFVzd2ZWZ3dvYzlUOUhlMm9MOTdSTE8tRno3TVdISUx5cjF2YXRnZFVEZEVFRHFuZldKX1FsQXBPdnc3ZURUTVJwUDFzUHBhSlJ3U29mbHhKb0NwST0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=QE5Af2wayv%2fyH669%2bwzot2oO0g0%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="oktolidays.sg" tvg-chno="oktolidays.sg" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format='png'&Quality=85&ImageId='4132072'&EntityType='Item'&EntityId='258705'&Width=237&Height=237&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",Oktolidays
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/879237/assetType/media/assetFileId/12366320/contextType/PLAYBACK/isAltUrl/False/a.mpd#EXTM3U
 #EXTINF:-1 group-title="TW" tvg-id="BeautifulLifeTV.tw",Beautiful Life TV
