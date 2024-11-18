@@ -61,7 +61,6 @@ jobs:
            sed -i '1i #EXTM3U x-tvg-url="https://live-tv.gohkh7.eu.org/epg/epg.xml"' IPTV.m3u
 
 
-
           echo "Auto Update LIVE-TV in ${{ steps.date.outputs.date }}" > README.md
           
        
