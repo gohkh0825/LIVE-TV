@@ -51,7 +51,7 @@ jobs:
            rm -f IPTV.m3u && touch IPTV.m3u
            cat ./m3u/1/unifi.m3u >> IPTV.m3u
            cat ./m3u/1/FreeviewMY.m3u8 >>IPTV.m3u
-           cat ./m3u/1TEST.m3u8 >> IPTV.m3u
+           cat ./m3u/1/TEST.m3u8 >> IPTV.m3u
            rm -f ./epg/epg.xml && touch ./epg/epg.xml
            cat ./epg/astro_epg.xml >> ./epg/epg.xml
            cat ./epg/EPG-1.xml >> ./epg/epg.xml
