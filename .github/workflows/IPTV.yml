@@ -36,13 +36,11 @@ jobs:
     
     - name: 节目源
       run: |        
-          # astro_epg.xml
-        rm -f ./epg/astro_epg.xml && wget https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml -O ./epg/astro_epg.xml       
- 
-          # EPG-1.xml
+       # astro_epg.xml
+        rm -f ./epg/astro_epg.xml && wget https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml -O ./epg/astro_epg.xml
+       # EPG-1.xml
         rm -f ./epg/EPG-1.xml && wget https://cutt.ly/FreeviewMY-EPG-1 -O ./epg/EPG-1.xml
- 
-          # EPG-2.xml
+       # EPG-2.xml
         rm -f ./epg/EPG-2.xml && wget https://cutt.ly/FreeviewMY-EPG-2 -O ./epg/EPG-2.xml
 
 
@@ -55,11 +53,10 @@ jobs:
            cat ./m3u/1/FreeviewMY.m3u8 >>IPTV.m3u
            cat ./m3u/1TEST.m3u8 >> IPTV.m3u
            rm -f ./epg/epg.xml && touch ./epg/epg.xml
-			     	 	cat ./epg/astro_epg.xml >> ./epg/epg.xml
+           cat ./epg/astro_epg.xml >> ./epg/epg.xml
            cat ./epg/EPG-1.xml >> ./epg/epg.xml
            cat ./epg/EPG-2.xml >> ./epg/epg.xml
            sed -i '1i #EXTM3U x-tvg-url="https://live-tv.gohkh7.eu.org/epg/epg.xml"' IPTV.m3u
-
 
           echo "Auto Update LIVE-TV in ${{ steps.date.outputs.date }}" > README.md
           
