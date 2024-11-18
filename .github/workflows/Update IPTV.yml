@@ -21,9 +21,9 @@ jobs:
         # FreeviewMY
         rm -f ./m3u/FreeviewMY.m3u8 && wget https://raw.githubusercontent.com/itszairi/FreeviewMY/main/FreeviewMY.m3u8 -O ./m3u/FreeviewMY.m3u8
         sed -i '/#EXTM3U/d' ./m3u/FreeviewMY.m3u8
-        sed -i '/^\s*$/d' ./m3u/FreeviewMY.m3u8
+        sed -i '/^\s*$/d' ./m3u/FreeviewMY.m3u8	
 
-						 	# TEST
+        # TEST
         rm -f ./m3u/TEST.m3u8 && wget https://raw.githubusercontent.com/sni2007/sni2007/refs/heads/main/TEST -O ./m3u/TEST.m3u8
         sed -i '/#EXTM3U/d' ./m3u/TEST.m3u8
         sed -i '/^\s*$/d' ./m3u/TEST.m3u8
