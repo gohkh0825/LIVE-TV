@@ -1,32 +1,77 @@
-name: IPTV-Asia
+name: Update IPTV 1
 
 on:
-#  schedule:
-#    - cron: 0 9,15,22 * * ? 
-  push:
-    branches:
-      - main
-  workflow_dispatch:
+    schedule:
+      - cron: 0 0/12 * * * 
+    workflow_dispatch:
 
 jobs:
-  work:
+  Update:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
+    - name: Checkout
+      uses: actions/checkout@v3
 
-      - name: Download
-        run: |
-          rm -f ./m3u/asia.m3u && wget https://iptv-org.github.io/iptv/regions/asia.m3u > ./m3u/asia.m3u
-         
+    - name: GetTime
+      id: date
+      run: echo "::set-output name=date::$(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')"
 
-      - name: Commit And Push
-        run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add --all
-          git commit -m "update src"
-          git push origin main
+    - name: 直播源
+      run: |      
+        # unifi
+        rm -f ./m3u/1/unifi.m3u && wget https://raw.githubusercontent.com/imanawesome/IPTV-2/refs/heads/IPTV-2/unifi.m3u -O ./m3u/1/unifi.m3u
+        sed -i '/#EXTM3U/d' ./m3u/1/unifi.m3u
+        sed -i '/^\s*$/d' ./m3u/1/unifi.m3u
+       
+        # FreeviewMY
+        rm -f ./m3u/1/FreeviewMY.m3u8 && wget https://raw.githubusercontent.com/itszairi/FreeviewMY/main/FreeviewMY.m3u8 -O ./m3u/1/FreeviewMY.m3u8
+        sed -i '/#EXTM3U/d' ./m3u/1/FreeviewMY.m3u8
+        sed -i '/^\s*$/d' ./m3u/1/FreeviewMY.m3u8
+        
+        # TEST
+        rm -f ./m3u/1/TEST.m3u8 && wget https://raw.githubusercontent.com/sni2007/sni2007/refs/heads/main/TEST -O ./m3u/1/TEST.m3u8
+        sed -i '/#EXTM3U/d' ./m3u/1/TEST.m3u8
+        sed -i '/^\s*$/d' ./m3u/1/TEST.m3u8
+        
+    
+    - name: 节目源
+      run: |        
+          # astro_epg.xml
+        rm -f ./epg/astro_epg.xml && wget https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml -O ./epg/astro_epg.xml       
+ 
+          # EPG-1.xml
+        rm -f ./epg/EPG-1.xml && wget https://cutt.ly/FreeviewMY-EPG-1 -O ./epg/EPG-1.xml
+ 
+          # EPG-2.xml
+        rm -f ./epg/EPG-2.xml && wget https://cutt.ly/FreeviewMY-EPG-2 -O ./epg/EPG-2.xml
+
+
+
+    - name: 整合源
+      run: |         
+          # 整合源
+           rm -f IPTV.m3u && touch IPTV.m3u
+           cat ./m3u/1/unifi.m3u >> IPTV.m3u
+           cat ./m3u/1/FreeviewMY.m3u8 >>IPTV.m3u
+           cat ./m3u/1TEST.m3u8 >> IPTV.m3u
+           rm -f ./epg/epg.xml && touch ./epg/epg.xml
+			     	 	cat ./epg/astro_epg.xml >> ./epg/epg.xml
+           cat ./epg/EPG-1.xml >> ./epg/epg.xml
+           cat ./epg/EPG-2.xml >> ./epg/epg.xml
+           sed -i '1i #EXTM3U x-tvg-url="https://live-tv.gohkh7.eu.org/epg/epg.xml"' IPTV.m3u
+
+
+
+          echo "Auto Update LIVE-TV in ${{ steps.date.outputs.date }}" > README.md
+          
+       
+
+    - name: Clean
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add -A
+        git commit -a -m "${{ steps.date.outputs.date }}"
+
+    - name: Push
+      run: git push origin main
