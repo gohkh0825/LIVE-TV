@@ -17,7 +17,8 @@ jobs:
       run: echo "::set-output name=date::$(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')"
 
     - name: 直播源
-      run: |      
+      run: |  
+    
         # unifi
         rm -f ./m3u/1/unifi.m3u && wget https://raw.githubusercontent.com/imanawesome/IPTV-2/refs/heads/IPTV-2/unifi.m3u -O ./m3u/1/unifi.m3u
         sed -i '/#EXTM3U/d' ./m3u/1/unifi.m3u
