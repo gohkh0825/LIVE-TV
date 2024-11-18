@@ -22,6 +22,11 @@ jobs:
         rm -f ./m3u/FreeviewMY.m3u8 && wget https://raw.githubusercontent.com/itszairi/FreeviewMY/main/FreeviewMY.m3u8 -O ./m3u/FreeviewMY.m3u8
         sed -i '/#EXTM3U/d' ./m3u/FreeviewMY.m3u8
         sed -i '/^\s*$/d' ./m3u/FreeviewMY.m3u8
+
+							# TEST
+        rm -f ./m3u/TEST.m3u8 && wget https://raw.githubusercontent.com/sni2007/sni2007/refs/heads/main/TEST -O ./m3u/TEST.m3u8
+        sed -i '/#EXTM3U/d' ./m3u/TEST.m3u8
+        sed -i '/^\s*$/d' ./m3u/TEST.m3u8
         
         # mewatchsg
         rm -f ./m3u/mewatchsg.m3u8 && wget https://gohkh0825.github.io/mewatchsg/mewatchsg_drm_wv_key.m3u8 -O ./m3u/mewatchsg.m3u8
@@ -58,6 +63,7 @@ jobs:
       run: |         
           # 整合源
            rm -f LIVE-TV.m3u && touch LIVE-TV.m3u
+           cat ./m3u/TEST.m3u8 >> LIVE-TV.m3u
            cat ./m3u/my.m3u >> LIVE-TV.m3u
            cat ./m3u/FreeviewMY.m3u8 >> LIVE-TV.m3u
            cat ./m3u/mewatchsg.m3u8 >> LIVE-TV.m3u
