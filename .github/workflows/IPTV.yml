@@ -1,4 +1,4 @@
-name: Update IPTV 1
+name: IPTV
 
 on:
     schedule:
@@ -56,7 +56,7 @@ jobs:
            cat ./epg/EPG-2.xml >> ./epg/epg.xml
            sed -i '1i #EXTM3U x-tvg-url="https://live-tv.gohkh7.eu.org/epg/epg.xml"' IPTV.m3u
 
-          echo "Auto Update LIVE-TV in ${{ steps.date.outputs.date }}" > README.md
+          echo "Auto Update IPTV in ${{ steps.date.outputs.date }}" > README.md
           
        
 
