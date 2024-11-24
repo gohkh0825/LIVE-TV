@@ -64,7 +64,7 @@ jobs:
            cat ./epg/EPG-1.xml >> ./epg/epg.xml
            cat ./epg/EPG-2.xml >> ./epg/epg.xml
            cat ./epg/aqfadtv.xml >> ./epg/epg.xml
-           sed -i '1i #EXTM3U x-tvg-url="https://live-tv.gohkh7.eu.org/epg/epg.xml"' IPTV.m3u
+           sed -i '1i #EXTM3U x-tvg-url="https://gohkh0825.github.io/LIVE-TV/epg/epg.xml"' IPTV.m3u
 
           echo "Auto Update IPTV in ${{ steps.date.outputs.date }}" > README.md
           
