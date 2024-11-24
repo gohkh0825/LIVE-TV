@@ -46,7 +46,7 @@ jobs:
        # EPG-2.xml
         rm -f ./epg/EPG-2.xml && wget https://cutt.ly/FreeviewMY-EPG-2 -O ./epg/EPG-2.xml
        # aqfadtv.xml
-        rm -f ./epg/aqfadtv.xml && wget https://.xyz/epg -O ./epg/aqfadtv.xml
+        rm -f ./epg/aqfadtv.xml && wget https://aqfadtv.xyz/epg -O ./epg/aqfadtv.xml
 
 
 
