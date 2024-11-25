@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live-tv.gohkh7.eu.org/epg/epg.xml"
+#EXTM3U x-tvg-url="https://gohkh0825.github.io/LIVE-TV/epg/epg.xml"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2I3YzU3OWQtY2Y1MS0zYTMyLTgyMzMtZGZiNGEzZDFhNmRi
