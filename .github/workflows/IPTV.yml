@@ -28,7 +28,7 @@ jobs:
         
         
         # njoi
-        rm -f ./m3u/1/njoi.m3u && wget https://raw.githubusercontent.com/imanawesome2010/IPTV/refs/heads/main/njoi.m3u -O ./m3u/1/njoi.m3u
+        rm -f ./m3u/1/njoi.m3u && wget https://raw.githubusercontent.com/imanawesome2010/sooka/refs/heads/main/sooka.m3u -O ./m3u/1/njoi.m3u
         sed -i '/#EXTM3U/d' ./m3u/1/njoi.m3u
 
         
