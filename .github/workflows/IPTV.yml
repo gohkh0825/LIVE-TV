@@ -28,8 +28,8 @@ jobs:
         
         
         # njoi
-        rm -f ./m3u/1/njoi.m3u && wget https://raw.githubusercontent.com/imanawesome2010/sooka/refs/heads/main/sooka.m3u -O ./m3u/1/njoi.m3u
-        sed -i '/#EXTM3U/d' ./m3u/1/njoi.m3u
+        rm -f ./m3u/1/sooka.m3u && wget https://github.com/mystery75/listing/blob/iptv/sooka -O ./m3u/1/sooka.m3u
+        sed -i '/#EXTM3U/d' ./m3u/1/sooka.m3u
 
         
         # TEST
@@ -58,7 +58,7 @@ jobs:
            cat ./m3u/1/unifi.m3u >> ./IPTV/IPTV.m3u
            cat ./m3u/1/FreeviewMY.m3u8 >> ./IPTV/IPTV.m3u
            cat ./m3u/1/TEST.m3u8 >> ./IPTV/IPTV.m3u
-           cat ./m3u/1/njoi.m3u >> ./IPTV/IPTV.m3u
+           cat ./m3u/1/sooka.m3u >> ./IPTV/IPTV.m3u
            rm -f ./epg/epg.xml && touch ./epg/epg.xml
            cat ./epg/astro_epg.xml >> ./epg/epg.xml
            cat ./epg/EPG-1.xml >> ./epg/epg.xml
