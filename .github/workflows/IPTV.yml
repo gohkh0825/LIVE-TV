@@ -34,8 +34,8 @@ jobs:
         sed -i 's/"Movies"/"unifi"/g' ./m3u/1/unifi.m3u
        
         # FreeviewMY
-        rm -f ./m3u/1/FreeviewMY.m3u8 && wget https://raw.githubusercontent.com/itszairi/FreeviewMY/main/FreeviewMY.m3u8 -O ./m3u/1/FreeviewMY.m3u8
-        sed -i '/#EXTM3U/d' ./m3u/1/FreeviewMY.m3u8
+        rm -f ./m3u/1/unifi2.m3u8 && wget https://raw.githubusercontent.com/mystery75/listing/refs/heads/iptv/unifi -O ./m3u/1/unifi2.m3u8
+        sed -i '/#EXTM3U/d' ./m3u/1/unifi2.m3u8
         
         
         # njoi
@@ -67,7 +67,7 @@ jobs:
           # 整合源
            rm -f ./IPTV/IPTV.m3u && touch ./IPTV/IPTV.m3u
            cat ./m3u/1/unifi.m3u >> ./IPTV/IPTV.m3u
-           cat ./m3u/1/FreeviewMY.m3u8 >> ./IPTV/IPTV.m3u
+           cat ./m3u/1/unifi2.m3u8 >> ./IPTV/IPTV.m3u
            cat ./m3u/1/TEST.m3u8 >> ./IPTV/IPTV.m3u
            cat ./m3u/1/sooka.m3u >> ./IPTV/IPTV.m3u
            rm -f ./epg/epg.xml && touch ./epg/epg.xml
