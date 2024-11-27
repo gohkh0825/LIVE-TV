@@ -21,6 +21,17 @@ jobs:
        # unifi
         rm -f ./m3u/1/unifi.m3u && wget https://raw.githubusercontent.com/imanawesome/IPTV-2/refs/heads/IPTV-2/unifi.m3u -O ./m3u/1/unifi.m3u
         sed -i '/#EXTM3U/d' ./m3u/1/unifi.m3u
+        sed 's/"Preview Channel"/"unifi"/g' ./m3u/1/unifi.m3u
+        sed 's/"Malaysian Variety"/"unifi"/g' ./m3u/1/unifi.m3u
+        sed 's/"Chinese Variety"/"unifi"/g' ./m3u/1/unifi.m3u
+        sed 's/"Chinese Variety"/"unifi"/g' ./m3u/1/unifi.m3u
+        sed 's/"Sports"/"unifi"/g' ./m3u/1/unifi.m3u
+        sed 's/"Radio Stations"/"unifi"/g' ./m3u/1/unifi.m3u
+        sed 's/"News"/"unifi"/g' ./m3u/1/unifi.m3u
+        sed 's/"Kids"/"unifi"/g' ./m3u/1/unifi.m3u
+        sed 's/"Lifestyle & Knowledge"/"unifi"/g' ./m3u/1/unifi.m3u
+        sed 's/"International Variety"/"unifi"/g' ./m3u/1/unifi.m3u
+        sed 's/"Movies"/"unifi"/g' ./m3u/1/unifi.m3u
        
         # FreeviewMY
         rm -f ./m3u/1/FreeviewMY.m3u8 && wget https://raw.githubusercontent.com/itszairi/FreeviewMY/main/FreeviewMY.m3u8 -O ./m3u/1/FreeviewMY.m3u8
