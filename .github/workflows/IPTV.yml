@@ -39,7 +39,7 @@ jobs:
         
         
         # njoi
-        rm -f ./m3u/1/sooka.m3u && wget https://github.com/mystery75/listing/blob/iptv/sooka -O ./m3u/1/sooka.m3u
+        rm -f ./m3u/1/sooka.m3u && wget https://raw.githubusercontent.com/mystery75/listing/refs/heads/iptv/sooka -O ./m3u/1/sooka.m3u
         sed -i '/#EXTM3U/d' ./m3u/1/sooka.m3u
 
         
