@@ -48,7 +48,7 @@ jobs:
         sed -i '/#EXTM3U/d' ./m3u/1/TEST.m3u8
         
         # JandaTV
-        rm -f ./m3u/1/JandaTV.m3u8 && wget https://tv.jnda.tech/QBEDg -O ./m3u/1/JandaTV.m3u8
+        rm -f ./m3u/1/JandaTV.m3u8 && wget  https://tv.jnda.tech/IGCsU -O ./m3u/1/JandaTV.m3u8
         sed -i '/#EXTM3U/d' ./m3u/1/JandaTV.m3u8
         
     
@@ -72,11 +72,11 @@ jobs:
       run: |         
           # 整合源
            rm -f ./IPTV/IPTV.m3u && touch ./IPTV/IPTV.m3u
+           cat ./m3u/1/JandaTV.m3u8 >> ./IPTV/IPTV.m3u
            cat ./m3u/1/unifi.m3u >> ./IPTV/IPTV.m3u
            cat ./m3u/1/unifi2.m3u8 >> ./IPTV/IPTV.m3u
            cat ./m3u/1/TEST.m3u8 >> ./IPTV/IPTV.m3u
            cat ./m3u/1/sooka.m3u >> ./IPTV/IPTV.m3u
-           cat ./m3u/1/JandaTV.m3u8 >> ./IPTV/IPTV.m3u
            rm -f ./epg/epg.xml && touch ./epg/epg.xml
            cat ./epg/astro_epg.xml >> ./epg/epg.xml
            cat ./epg/EPG-1.xml >> ./epg/epg.xml
