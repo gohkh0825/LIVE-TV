@@ -47,6 +47,10 @@ jobs:
         rm -f ./m3u/1/TEST.m3u8 && wget https://raw.githubusercontent.com/sni2007/sni2007/refs/heads/main/TEST -O ./m3u/1/TEST.m3u8
         sed -i '/#EXTM3U/d' ./m3u/1/TEST.m3u8
         
+        # JandaTV
+        rm -f ./m3u/1/JandaTV.m3u8 && wget https://tv.jnda.tech/QBEDg -O ./m3u/1/JandaTV.m3u8
+        sed -i '/#EXTM3U/d' ./m3u/1/JandaTV.m3u8
+        
     
     - name: 节目源
       run: |        
@@ -58,6 +62,8 @@ jobs:
         rm -f ./epg/EPG-2.xml && wget https://cutt.ly/FreeviewMY-EPG-2 -O ./epg/EPG-2.xml
        # aqfadtv.xml
         rm -f ./epg/aqfadtv.xml && wget https://aqfadtv.xyz/epg -O ./epg/aqfadtv.xml
+       # JandaTV.xml
+        rm -f ./epg/JandaTV.xml && wget https://tv.jnda.tech/ep -O ./epg/JandaTV.xml
 
 
 
@@ -70,11 +76,13 @@ jobs:
            cat ./m3u/1/unifi2.m3u8 >> ./IPTV/IPTV.m3u
            cat ./m3u/1/TEST.m3u8 >> ./IPTV/IPTV.m3u
            cat ./m3u/1/sooka.m3u >> ./IPTV/IPTV.m3u
+           cat ./m3u/1/JandaTV.m3u8 >> ./IPTV/IPTV.m3u
            rm -f ./epg/epg.xml && touch ./epg/epg.xml
            cat ./epg/astro_epg.xml >> ./epg/epg.xml
            cat ./epg/EPG-1.xml >> ./epg/epg.xml
            cat ./epg/EPG-2.xml >> ./epg/epg.xml
            cat ./epg/aqfadtv.xml >> ./epg/epg.xml
+           cat ./epg/JandaTV.xml >> ./epg/epg.xml
            sed -i '1i #EXTM3U x-tvg-url="https://gohkh0825.github.io/LIVE-TV/epg/epg.xml"' ./IPTV/IPTV.m3u
 
           echo "Auto Update IPTV in ${{ steps.date.outputs.date }}" > ./IPTV/README.md
