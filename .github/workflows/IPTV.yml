@@ -34,16 +34,16 @@ jobs:
     
     - name: 节目源
       run: |        
-       # astro_epg.xml
+       # astro_epg
         rm -f ./epg/astro_epg.xml && wget https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml -O ./epg/astro_epg.xml
-       # EPG-1.xml
-        rm -f ./epg/EPG-1.xml && wget https://cutt.ly/FreeviewMY-EPG-1 -O ./epg/EPG-1.xml
-       # EPG-2.xml
-        rm -f ./epg/EPG-2.xml && wget https://cutt.ly/FreeviewMY-EPG-2 -O ./epg/EPG-2.xml
-       # aqfadtv.xml
-        rm -f ./epg/aqfadtv.xml && wget https://aqfadtv.xyz/epg -O ./epg/aqfadtv.xml
-       # JandaTV.xml
-        rm -f ./epg/JandaTV.xml && wget https://tv.jnda.tech/ep -O ./epg/JandaTV.xml
+       # FreeviewMY-EPG-1
+        rm -f ./epg/FreeviewMY-EPG-1 && wget https://cutt.ly/FreeviewMY-EPG-1 -O ./epg/FreeviewMY-EPG-1
+       # FreeviewMY-EPG-2
+        rm -f ./epg/FreeviewMY-EPG-2 && wget https://cutt.ly/FreeviewMY-EPG-2 -O ./epg/FreeviewMY-EPG-2
+       # aqfadtv
+        rm -f ./epg/aqfadtv && wget https://aqfadtv.xyz/epg -O ./epg/aqfadtv
+       # JandaTV
+        rm -f ./epg/JandaTV && wget https://tv.jnda.tech/epg -O ./epg/JandaTV
 
 
 
@@ -55,17 +55,9 @@ jobs:
            cat ./m3u/1/JandaTV.m3u8 >> ./IPTV/IPTV.m3u
            cat ./m3u/1/TEST.m3u8 >> ./IPTV/IPTV.m3u
            cat ./m3u/1/FreeviewMY.m3u8 >> ./IPTV/IPTV.m3u
-           # EPG
-           rm -f ./epg/epg.xml && touch ./epg/epg.xml
-           cat ./epg/astro_epg.xml >> ./epg/epg.xml
-           cat ./epg/EPG-1.xml >> ./epg/epg.xml
-           cat ./epg/EPG-2.xml >> ./epg/epg.xml
-           cat ./epg/aqfadtv.xml >> ./epg/epg.xml
-           cat ./epg/JandaTV.xml >> ./epg/epg.xml
            sed -i '/^\s*$/d' ./IPTV/IPTV.m3u
-           sed -i '1i #EXTM3U x-tvg-url="https://gohkh0825.github.io/LIVE-TV/epg/epg.xml"' ./IPTV/IPTV.m3u
-
-          echo "Auto Update IPTV in ${{ steps.date.outputs.date }}" > ./IPTV/README.md
+           sed -i '1i #EXTM3U x-tvg-url="https://gohkh0825.github.io/LIVE-TV/epg/astro_epg.xml,https://gohkh0825.github.io/LIVE-TV/epg/FreeviewMY-EPG-1,https://gohkh0825.github.io/LIVE-TV/epg/FreeviewMY-EPG-2,https://gohkh0825.github.io/LIVE-TV/epg/aqfadtv,https://gohkh0825.github.io/LIVE-TV/epg/JandaTV" refresh="24"' ./IPTV/IPTV.m3u
+           echo "Auto Update IPTV in ${{ steps.date.outputs.date }}" > ./IPTV/README.md
           
        
 
