@@ -23,15 +23,7 @@ jobs:
         rm -f ./m3u/1/my.m3u && wget https://raw.githubusercontent.com/gohkh0825/LIVE-TV/refs/heads/main/m3u/my.m3u -O ./m3u/1/my.m3u
         sed -i '/#EXTM3U/d' ./m3u/1/my.m3u
         cat ./m3u/1/my.m3u >> ./m3u/1/FreeviewMY.m3u8
-        sed -e 's/myFreeview: TV/FreeviewMY/g' ./m3u/1/FreeviewMY.m3u8
-        sed -e 's/myFreeview: Radio/FreeviewMY/g' ./m3u/1/FreeviewMY.m3u8
-        sed -e 's/#EXTGRP:Family/Kids/FreeviewMY/g' ./m3u/1/FreeviewMY.m3u8
-        sed -e 's/#EXTGRP:Sports/FreeviewMY/g' ./m3u/1/FreeviewMY.m3u8
-        sed -e 's/#EXTGRP:News/World/FreeviewMY/g' ./m3u/1/FreeviewMY.m3u8
-        sed -e 's/#EXTGRP:Movies/FreeviewMY/g' ./m3u/1/FreeviewMY.m3u8
-        sed -e 's/#EXTGRP:Variety/FreeviewMY/g' ./m3u/1/FreeviewMY.m3u8
-        sed -e 's/#EXTGRP:Radio/FreeviewMY/g' ./m3u/1/FreeviewMY.m3u8
-        sed -e 's/#EXTGRP:Radio/FreeviewMY/g' ./m3u/1/FreeviewMY.m3u8
+        
          
     - name:  TEST
       run: |      
