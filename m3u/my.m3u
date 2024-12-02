@@ -34,20 +34,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 group-title="astro" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-#EXTINF:-1 group-title="astro" ch-number="114" tvg-id="114" tvg-chno="114" tvg-logo="https://tvalhijrah.com/wp-content/uploads/2023/04/TV_Alhijrah_logo-1.png",TV Alhijrah
-https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_feb292e0f94c11edbc052354c95d3ff1/index.m3u8
-
-#EXTINF:-1 group-title="astro" ch-number="116" tvg-id="116" tvg-chno="116" tvg-logo="https://suketv.com/sitepad-data/uploads/2023/06/STV_WHITE-LOGO-1.png",Suke TV
-https://live.mana2.my/SukeTv/index.m3u8|User-Agent=Mozilla
-
-#EXTINF:-1 group-title="astro" ch-number="121" tvg-id="121" tvg-chno="121" tvg-logo="https://www.bernama.com/tv/assets/img/bernama.png",Bernama
-https://ythls-v3.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
-
-#EXTINF:-1 group-title="astro" ch-number="122" tvg-id="122" tvg-chno="122" tvg-logo="https://s3.tvstv.my/wp-content/uploads/2024/03/tvs-logo-reduced.png",TVS
-https://stream2.smg.my/live/tvs_1080p2628kbs/index.m3u8
-
 #EXTINF:-1 group-title="astro" ch-number="123" tvg-id="123" tvg-chno="123" tvg-logo="https://berita.rtm.gov.my/images/01-homepage/logo-berita.png",Berita RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd&headers=eyJyZWZlcmVyIjoiaHR0cHM6Ly9ydG1rbGlrLnJ0bS5nb3YubXkvIn0%3D
 
 #EXTINF:-1 group-title="Radio" ch-number="701" tvg-id="701" tvg-chno="701" tvg-logo="https://nasionalfm.rtm.gov.my/storage/app/uploads/public/610/365/b39/610365b3953b8749236902.png",Nasional FM
 https://28103.live.streamtheworld.com/NASIONAL_FMAAC.aac
