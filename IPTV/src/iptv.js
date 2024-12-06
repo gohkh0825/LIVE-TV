@@ -3,14 +3,17 @@ import { copyToClipboard } from './utils/clipboard';
 export function setupIPTV(element) {
   const iptvUrl = 'https://iptv-emw.pages.dev/IPTV.m3u8';
   
-  const copyUrl = async () => {
-    const success = await copyToClipboard(iptvUrl);
+  const copyUrl = () => {
+    const success = copyToClipboard(iptvUrl);
     const button = element.querySelector('.copy-button');
-    button.textContent = success ? '复制成功!' : '复制失败';
+    const feedback = element.querySelector('.copy-feedback');
+    
+    feedback.textContent = success ? '复制成功!' : '复制失败';
+    feedback.className = `copy-feedback ${success ? 'success' : 'error'}`;
     button.classList.add(success ? 'success' : 'error');
     
     setTimeout(() => {
-      button.textContent = '复制链接';
+      feedback.textContent = '';
       button.classList.remove('success', 'error');
     }, 2000);
   };
@@ -19,6 +22,7 @@ export function setupIPTV(element) {
     <div class="iptv-container">
       <input type="text" value="${iptvUrl}" readonly class="iptv-url" />
       <button class="copy-button">复制链接</button>
+      <span class="copy-feedback"></span>
     </div>
   `;
 

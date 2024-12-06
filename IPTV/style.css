@@ -43,6 +43,8 @@ body {
   padding: 1rem;
   background: rgba(255, 255, 255, 0.1);
   border-radius: 8px;
+  flex-wrap: wrap;
+  position: relative;
 }
 
 .iptv-url {
@@ -77,6 +79,23 @@ body {
 
 .copy-button.error {
   background: #ef4444;
+}
+
+.copy-feedback {
+  position: absolute;
+  bottom: -1.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 0.875rem;
+  transition: all 0.3s ease;
+}
+
+.copy-feedback.success {
+  color: #22c55e;
+}
+
+.copy-feedback.error {
+  color: #ef4444;
 }
 
 @media (prefers-color-scheme: light) {
