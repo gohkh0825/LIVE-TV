@@ -1,9 +1,9 @@
 export function setupIPTV(element) {
-  const iptvUrl = 'https://iptv-emw.pages.dev/IPTV.m3u';
+  const iptvUrl = 'https://iptv.gohkh9.us.kg/IPTV.m3u';
   
   element.innerHTML = `
     <div class="iptv-container">
-      <div class="iptv-header">IPTV 链接</div>
+      <div class="iptv-header">链接</div>
       <div class="iptv-url-container">
         <a href="${iptvUrl}" class="iptv-url" target="_blank">${iptvUrl}</a>
       </div>
