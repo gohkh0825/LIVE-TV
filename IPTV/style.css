@@ -1,0 +1,116 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.clock {
+  font-size: 4em;
+  font-weight: bold;
+  color: #646cff;
+  text-shadow: 0 0 10px rgba(100, 108, 255, 0.3);
+  background: rgba(255, 255, 255, 0.1);
+  padding: 0.5em 1em;
+  border-radius: 15px;
+  backdrop-filter: blur(5px);
+  margin-bottom: 2rem;
+}
+
+.iptv-container {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+  padding: 1rem;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  flex-wrap: wrap;
+  position: relative;
+}
+
+.iptv-url {
+  flex: 1;
+  padding: 0.8rem;
+  border: 1px solid #646cff;
+  border-radius: 4px;
+  background: rgba(0, 0, 0, 0.2);
+  color: inherit;
+  font-family: monospace;
+  width: 100%;
+  max-width: 400px;
+}
+
+.copy-button {
+  padding: 0.8rem 1.5rem;
+  background: #646cff;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.copy-button:hover {
+  background: #535bf2;
+}
+
+.copy-button.success {
+  background: #22c55e;
+}
+
+.copy-button.error {
+  background: #ef4444;
+}
+
+.copy-feedback {
+  position: absolute;
+  bottom: -1.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 0.875rem;
+  transition: all 0.3s ease;
+}
+
+.copy-feedback.success {
+  color: #22c55e;
+}
+
+.copy-feedback.error {
+  color: #ef4444;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  .clock {
+    background: rgba(0, 0, 0, 0.05);
+  }
+  .iptv-container {
+    background: rgba(0, 0, 0, 0.05);
+  }
+  .iptv-url {
+    background: rgba(255, 255, 255, 0.9);
+    color: #213547;
+  }
+}
