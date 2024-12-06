@@ -1,7 +1,7 @@
 import { copyToClipboard } from './utils/clipboard';
 
 export function setupIPTV(element) {
-  const iptvUrl = 'https://iptv-emw.pages.dev/IPTV.m3u8';
+  const iptvUrl = 'https://iptv-emw.pages.dev/IPTV.m3u';
   
   const copyUrl = () => {
     const success = copyToClipboard(iptvUrl);
