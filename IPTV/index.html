@@ -1,15 +1,13 @@
-    <!--setInterval实时显示时间-->
-<body>
-    <span id="time"></span>
-</body>
-<script>
-    function mytime(){
-        var a = new Date();
-        var b = a.toLocaleTimeString();
-        var c = a.toLocaleDateString();
-        document.getElementById("time").innerHTML = c+"&nbsp"+b;
-        }
-    setInterval(function() {mytime()},1000);
-</script>
-<br></a><a href="https://live-tv.gohkh7.eu.org/LIVE-TV.m3u">https://live-tv.gohkh7.eu.org/LIVE-TV.m3u</a><br></a><a href="https://live-tv.gohkh7.eu.org/LIVE-TV.txt">https://live-tv.gohkh7.eu.org/LIVE-TV.txt</a><br></a><a href="https://live-tv-5b8.pages.dev/LIVE-TV.m3u">https://live-tv-5b8.pages.dev/LIVE-TV.m3u</a><br></a><a href="https://live-tv-5b8.pages.dev/LIVE-TV.txt">https://live-tv-5b8.pages.dev/LIVE-TV.txt</a>
-
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vite App</title>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script type="module" src="/main.js"></script>
+  </body>
+</html>
