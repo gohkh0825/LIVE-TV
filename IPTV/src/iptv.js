@@ -1,5 +1,5 @@
 export function setupIPTV(element) {
-  const iptvUrl = 'https://iptv.gohkh9.us.kg/IPTV.m3u';
+  const iptvUrl = 'https://iptv2.gohkh9.us.kg/IPTV.m3u';
   
   element.innerHTML = `
     <div class="iptv-container">
