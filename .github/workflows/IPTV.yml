@@ -47,7 +47,7 @@ jobs:
        # aqfadtv
         rm -f ./epg/aqfadtv && wget https://aqfadtv.xyz/epg -O ./epg/aqfadtv
        # JandaTV
-        rm -f ./epg/JandaTV && wget https://webproxy.lumiproxy.com/request?area=MY&u=https://tv.jnda.tech/epg -O ./epg/JandaTV
+        rm -f ./epg/JandaTV && wgethttps://webproxy.lumiproxy.com/sencure/13dSL3Wea5vYUDKHU6eav -O ./epg/JandaTV
 
 
 
