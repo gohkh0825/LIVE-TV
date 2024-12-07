@@ -32,7 +32,7 @@ jobs:
         
     - name: JandaTV
       run: |      
-        rm -f ./m3u/1/JandaTV.m3u8 && wget  https://tv.jnda.tech/IGCsU -O ./m3u/1/JandaTV.m3u8
+        rm -f ./m3u/1/JandaTV.m3u8 && wget  https://webproxy.lumiproxy.com/sencure/Xl7RwOT82qQ4FwBqVAiBi -O ./m3u/1/JandaTV.m3u8
         sed -i '/#EXTM3U/d' ./m3u/1/JandaTV.m3u8
         
     
@@ -47,7 +47,7 @@ jobs:
        # aqfadtv
         rm -f ./epg/aqfadtv && wget https://aqfadtv.xyz/epg -O ./epg/aqfadtv
        # JandaTV
-        rm -f ./epg/JandaTV && wget https://tv.jnda.tech/epg -O ./epg/JandaTV
+        rm -f ./epg/JandaTV && wget https://webproxy.lumiproxy.com/request?area=MY&u=https://tv.jnda.tech/epg -O ./epg/JandaTV
 
 
 
