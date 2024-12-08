@@ -82,7 +82,7 @@ jobs:
            cat ./epg/JandaTV >> ./IPTV/epg/epg.xml
            cat ./epg/aqfadtv >> ./IPTV/epg/epg.xml
            cat ./epg/FreeviewMY-EPG-2 >> ./IPTV/epg/FreeviewMY-EPG-1.xml
-           cat ./epg/FreeviewMY-EPG-1 >> ./IPTVepg/FreeviewMY-EPG-1.xml
+           cat ./epg/FreeviewMY-EPG-1 >> ./IPTV/epg/FreeviewMY-EPG-1.xml
            cat ./epg/astro_epg.xml >> ./IPTV/epg/epg.xml
            sed -i '/^\s*$/d' ./IPTV/IPTV.m3u
            sed -i '1i #EXTM3U x-tvg-url="https://gohkh0825.github.io/LIVE-TV/epg/epg.xml,https://gohkh0825.github.io/LIVE-TV/epg/FreeviewMY-EPG-1.xml" refresh="24"' ./IPTV/IPTV.m3u
