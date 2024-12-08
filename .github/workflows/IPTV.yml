@@ -17,38 +17,39 @@ jobs:
       run: echo "::set-output name=date::$(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')"
 
     - name:  MY
-      run: |       
-        rm -f ./m3u/1/my.m3u && wget https://raw.githubusercontent.com/gohkh0825/LIVE-TV/refs/heads/main/m3u/my.m3u -O ./m3u/1/my.m3u
-        sed -i '/#EXTM3U/d' ./m3u/1/my.m3u
-        rm -f ./m3u/1/FreelistenMY.m3u8 && wget https://raw.githubusercontent.com/itszairi/FreeviewMY/refs/heads/main/FreelistenMY.m3u8 -O ./m3u/1/FreelistenMY.m3u8
-        sed -i '/#EXTM3U/d' ./m3u/1/FreelistenMY.m3u8
-        sed -i '/#################### FTA RADIO ####################/d' ./m3u/1/FreelistenMY.m3u8
-        sed -i '/#################### END ####################/d' ./m3u/1/FreelistenMY.m3u8
+      run: |   
+        mkdir m3u
+        wget https://raw.githubusercontent.com/gohkh0825/LIVE-TV/refs/heads/main/m3u/my.m3u -O ./m3u/my.m3u
+        sed -i '/#EXTM3U/d' ./m3u/my.m3u
+        wget https://raw.githubusercontent.com/itszairi/FreeviewMY/refs/heads/main/FreelistenMY.m3u8 -O ./m3u/FreelistenMY.m3u8
+        sed -i '/#EXTM3U/d' ./m3u/FreelistenMY.m3u8
+        sed -i '/#################### FTA RADIO ####################/d' ./m3u/FreelistenMY.m3u8
+        sed -i '/#################### END ####################/d' ./m3u/FreelistenMY.m3u8
          
     - name:  TEST
       run: |      
-        rm -f ./m3u/1/mysg.m3u8 && wget https://raw.githubusercontent.com/alekchg/iptv/refs/heads/main/mysg.txt -O ./m3u/1/mysg.m3u8
-        sed -i '/#EXTM3U/d' ./m3u/1/mysg.m3u8
+        wget https://raw.githubusercontent.com/alekchg/iptv/refs/heads/main/mysg.txt -O ./m3u/mysg.m3u8
+        sed -i '/#EXTM3U/d' ./m3u/mysg.m3u8
         
     - name: JandaTV
       run: |      
-        rm -f ./m3u/1/JandaTV.m3u8 && wget  http://tv.jnda.tech.gohkh7.eu.org/kbUjQ -O ./m3u/1/JandaTV.m3u8
-        sed -i '/#EXTM3U/d' ./m3u/1/JandaTV.m3u8
+        wget  http://tv.jnda.tech.gohkh7.eu.org/kbUjQ -O ./m3u/JandaTV.m3u8
+        sed -i '/#EXTM3U/d' ./m3u/JandaTV.m3u8
 
     - name: allinone
       run: |      
-        rm -f ./m3u/1/allinone-tv.m3u && wget  https://allinone.gohkh9.us.kg/tv.m3u -O ./m3u/1/allinone-tv.m3u
-        sed -i '/#EXTM3U/d' ./m3u/1/allinone-tv.m3u
-        rm -f ./m3u/1/allinone-huyayqk.m3u && wget  https://allinone.gohkh9.us.kg/huyayqk.m3u -O ./m3u/1/allinone-huyayqk.m3u
-        sed -i '/#EXTM3U/d' ./m3u/1/allinone-huyayqk.m3u
-        rm -f ./m3u/1/allinone-bililive.m3u && wget  https://allinone.gohkh9.us.kg/bililive.m3u -O ./m3u/1/allinone-bililive.m3u
-        sed -i '/#EXTM3U/d' ./m3u/1/allinone-bililive.m3u
-        cat ./m3u/1/allinone-tv.m3u >> ./m3u/1/allinone.m3u
-        cat ./m3u/1/allinone-huyayqk.m3u >> ./m3u/1/allinone.m3u
-        cat ./m3u/1/allinone-bililive.m3u >> ./m3u/1/allinone.m3u
-        rm -f ./m3u/1/allinone-tv.m3u
-        rm -f ./m3u/1/allinone-huyayqk.m3u
-        rm -f ./m3u/1/allinone-bililive.m3u
+        wget  https://allinone.gohkh9.us.kg/tv.m3u -O ./m3u/allinone-tv.m3u
+        sed -i '/#EXTM3U/d' ./m3u/allinone-tv.m3u
+        wget  https://allinone.gohkh9.us.kg/huyayqk.m3u -O ./m3u/allinone-huyayqk.m3u
+        sed -i '/#EXTM3U/d' ./m3u/allinone-huyayqk.m3u
+        wget  https://allinone.gohkh9.us.kg/bililive.m3u -O ./m3u/allinone-bililive.m3u
+        sed -i '/#EXTM3U/d' ./m3u/allinone-bililive.m3u
+        cat ./m3u//allinone-tv.m3u >> ./m3u/allinone.m3u
+        cat ./m3u/allinone-huyayqk.m3u >> ./m3u/allinone.m3u
+        cat ./m3u/allinone-bililive.m3u >> ./m3u/allinone.m3u
+        rm -f ./m3u/allinone-tv.m3u
+        rm -f ./m3u/allinone-huyayqk.m3u
+        rm -f ./m3u/allinone-bililive.m3u
         
     
     - name: 节目源
@@ -71,20 +72,20 @@ jobs:
       run: |         
           # 整合源
            rm -f ./IPTV/IPTV.m3u && touch ./IPTV/IPTV.m3u
-           cat ./m3u/1/JandaTV.m3u8 >> ./IPTV/IPTV.m3u
-           cat ./m3u/1/mysg.m3u8 >> ./IPTV/IPTV.m3u
-           cat ./m3u/1/my.m3u >> ./IPTV/IPTV.m3u
-           cat ./m3u/1/allinone.m3u >> ./IPTV/IPTV.m3u
-           cat ./m3u/1/FreelistenMY.m3u8 >> ./IPTV/IPTV.m3u
+           cat ./m3u/JandaTV.m3u8 >> ./IPTV/IPTV.m3u
+           cat ./m3u/mysg.m3u8 >> ./IPTV/IPTV.m3u
+           cat ./m3u/my.m3u >> ./IPTV/IPTV.m3u
+           cat ./m3u/allinone.m3u >> ./IPTV/IPTV.m3u
+           cat ./m3u/FreelistenMY.m3u8 >> ./IPTV/IPTV.m3u
            sed -i '/^\s*$/d' ./IPTV/IPTV.m3u
            sed -i '1i #EXTM3U x-tvg-url="https://gohkh0825.github.io/LIVE-TV/epg/astro_epg.xml,https://gohkh0825.github.io/LIVE-TV/epg/FreeviewMY-EPG-1,https://gohkh0825.github.io/LIVE-TV/epg/FreeviewMY-EPG-2,https://gohkh0825.github.io/LIVE-TV/epg/aqfadtv,https://gohkh0825.github.io/LIVE-TV/epg/JandaTV" refresh="24"' ./IPTV/IPTV.m3u
            echo "Auto Update IPTV in ${{ steps.date.outputs.date }}" > ./IPTV/README.md
            echo "Auto Update IPTV in ${{ steps.date.outputs.date }}" > README.md
-           rm -f ./m3u/1/JandaTV.m3u8
-           rm -f ./m3u/1/mysg.m3u8
-           rm -f ./m3u/1/my.m3u
-           rm -f ./m3u/1/allinone.m3u
-           rm -f ./m3u/1/FreelistenMY.m3u
+           rm -f ./m3u/JandaTV.m3u8
+           rm -f ./m3u/mysg.m3u8
+           rm -f ./m3u/my.m3u
+           rm -f ./m3u/allinone.m3u
+           rm -f ./m3u/FreelistenMY.m3u
 
     - name: Clean
       run: |
