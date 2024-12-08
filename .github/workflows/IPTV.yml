@@ -74,12 +74,17 @@ jobs:
            cat ./m3u/1/JandaTV.m3u8 >> ./IPTV/IPTV.m3u
            cat ./m3u/1/mysg.m3u8 >> ./IPTV/IPTV.m3u
            cat ./m3u/1/my.m3u >> ./IPTV/IPTV.m3u
+           cat ./m3u/1/allinone.m3u >> ./IPTV/IPTV.m3u
            cat ./m3u/1/FreelistenMY.m3u8 >> ./IPTV/IPTV.m3u
            sed -i '/^\s*$/d' ./IPTV/IPTV.m3u
            sed -i '1i #EXTM3U x-tvg-url="https://gohkh0825.github.io/LIVE-TV/epg/astro_epg.xml,https://gohkh0825.github.io/LIVE-TV/epg/FreeviewMY-EPG-1,https://gohkh0825.github.io/LIVE-TV/epg/FreeviewMY-EPG-2,https://gohkh0825.github.io/LIVE-TV/epg/aqfadtv,https://gohkh0825.github.io/LIVE-TV/epg/JandaTV" refresh="24"' ./IPTV/IPTV.m3u
            echo "Auto Update IPTV in ${{ steps.date.outputs.date }}" > ./IPTV/README.md
            echo "Auto Update IPTV in ${{ steps.date.outputs.date }}" > README.md
-       
+           rm -f ./m3u/1/JandaTV.m3u8
+           rm -f ./m3u/1/mysg.m3u8
+           rm -f ./m3u/1/my.m3u
+           rm -f ./m3u/1/allinone.m3u
+           rm -f ./m3u/1/FreelistenMY.m3u
 
     - name: Clean
       run: |
