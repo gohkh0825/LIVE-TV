@@ -34,6 +34,21 @@ jobs:
       run: |      
         rm -f ./m3u/1/JandaTV.m3u8 && wget  http://tv.jnda.tech.gohkh7.eu.org/IGCsU -O ./m3u/1/JandaTV.m3u8
         sed -i '/#EXTM3U/d' ./m3u/1/JandaTV.m3u8
+
+    - name: allinone
+      run: |      
+        rm -f ./m3u/1/allinone-tv.m3u && wget  https://allinone.gohkh9.us.kg/tv.m3u -O ./m3u/1/allinone-tv.m3u
+        sed -i '/#EXTM3U/d' ./m3u/1/allinone-tv.m3u
+        rm -f ./m3u/1/allinone-huyayqk.m3u && wget  https://allinone.gohkh9.us.kg/huyayqk.m3u -O ./m3u/1/allinone-huyayqk.m3u
+        sed -i '/#EXTM3U/d' ./m3u/1/allinone-huyayqk.m3u
+        rm -f ./m3u/1/allinone-bililive.m3u && wget  https://allinone.gohkh9.us.kg/bililive.m3u -O ./m3u/1/allinone-bililive.m3u
+        sed -i '/#EXTM3U/d' ./m3u/1/allinone-bililive.m3u
+        cat ./m3u/1/allinone-tv.m3u >> ./m3u/1/allinone.m3u
+        cat ./m3u/1/allinone-huyayqk.m3u >> ./m3u/1/allinone.m3u
+        cat ./m3u/1/allinone-bililive.m3u >> ./m3u/1/allinone.m3u
+        rm -f ./m3u/1/allinone-tv.m3u
+        rm -f ./m3u/1/allinone-huyayqk.m3u
+        rm -f ./m3u/1/allinone-bililive.m3u
         
     
     - name: 节目源
