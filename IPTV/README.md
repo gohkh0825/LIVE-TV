@@ -1,1 +1,1 @@
-Auto Update IPTV in 2024.12.08LLLLLLLL
+Auto Update IPTV in 2024.12.08
