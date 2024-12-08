@@ -32,7 +32,7 @@ jobs:
         
     - name: JandaTV
       run: |      
-        rm -f ./m3u/1/JandaTV.m3u8 && wget  http://tv.jnda.tech.gohkh7.eu.org/IGCsU -O ./m3u/1/JandaTV.m3u8
+        rm -f ./m3u/1/JandaTV.m3u8 && wget  http://tv.jnda.tech.gohkh7.eu.org/kbUjQ -O ./m3u/1/JandaTV.m3u8
         sed -i '/#EXTM3U/d' ./m3u/1/JandaTV.m3u8
 
     - name: allinone
