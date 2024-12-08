@@ -53,17 +53,18 @@ jobs:
         
     
     - name: 节目源
-      run: |        
+      run: | 
+       mkdir epg
        # astro_epg
-        rm -f ./epg/astro_epg.xml && wget https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml -O ./epg/astro_epg.xml
+        wget https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml -O ./epg/astro_epg.xml
        # FreeviewMY-EPG-1
-        rm -f ./epg/FreeviewMY-EPG-1 && wget https://cutt.ly/FreeviewMY-EPG-1 -O ./epg/FreeviewMY-EPG-1
+        wget https://cutt.ly/FreeviewMY-EPG-1 -O ./epg/FreeviewMY-EPG-1
        # FreeviewMY-EPG-2
-        rm -f ./epg/FreeviewMY-EPG-2 && wget https://cutt.ly/FreeviewMY-EPG-2 -O ./epg/FreeviewMY-EPG-2
+        wget https://cutt.ly/FreeviewMY-EPG-2 -O ./epg/FreeviewMY-EPG-2
        # aqfadtv
-        rm -f ./epg/aqfadtv && wget https://aqfadtv.xyz/epg -O ./epg/aqfadtv
+        wget https://aqfadtv.xyz/epg -O ./epg/aqfadtv
        # JandaTV
-        rm -f ./epg/JandaTV && wget http://tv.jnda.tech.gohkh7.eu.org/epg -O ./epg/JandaTV
+        wget http://tv.jnda.tech.gohkh7.eu.org/epg -O ./epg/JandaTV
 
 
 
@@ -76,9 +77,13 @@ jobs:
            cat ./m3u/mysg.m3u8 >> ./IPTV/IPTV.m3u
            cat ./m3u/my.m3u >> ./IPTV/IPTV.m3u
            cat ./m3u/allinone.m3u >> ./IPTV/IPTV.m3u
-           cat ./m3u/FreelistenMY.m3u8 >> ./IPTV/IPTV.m3u
+           cat ./epg/JandaTV >> ./IPTV/epg/epg
+           cat ./epg/aqfadtv >> ./IPTV/epg/epg
+           cat ./epg/FreeviewMY-EPG-2 >> ./IPTV/epg/FreeviewMY-EPG-1
+           cat ./epg/FreeviewMY-EPG-1 >> ./IPTVepg/FreeviewMY-EPG-1
+           cat ./epg/astro_epg.xml >> ./IPTV/epg/epg
            sed -i '/^\s*$/d' ./IPTV/IPTV.m3u
-           sed -i '1i #EXTM3U x-tvg-url="https://gohkh0825.github.io/LIVE-TV/epg/astro_epg.xml,https://gohkh0825.github.io/LIVE-TV/epg/FreeviewMY-EPG-1,https://gohkh0825.github.io/LIVE-TV/epg/FreeviewMY-EPG-2,https://gohkh0825.github.io/LIVE-TV/epg/aqfadtv,https://gohkh0825.github.io/LIVE-TV/epg/JandaTV" refresh="24"' ./IPTV/IPTV.m3u
+           sed -i '1i #EXTM3U x-tvg-url="https://gohkh0825.github.io/LIVE-TV/epg/epg,https://gohkh0825.github.io/LIVE-TV/epg/FreeviewMY-EPG-1" refresh="24"' ./IPTV/IPTV.m3u
            echo "Auto Update IPTV in ${{ steps.date.outputs.date }}" > ./IPTV/README.md
            echo "Auto Update IPTV in ${{ steps.date.outputs.date }}" > README.md
            rm -f ./m3u/JandaTV.m3u8
@@ -86,6 +91,11 @@ jobs:
            rm -f ./m3u/my.m3u
            rm -f ./m3u/allinone.m3u
            rm -f ./m3u/FreelistenMY.m3u8
+           rm -f ./epg/astro_epg.xml
+           rm -f ./epg/FreeviewMY-EPG-1
+           rm -f ./epg/FreeviewMY-EPG-1
+           rm -f ./epg/JandaTV
+           rm -f ./epg/aqfadtv
 
     - name: Clean
       run: |
