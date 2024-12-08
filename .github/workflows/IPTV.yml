@@ -95,7 +95,7 @@ jobs:
            rm -f ./m3u/FreelistenMY.m3u8
            rm -f ./epg/astro_epg.xml
            rm -f ./epg/FreeviewMY-EPG-1
-           rm -f ./epg/FreeviewMY-EPG-1
+           rm -f ./epg/FreeviewMY-EPG-2
            rm -f ./epg/JandaTV
            rm -f ./epg/aqfadtv
 
