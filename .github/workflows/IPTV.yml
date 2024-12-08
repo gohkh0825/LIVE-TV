@@ -19,7 +19,7 @@ jobs:
     - name:  MY
       run: |   
         mkdir m3u
-        wget https://raw.githubusercontent.com/gohkh0825/LIVE-TV/refs/heads/main/m3u/my.m3u -O ./m3u/my.m3u
+        wget https://raw.githubusercontent.com/gohkh0825/-TV-/refs/heads/main/m3u/my.m3u -O ./m3u/my.m3u
         sed -i '/#EXTM3U/d' ./m3u/my.m3u
         wget https://raw.githubusercontent.com/itszairi/FreeviewMY/refs/heads/main/FreelistenMY.m3u8 -O ./m3u/FreelistenMY.m3u8
         sed -i '/#EXTM3U/d' ./m3u/FreelistenMY.m3u8
