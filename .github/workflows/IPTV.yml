@@ -86,7 +86,7 @@ jobs:
            cat ./epg/FreeviewMY-EPG-1 >> ./IPTV/epg/epg-5.xml
            cat ./epg/astro_epg.xml >> ./IPTV/epg/epg-3.xml
            sed -i '/^\s*$/d' ./IPTV/IPTV.m3u
-           sed -i '1i #EXTM3U x-tvg-url="https://gohkh0825.github.io/LIVE-TV/epg/epg-1.xml,https://gohkh0825.github.io/LIVE-TV/epg/epg-2.xml,https://gohkh0825.github.io/LIVE-TV/epg/epg-3.xml,https://gohkh0825.github.io/LIVE-TV/epg/epg-4.xml,https://gohkh0825.github.io/LIVE-TV/epg/epg-5.xml" refresh="24"' ./IPTV/IPTV.m3u
+           sed -i '1i #EXTM3U x-tvg-url="https://iptv2.gohkh9.us.kg/epg/epg-1.xml,https://iptv2.gohkh9.us.kg/epg/epg-2.xml,https://iptv2.gohkh9.us.kg/epg/epg-3.xml,https://iptv2.gohkh9.us.kg/epg/epg-4.xml,https://iptv2.gohkh9.us.kg/epg/epg-5.xml" refresh="24"' ./IPTV/IPTV.m3u
            echo "Auto Update IPTV in ${{ steps.date.outputs.date }}" > ./IPTV/README.md
            echo "Auto Update IPTV in ${{ steps.date.outputs.date }}" > README.md
            rm -f ./m3u/JandaTV.m3u8
