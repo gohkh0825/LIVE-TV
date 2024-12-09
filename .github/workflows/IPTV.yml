@@ -76,6 +76,7 @@ jobs:
            cat ./m3u/JandaTV.m3u8 >> ./IPTV/IPTV.m3u
            cat ./m3u/mysg.m3u8 >> ./IPTV/IPTV.m3u
            cat ./m3u/my.m3u >> ./IPTV/IPTV.m3u
+           cat ./m3u/FreelistenMY.m3u8 >> ./IPTV/IPTV.m3u
            cat ./m3u/allinone.m3u >> ./IPTV/IPTV.m3u
            rm  -rf IPTV/epg
            mkdir IPTV/epg
