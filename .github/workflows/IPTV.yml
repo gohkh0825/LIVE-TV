@@ -50,6 +50,12 @@ jobs:
         rm -f ./m3u/allinone-tv.m3u
         rm -f ./m3u/allinone-huyayqk.m3u
         rm -f ./m3u/allinone-bililive.m3u
+       
+    - name: singapore 
+      run: |
+           wget https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/refs/heads/main/%2Bchecked%2B/s/singapore.m3u -O ./m3u/singapore.m3u
+           sed -i '/#EXTM3U/d' ./m3u/singapore.m3u
+           sed -i 's/#EXTINF:-1/#EXTINF:-1 group-title="sg Radio"/g' ./m3u/singapore.m3u
         
     
     - name: 节目源
@@ -78,6 +84,7 @@ jobs:
            cat ./m3u/my.m3u >> ./IPTV/IPTV.m3u
            cat ./m3u/FreelistenMY.m3u8 >> ./IPTV/IPTV.m3u
            cat ./m3u/allinone.m3u >> ./IPTV/IPTV.m3u
+           cat ./m3u/singapore.m3u >> ./IPTV/IPTV.m3u
            rm  -rf IPTV/epg
            mkdir IPTV/epg
            cat ./epg/JandaTV >> ./IPTV/epg/epg-4.xml
@@ -89,16 +96,8 @@ jobs:
            sed -i '1i #EXTM3U x-tvg-url="https://iptv2.gohkh9.us.kg/epg/epg-1.xml,https://iptv2.gohkh9.us.kg/epg/epg-2.xml,https://iptv2.gohkh9.us.kg/epg/epg-3.xml,https://iptv2.gohkh9.us.kg/epg/epg-4.xml,https://iptv2.gohkh9.us.kg/epg/epg-5.xml" refresh="24"' ./IPTV/IPTV.m3u
            echo "Auto Update IPTV in ${{ steps.date.outputs.date }}" > ./IPTV/README.md
            echo "Auto Update IPTV in ${{ steps.date.outputs.date }}" > README.md
-           rm -f ./m3u/JandaTV.m3u8
-           rm -f ./m3u/mysg.m3u8
-           rm -f ./m3u/my.m3u
-           rm -f ./m3u/allinone.m3u
-           rm -f ./m3u/FreelistenMY.m3u8
-           rm -f ./epg/astro_epg.xml
-           rm -f ./epg/FreeviewMY-EPG-1
-           rm -f ./epg/FreeviewMY-EPG-2
-           rm -f ./epg/JandaTV
-           rm -f ./epg/aqfadtv
+           rm  -rf m3u
+           rm  -rf epg
 
     - name: Clean
       run: |
